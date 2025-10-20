@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: 5e7c957d2c681418486ddc70368581d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8229126145196665858
+    second: PC _ Computer - Celeste - User Interface - Save Icon_0
+  - first:
+      213: 8964618031660669361
+    second: PC _ Computer - Celeste - User Interface - Save Icon_1
+  - first:
+      213: -6918650828239620054
+    second: PC _ Computer - Celeste - User Interface - Save Icon_2
+  - first:
+      213: -1211060199547448096
+    second: PC _ Computer - Celeste - User Interface - Save Icon_3
+  - first:
+      213: 8775052128369364531
+    second: PC _ Computer - Celeste - User Interface - Save Icon_4
+  - first:
+      213: -2491434465254696061
+    second: PC _ Computer - Celeste - User Interface - Save Icon_5
+  - first:
+      213: -8159243156915191454
+    second: PC _ Computer - Celeste - User Interface - Save Icon_6
+  - first:
+      213: -3012428844818459802
+    second: PC _ Computer - Celeste - User Interface - Save Icon_7
+  - first:
+      213: 413413481807842725
+    second: PC _ Computer - Celeste - User Interface - Save Icon_8
+  - first:
+      213: -1390726616829921238
+    second: PC _ Computer - Celeste - User Interface - Save Icon_9
+  - first:
+      213: -416325617424751329
+    second: PC _ Computer - Celeste - User Interface - Save Icon_10
+  - first:
+      213: -1362778529582327658
+    second: PC _ Computer - Celeste - User Interface - Save Icon_11
+  - first:
+      213: 8126815171849578400
+    second: PC _ Computer - Celeste - User Interface - Save Icon_12
+  - first:
+      213: 6620760849436566748
+    second: PC _ Computer - Celeste - User Interface - Save Icon_13
+  - first:
+      213: -7303633273706345594
+    second: PC _ Computer - Celeste - User Interface - Save Icon_14
+  - first:
+      213: 3517016305777396414
+    second: PC _ Computer - Celeste - User Interface - Save Icon_15
+  - first:
+      213: -3597908488596163046
+    second: PC _ Computer - Celeste - User Interface - Save Icon_16
+  - first:
+      213: 4093839590530442348
+    second: PC _ Computer - Celeste - User Interface - Save Icon_17
+  - first:
+      213: 6734826714396963652
+    second: PC _ Computer - Celeste - User Interface - Save Icon_18
+  - first:
+      213: 7903602216087374960
+    second: PC _ Computer - Celeste - User Interface - Save Icon_19
+  - first:
+      213: -1715346096488748949
+    second: PC _ Computer - Celeste - User Interface - Save Icon_20
+  - first:
+      213: 5158793110810586278
+    second: PC _ Computer - Celeste - User Interface - Save Icon_21
+  - first:
+      213: -8040234276933066756
+    second: PC _ Computer - Celeste - User Interface - Save Icon_22
+  - first:
+      213: -5975418551352705465
+    second: PC _ Computer - Celeste - User Interface - Save Icon_23
+  - first:
+      213: -7977200622325456852
+    second: PC _ Computer - Celeste - User Interface - Save Icon_24
+  - first:
+      213: -1089246924819035560
+    second: PC _ Computer - Celeste - User Interface - Save Icon_25
+  - first:
+      213: -8255467193743058206
+    second: PC _ Computer - Celeste - User Interface - Save Icon_26
+  - first:
+      213: 3141818876665913052
+    second: PC _ Computer - Celeste - User Interface - Save Icon_27
+  - first:
+      213: 8747921442801357681
+    second: PC _ Computer - Celeste - User Interface - Save Icon_28
+  - first:
+      213: 8769099134437260929
+    second: PC _ Computer - Celeste - User Interface - Save Icon_29
+  - first:
+      213: 5217878560479714306
+    second: PC _ Computer - Celeste - User Interface - Save Icon_30
+  - first:
+      213: -860209808504165581
+    second: PC _ Computer - Celeste - User Interface - Save Icon_31
+  - first:
+      213: 17189223703645570
+    second: PC _ Computer - Celeste - User Interface - Save Icon_32
+  - first:
+      213: -6349387912897369103
+    second: PC _ Computer - Celeste - User Interface - Save Icon_33
+  - first:
+      213: 2521321312486096119
+    second: PC _ Computer - Celeste - User Interface - Save Icon_34
+  - first:
+      213: 7672871196961210856
+    second: PC _ Computer - Celeste - User Interface - Save Icon_35
+  - first:
+      213: 8783756394717839934
+    second: PC _ Computer - Celeste - User Interface - Save Icon_36
+  - first:
+      213: 4338131180946681184
+    second: PC _ Computer - Celeste - User Interface - Save Icon_37
+  - first:
+      213: -7142283027588731686
+    second: PC _ Computer - Celeste - User Interface - Save Icon_38
+  - first:
+      213: 6062444041537440024
+    second: PC _ Computer - Celeste - User Interface - Save Icon_39
+  - first:
+      213: -8901870147918029734
+    second: PC _ Computer - Celeste - User Interface - Save Icon_40
+  - first:
+      213: 1961941406202987462
+    second: PC _ Computer - Celeste - User Interface - Save Icon_41
+  - first:
+      213: 8005432284159636584
+    second: PC _ Computer - Celeste - User Interface - Save Icon_42
+  - first:
+      213: 3120393326678683381
+    second: PC _ Computer - Celeste - User Interface - Save Icon_43
+  - first:
+      213: 3218858271089802875
+    second: PC _ Computer - Celeste - User Interface - Save Icon_44
+  - first:
+      213: -6032587273861212097
+    second: PC _ Computer - Celeste - User Interface - Save Icon_45
+  - first:
+      213: -6723928965535022264
+    second: PC _ Computer - Celeste - User Interface - Save Icon_46
+  - first:
+      213: 153908716881216978
+    second: PC _ Computer - Celeste - User Interface - Save Icon_47
+  - first:
+      213: 7013533743492655244
+    second: PC _ Computer - Celeste - User Interface - Save Icon_48
+  - first:
+      213: 2022434435329150111
+    second: PC _ Computer - Celeste - User Interface - Save Icon_49
+  - first:
+      213: -1609420752947177809
+    second: PC _ Computer - Celeste - User Interface - Save Icon_50
+  - first:
+      213: -2156128326071510525
+    second: PC _ Computer - Celeste - User Interface - Save Icon_51
+  - first:
+      213: 2812003082433882699
+    second: PC _ Computer - Celeste - User Interface - Save Icon_52
+  - first:
+      213: -6307434761637246008
+    second: PC _ Computer - Celeste - User Interface - Save Icon_53
+  - first:
+      213: 5357911149033505843
+    second: PC _ Computer - Celeste - User Interface - Save Icon_54
+  - first:
+      213: -1968050937441817215
+    second: PC _ Computer - Celeste - User Interface - Save Icon_55
+  - first:
+      213: 1849393128080805620
+    second: PC _ Computer - Celeste - User Interface - Save Icon_56
+  - first:
+      213: 435053075382936590
+    second: PC _ Computer - Celeste - User Interface - Save Icon_57
+  - first:
+      213: 3214886529985379193
+    second: PC _ Computer - Celeste - User Interface - Save Icon_58
+  - first:
+      213: -136141233518570947
+    second: PC _ Computer - Celeste - User Interface - Save Icon_59
+  - first:
+      213: -1607945327952484466
+    second: PC _ Computer - Celeste - User Interface - Save Icon_60
+  - first:
+      213: -7005773857527101310
+    second: PC _ Computer - Celeste - User Interface - Save Icon_61
+  - first:
+      213: 1473689981437963270
+    second: PC _ Computer - Celeste - User Interface - Save Icon_62
+  - first:
+      213: 8253479773181813693
+    second: PC _ Computer - Celeste - User Interface - Save Icon_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 793
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ca35811aab33270800000000000000
+      internalID: 8229126145196665858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 780
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9123c6a98b86c70800000000000000
+      internalID: 8964618031660669361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 686
+        width: 137
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28b0d17ab30cff90800000000000000
+      internalID: -6918650828239620054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 682
+        width: 144
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e45c5c3a23713fe0800000000000000
+      internalID: -1211060199547448096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_4
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 667
+        width: 166
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ecdf42b6f37c970800000000000000
+      internalID: 8775052128369364531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_5
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 671
+        width: 126
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b1455dd85ac6dd0800000000000000
+      internalID: -2491434465254696061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_6
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 769
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261880c049b84ce80800000000000000
+      internalID: -8159243156915191454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_7
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 680
+        width: 137
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66394791de3b136d0800000000000000
+      internalID: -3012428844818459802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_8
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 821
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad83801f5dbcb500800000000000000
+      internalID: 413413481807842725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 721
+        width: 70
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28fb28a28523bce0800000000000000
+      internalID: -1390726616829921238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 723
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15a0868e0ae83af0800000000000000
+      internalID: -416325617424751329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 740
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69857bcc520761de0800000000000000
+      internalID: -1362778529582327658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_12
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 730
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a76951575f38c070800000000000000
+      internalID: 8126815171849578400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_13
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 730
+        width: 14
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4ea7d0aeaa1eb50800000000000000
+      internalID: 6620760849436566748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_14
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 706
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b820fdb3844aa90800000000000000
+      internalID: -7303633273706345594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 705
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba4e1732b3fec030800000000000000
+      internalID: 3517016305777396414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_16
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 681
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16fcdaca49a11ec0800000000000000
+      internalID: -3597908488596163046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_17
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 677
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c646ff0ea6d30d830800000000000000
+      internalID: 4093839590530442348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_18
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 680
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443317fc639e67d50800000000000000
+      internalID: 6734826714396963652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_19
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 673
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cc0e7275c3fad60800000000000000
+      internalID: 7903602216087374960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 481
+        width: 153
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b686fe340ddd138e0800000000000000
+      internalID: -1715346096488748949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 511
+        width: 170
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ace8977007b79740800000000000000
+      internalID: 5158793110810586278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_22
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 538
+        width: 185
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff1c7c26895b6090800000000000000
+      internalID: -8040234276933066756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_23
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 583
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74eb7569c7c031da0800000000000000
+      internalID: -5975418551352705465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_24
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 588
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20244c8c4a4b4190800000000000000
+      internalID: -7977200622325456852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_25
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 586
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a897561b732e0f0800000000000000
+      internalID: -1089246924819035560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_26
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 533
+        width: 136
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eadd0e9350be6d80800000000000000
+      internalID: -8255467193743058206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_27
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 546
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cded94c4f9bf99b20800000000000000
+      internalID: 3141818876665913052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_28
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 541
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1739239243cd66970800000000000000
+      internalID: 8747921442801357681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_29
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 557
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e715cb33912b970800000000000000
+      internalID: 8769099134437260929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_30
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 530
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c158eb7e0a96840800000000000000
+      internalID: 5217878560479714306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_31
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 527
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b6dcb9cbbef04f0800000000000000
+      internalID: -860209808504165581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_32
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 532
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d02d402811d3000800000000000000
+      internalID: 17189223703645570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_33
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 526
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbe79e655172e7a0800000000000000
+      internalID: -6349387912897369103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_34
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 373
+        width: 108
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcfa5b00688df220800000000000000
+      internalID: 2521321312486096119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_35
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 467
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1033673b38b7a60800000000000000
+      internalID: 7672871196961210856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 467
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3209b417eb26e970800000000000000
+      internalID: 8783756394717839934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_37
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 467
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d6f5d1353243c30800000000000000
+      internalID: 4338131180946681184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_38
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 467
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adca5478d6381ec90800000000000000
+      internalID: -7142283027588731686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_39
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 462
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819c58e4cb0222450800000000000000
+      internalID: 6062444041537440024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_40
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 467
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c11bcb344367480800000000000000
+      internalID: -8901870147918029734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_41
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 467
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c30cda60573a3b10800000000000000
+      internalID: 1961941406202987462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_42
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 476
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86477c27f32091f60800000000000000
+      internalID: 8005432284159636584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_43
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 247
+        width: 340
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5feae24b23ddd4b20800000000000000
+      internalID: 3120393326678683381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_44
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 456
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7eb2a61b8eabac20800000000000000
+      internalID: 3218858271089802875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_45
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 467
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38d5f026d1f74ca0800000000000000
+      internalID: -6032587273861212097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_46
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 432
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84343521b3ecfa2a0800000000000000
+      internalID: -6723928965535022264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_47
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 408
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d58a8d992bc22200800000000000000
+      internalID: 153908716881216978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_48
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 391
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c886819c7c3155160800000000000000
+      internalID: 7013533743492655244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_49
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 321
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ccf435761211c10800000000000000
+      internalID: 2022434435329150111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_50
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 321
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6117e2a503aa9e0800000000000000
+      internalID: -1609420752947177809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_51
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 321
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a995a06b4e312e0800000000000000
+      internalID: -2156128326071510525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_52
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 321
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a66c3a7ed360720800000000000000
+      internalID: 2812003082433882699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_53
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 321
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb49a4a08d7778a0800000000000000
+      internalID: -6307434761637246008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_54
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 321
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3344f387dcf1b5a40800000000000000
+      internalID: 5357911149033505843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_55
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 328
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18de7ed791410b4e0800000000000000
+      internalID: -1968050937441817215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_56
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 321
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe0e41604d5aa910800000000000000
+      internalID: 1849393128080805620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 133
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0424a0977e990600800000000000000
+      internalID: 435053075382936590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_58
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 143
+        width: 134
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b77fc04429d9c20800000000000000
+      internalID: 3214886529985379193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_59
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 144
+        width: 134
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3297d8f4445c1ef0800000000000000
+      internalID: -136141233518570947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_60
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 146
+        width: 134
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87a4255e3e6fa9e0800000000000000
+      internalID: -1607945327952484466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_61
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 294
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28801657bcd76ce90800000000000000
+      internalID: -7005773857527101310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_62
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 144
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c69acea39937410800000000000000
+      internalID: 1473689981437963270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Save Icon_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 574
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3af59ff104a8270800000000000000
+      internalID: 8253479773181813693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Celeste - User Interface - Save Icon_0: 8229126145196665858
+      PC _ Computer - Celeste - User Interface - Save Icon_1: 8964618031660669361
+      PC _ Computer - Celeste - User Interface - Save Icon_10: -416325617424751329
+      PC _ Computer - Celeste - User Interface - Save Icon_11: -1362778529582327658
+      PC _ Computer - Celeste - User Interface - Save Icon_12: 8126815171849578400
+      PC _ Computer - Celeste - User Interface - Save Icon_13: 6620760849436566748
+      PC _ Computer - Celeste - User Interface - Save Icon_14: -7303633273706345594
+      PC _ Computer - Celeste - User Interface - Save Icon_15: 3517016305777396414
+      PC _ Computer - Celeste - User Interface - Save Icon_16: -3597908488596163046
+      PC _ Computer - Celeste - User Interface - Save Icon_17: 4093839590530442348
+      PC _ Computer - Celeste - User Interface - Save Icon_18: 6734826714396963652
+      PC _ Computer - Celeste - User Interface - Save Icon_19: 7903602216087374960
+      PC _ Computer - Celeste - User Interface - Save Icon_2: -6918650828239620054
+      PC _ Computer - Celeste - User Interface - Save Icon_20: -1715346096488748949
+      PC _ Computer - Celeste - User Interface - Save Icon_21: 5158793110810586278
+      PC _ Computer - Celeste - User Interface - Save Icon_22: -8040234276933066756
+      PC _ Computer - Celeste - User Interface - Save Icon_23: -5975418551352705465
+      PC _ Computer - Celeste - User Interface - Save Icon_24: -7977200622325456852
+      PC _ Computer - Celeste - User Interface - Save Icon_25: -1089246924819035560
+      PC _ Computer - Celeste - User Interface - Save Icon_26: -8255467193743058206
+      PC _ Computer - Celeste - User Interface - Save Icon_27: 3141818876665913052
+      PC _ Computer - Celeste - User Interface - Save Icon_28: 8747921442801357681
+      PC _ Computer - Celeste - User Interface - Save Icon_29: 8769099134437260929
+      PC _ Computer - Celeste - User Interface - Save Icon_3: -1211060199547448096
+      PC _ Computer - Celeste - User Interface - Save Icon_30: 5217878560479714306
+      PC _ Computer - Celeste - User Interface - Save Icon_31: -860209808504165581
+      PC _ Computer - Celeste - User Interface - Save Icon_32: 17189223703645570
+      PC _ Computer - Celeste - User Interface - Save Icon_33: -6349387912897369103
+      PC _ Computer - Celeste - User Interface - Save Icon_34: 2521321312486096119
+      PC _ Computer - Celeste - User Interface - Save Icon_35: 7672871196961210856
+      PC _ Computer - Celeste - User Interface - Save Icon_36: 8783756394717839934
+      PC _ Computer - Celeste - User Interface - Save Icon_37: 4338131180946681184
+      PC _ Computer - Celeste - User Interface - Save Icon_38: -7142283027588731686
+      PC _ Computer - Celeste - User Interface - Save Icon_39: 6062444041537440024
+      PC _ Computer - Celeste - User Interface - Save Icon_4: 8775052128369364531
+      PC _ Computer - Celeste - User Interface - Save Icon_40: -8901870147918029734
+      PC _ Computer - Celeste - User Interface - Save Icon_41: 1961941406202987462
+      PC _ Computer - Celeste - User Interface - Save Icon_42: 8005432284159636584
+      PC _ Computer - Celeste - User Interface - Save Icon_43: 3120393326678683381
+      PC _ Computer - Celeste - User Interface - Save Icon_44: 3218858271089802875
+      PC _ Computer - Celeste - User Interface - Save Icon_45: -6032587273861212097
+      PC _ Computer - Celeste - User Interface - Save Icon_46: -6723928965535022264
+      PC _ Computer - Celeste - User Interface - Save Icon_47: 153908716881216978
+      PC _ Computer - Celeste - User Interface - Save Icon_48: 7013533743492655244
+      PC _ Computer - Celeste - User Interface - Save Icon_49: 2022434435329150111
+      PC _ Computer - Celeste - User Interface - Save Icon_5: -2491434465254696061
+      PC _ Computer - Celeste - User Interface - Save Icon_50: -1609420752947177809
+      PC _ Computer - Celeste - User Interface - Save Icon_51: -2156128326071510525
+      PC _ Computer - Celeste - User Interface - Save Icon_52: 2812003082433882699
+      PC _ Computer - Celeste - User Interface - Save Icon_53: -6307434761637246008
+      PC _ Computer - Celeste - User Interface - Save Icon_54: 5357911149033505843
+      PC _ Computer - Celeste - User Interface - Save Icon_55: -1968050937441817215
+      PC _ Computer - Celeste - User Interface - Save Icon_56: 1849393128080805620
+      PC _ Computer - Celeste - User Interface - Save Icon_57: 435053075382936590
+      PC _ Computer - Celeste - User Interface - Save Icon_58: 3214886529985379193
+      PC _ Computer - Celeste - User Interface - Save Icon_59: -136141233518570947
+      PC _ Computer - Celeste - User Interface - Save Icon_6: -8159243156915191454
+      PC _ Computer - Celeste - User Interface - Save Icon_60: -1607945327952484466
+      PC _ Computer - Celeste - User Interface - Save Icon_61: -7005773857527101310
+      PC _ Computer - Celeste - User Interface - Save Icon_62: 1473689981437963270
+      PC _ Computer - Celeste - User Interface - Save Icon_63: 8253479773181813693
+      PC _ Computer - Celeste - User Interface - Save Icon_7: -3012428844818459802
+      PC _ Computer - Celeste - User Interface - Save Icon_8: 413413481807842725
+      PC _ Computer - Celeste - User Interface - Save Icon_9: -1390726616829921238
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

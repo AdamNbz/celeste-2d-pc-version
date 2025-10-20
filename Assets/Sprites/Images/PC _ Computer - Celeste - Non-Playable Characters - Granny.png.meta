@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: a7696994004724ee09260cf365d2de34
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7051696929934269191
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_0
+  - first:
+      213: 2574005602309734217
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_1
+  - first:
+      213: 1832880145567802476
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_2
+  - first:
+      213: 8349226412336808746
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_3
+  - first:
+      213: -5331330428127598631
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_4
+  - first:
+      213: 1244431088629581085
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_5
+  - first:
+      213: -8053302963920715456
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_6
+  - first:
+      213: 698972738753031612
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_7
+  - first:
+      213: -8777785240304440663
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_8
+  - first:
+      213: -3802460873884114098
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_9
+  - first:
+      213: -1290697707331804105
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_10
+  - first:
+      213: 7145359451414069957
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_11
+  - first:
+      213: 7547426085041470229
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_12
+  - first:
+      213: 2396706370038647049
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_13
+  - first:
+      213: -5725203307867631788
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_14
+  - first:
+      213: -428191235561356326
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_15
+  - first:
+      213: -7487835091619068576
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_16
+  - first:
+      213: -4905812600605945337
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_17
+  - first:
+      213: 7809091142100138026
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_18
+  - first:
+      213: -5392005549951335737
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_19
+  - first:
+      213: -671885558025728541
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_20
+  - first:
+      213: 7729696525097273298
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_21
+  - first:
+      213: 2775613960984745684
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_22
+  - first:
+      213: 1161584205237803820
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_23
+  - first:
+      213: 8685756294300811731
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_24
+  - first:
+      213: 2005099986538203306
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_25
+  - first:
+      213: -2068081536027275927
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_26
+  - first:
+      213: 2925513433778398403
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_27
+  - first:
+      213: 6563520564292307905
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_28
+  - first:
+      213: 6850968519842193787
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_29
+  - first:
+      213: 6462826172615434292
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_30
+  - first:
+      213: 6821125345284737295
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_31
+  - first:
+      213: 8522421148872437920
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_32
+  - first:
+      213: -7893843940208920953
+    second: PC _ Computer - Celeste - Non-Playable Characters - Granny_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 225
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bd17c0ff8acd160800000000000000
+      internalID: 7051696929934269191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_1
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 307
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f79872574b8b320800000000000000
+      internalID: 2574005602309734217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 295
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c646f6808c2bf6910800000000000000
+      internalID: 1832880145567802476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 295
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305a89f296ed370800000000000000
+      internalID: 8349226412336808746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_4
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 295
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d72933e83f4306b0800000000000000
+      internalID: -5331330428127598631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 295
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1508395b7b154110800000000000000
+      internalID: 1244431088629581085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_6
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 150
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041c7ee5f9bec3090800000000000000
+      internalID: -8053302963920715456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 154
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd6e09a00043b900800000000000000
+      internalID: 698972738753031612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_8
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 154
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaacf4a4da0f2680800000000000000
+      internalID: -8777785240304440663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_9
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 154
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43e0d34bf1fa3bc0800000000000000
+      internalID: -3802460873884114098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_10
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 154
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734a31a0645861ee0800000000000000
+      internalID: -1290697707331804105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 154
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c20406309a692360800000000000000
+      internalID: 7145359451414069957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_12
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 41
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bf96f4908ddb860800000000000000
+      internalID: 7547426085041470229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 41
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909c119cebfc24120800000000000000
+      internalID: 2396706370038647049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_14
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 41
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f88a7ccedfb80b0800000000000000
+      internalID: -5725203307867631788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_15
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 23
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad30e640752ce0af0800000000000000
+      internalID: -428191235561356326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065475b08add51890800000000000000
+      internalID: -7487835091619068576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7025f3e8e6d0bebb0800000000000000
+      internalID: -4905812600605945337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_18
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 4
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a283787f4077f5c60800000000000000
+      internalID: 7809091142100138026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_19
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 5
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c24738358fbb25b0800000000000000
+      internalID: -5392005549951335737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_20
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 6
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed492015abfca6f0800000000000000
+      internalID: -671885558025728541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 7
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d78eff2906654b60800000000000000
+      internalID: 7729696525097273298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d65c121136f48620800000000000000
+      internalID: 2775613960984745684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_23
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b57e92ea6ce1010800000000000000
+      internalID: 1161584205237803820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 12
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1c96f94510a8870800000000000000
+      internalID: 8685756294300811731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_25
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 12
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa800c470db83db10800000000000000
+      internalID: 2005099986538203306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_26
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 9
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dcc86dcc2bc43e0800000000000000
+      internalID: -2068081536027275927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_27
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 10
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4aefdc7f2899820800000000000000
+      internalID: 2925513433778398403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_28
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 12
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb4d9e9d2f461b50800000000000000
+      internalID: 6563520564292307905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_29
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 12
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71e3902297831f50800000000000000
+      internalID: 6850968519842193787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43027d7992290b950800000000000000
+      internalID: 6462826172615434292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_31
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f094c169c5189ae50800000000000000
+      internalID: 6821125345284737295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_32
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a071d491e8b54670800000000000000
+      internalID: 8522421148872437920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Non-Playable Characters - Granny_33
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7863a7f72ce637290800000000000000
+      internalID: -7893843940208920953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_0: 7051696929934269191
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_1: 2574005602309734217
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_10: -1290697707331804105
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_11: 7145359451414069957
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_12: 7547426085041470229
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_13: 2396706370038647049
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_14: -5725203307867631788
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_15: -428191235561356326
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_16: -7487835091619068576
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_17: -4905812600605945337
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_18: 7809091142100138026
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_19: -5392005549951335737
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_2: 1832880145567802476
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_20: -671885558025728541
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_21: 7729696525097273298
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_22: 2775613960984745684
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_23: 1161584205237803820
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_24: 8685756294300811731
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_25: 2005099986538203306
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_26: -2068081536027275927
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_27: 2925513433778398403
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_28: 6563520564292307905
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_29: 6850968519842193787
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_3: 8349226412336808746
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_30: 6462826172615434292
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_31: 6821125345284737295
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_32: 8522421148872437920
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_33: -7893843940208920953
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_4: -5331330428127598631
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_5: 1244431088629581085
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_6: -8053302963920715456
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_7: 698972738753031612
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_8: -8777785240304440663
+      PC _ Computer - Celeste - Non-Playable Characters - Granny_9: -3802460873884114098
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
