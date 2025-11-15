@@ -1,0 +1,29 @@
+using UnityEngine;
+
+public class Idle : PlayerState
+{
+    public Idle(PlayerController playerController) : base(playerController)
+    {
+        Enter();
+    }
+
+    public override void Enter()
+    {
+        
+    }
+
+    public override void Exit()
+    {
+        
+    }
+
+    public override void FixedUpdate()
+    {
+        Debug.Log("Idle FixedUpdate");
+    }
+
+    public override void Update()
+    {
+        
+    }
+}
