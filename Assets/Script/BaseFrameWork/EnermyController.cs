@@ -1,23 +1,18 @@
+﻿using Enermy_State;
 using UnityEngine;
-using Player_State;
-public class PlayerController : MonoBehaviour
+public class EnermyController: MonoBehaviour
 {
-    PlayerState state;
+    EnermyState state;
     Animator animator;
-    int MoveStrength
-    {
-        get { return animator.GetInteger("MoveStrength"); } 
-        set { animator.SetInteger("MoveStrength", value); }
-    }
     private void Awake()
     {
         animator = GetComponent<Animator>();
-        SetState(new Idle(this));
+        //SetState(new Idle(this));//set default state here exmaple for idle here
     }
 
     private void Update()
     {
-        if(state != null)
+        if (state != null)
         {
             state.Update();
         }
@@ -29,10 +24,10 @@ public class PlayerController : MonoBehaviour
             state.FixedUpdate();
         }
     }
-    
-    public void SetState(PlayerState newState)
+
+    public void SetState(EnermyState newState)
     {
-        if(state != null)
+        if (state != null)
         {
             newState.prevState = state;
             state.Exit();
@@ -40,5 +35,5 @@ public class PlayerController : MonoBehaviour
         state = newState;
         state.Enter();
     }
-    // Can Aplly Control Hear Or In The State
+    //apply control here or in the state
 }

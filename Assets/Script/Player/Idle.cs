@@ -1,29 +1,31 @@
 using UnityEngine;
 
-public class Idle : PlayerState
+namespace Player_State
 {
-    public Idle(PlayerController playerController) : base(playerController)
+    public class Idle : PlayerState
     {
-        Enter();
-    }
+        public Idle(PlayerController playerController) : base(playerController)
+        {
+        }
 
-    public override void Enter()
-    {
-        
-    }
+        public override void Enter()
+        {
 
-    public override void Exit()
-    {
-        
-    }
+        }
 
-    public override void FixedUpdate()
-    {
-        Debug.Log("Idle FixedUpdate"+" "+GetStateName());
-    }
+        public override void Exit()
+        {
 
-    public override void Update()
-    {
-        
+        }
+
+        public override void FixedUpdate()
+        {
+            Debug.Log("Idle FixedUpdate" + " " + GetStateName());
+        }
+
+        public override void Update()
+        {
+
+        }
     }
 }
