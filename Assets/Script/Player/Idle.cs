@@ -19,7 +19,7 @@ public class Idle : PlayerState
 
     public override void FixedUpdate()
     {
-        Debug.Log("Idle FixedUpdate");
+        Debug.Log("Idle FixedUpdate"+" "+GetStateName());
     }
 
     public override void Update()

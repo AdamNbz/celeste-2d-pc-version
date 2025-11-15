@@ -34,6 +34,7 @@ public class PlayerController : MonoBehaviour
     {
         if(state != null)
         {
+            newState.prevState = state;
             state.Exit();
         }
         state = newState;

@@ -9,7 +9,11 @@ public abstract class PlayerState : State
     {
         this.playerController = playerController;
     }
-
+    public PlayerState prevState;
+    public string GetStateName()
+    {
+        return this.GetType().Name;
+    }
     abstract public void Enter();
 
     abstract public void Exit();
