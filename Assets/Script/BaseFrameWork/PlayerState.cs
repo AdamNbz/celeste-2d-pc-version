@@ -22,5 +22,5 @@ namespace Player_State
         abstract public void FixedUpdate();
 
         abstract public void Update();
-    }
+    }   
 }

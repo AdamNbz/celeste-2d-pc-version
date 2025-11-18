@@ -4,6 +4,8 @@ public class EnermyController: MonoBehaviour
 {
     EnermyState state;
     Animator animator;
+    EnermyState nextState;
+
     private void Awake()
     {
         animator = GetComponent<Animator>();
@@ -19,6 +21,17 @@ public class EnermyController: MonoBehaviour
     }
     private void FixedUpdate()
     {
+        if (nextState != state && nextState != null)//do this for only one enter exit once per frame
+        {
+            state.Exit();
+            nextState.prevState = state;
+            state = nextState;
+            state.Enter();
+        }
+        else
+        {
+            Debug.Log("Next state is null");
+        }
         if (state != null)
         {
             state.FixedUpdate();
@@ -29,11 +42,13 @@ public class EnermyController: MonoBehaviour
     {
         if (state != null)
         {
-            newState.prevState = state;
-            state.Exit();
+            nextState = newState;
         }
-        state = newState;
-        state.Enter();
+        else
+        {
+            state = newState;
+            state.Enter();
+        }
     }
     //apply control here or in the state
 }

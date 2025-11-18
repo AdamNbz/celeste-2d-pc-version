@@ -52,6 +52,8 @@ namespace Player_State
         }
     }
 }
+*Important:
+  - the higher priority state must be handle the last for the animator and state set and cannot be override
 Guide for Object Pooling Framework:
 1. Overview
 -This framework provides a way to manage object pooling in your application.
