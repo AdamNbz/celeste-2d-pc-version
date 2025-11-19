@@ -1,0 +1,6279 @@
+fileFormatVersion: 2
+guid: d971ec7cebc963848ab5517a87e0f579
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8586778397367772902
+    second: PC _ Computer - Celeste - Character Portraits - Theo_0
+  - first:
+      213: 8324616828567417885
+    second: PC _ Computer - Celeste - Character Portraits - Theo_1
+  - first:
+      213: -1521998979551112670
+    second: PC _ Computer - Celeste - Character Portraits - Theo_2
+  - first:
+      213: -8610119850340412732
+    second: PC _ Computer - Celeste - Character Portraits - Theo_3
+  - first:
+      213: 5780820333746637457
+    second: PC _ Computer - Celeste - Character Portraits - Theo_4
+  - first:
+      213: 1896563388502327218
+    second: PC _ Computer - Celeste - Character Portraits - Theo_5
+  - first:
+      213: 8744670107423430437
+    second: PC _ Computer - Celeste - Character Portraits - Theo_6
+  - first:
+      213: 8381588518759506600
+    second: PC _ Computer - Celeste - Character Portraits - Theo_7
+  - first:
+      213: -3522953488044645978
+    second: PC _ Computer - Celeste - Character Portraits - Theo_8
+  - first:
+      213: -5226900290231896806
+    second: PC _ Computer - Celeste - Character Portraits - Theo_9
+  - first:
+      213: 1485764578342351174
+    second: PC _ Computer - Celeste - Character Portraits - Theo_10
+  - first:
+      213: 2901731135473777130
+    second: PC _ Computer - Celeste - Character Portraits - Theo_11
+  - first:
+      213: 4596817222718008977
+    second: PC _ Computer - Celeste - Character Portraits - Theo_12
+  - first:
+      213: 3384408934255392164
+    second: PC _ Computer - Celeste - Character Portraits - Theo_13
+  - first:
+      213: -8157974788602846507
+    second: PC _ Computer - Celeste - Character Portraits - Theo_14
+  - first:
+      213: -2049045461914780877
+    second: PC _ Computer - Celeste - Character Portraits - Theo_15
+  - first:
+      213: 2950573167994403502
+    second: PC _ Computer - Celeste - Character Portraits - Theo_16
+  - first:
+      213: 519109139316801445
+    second: PC _ Computer - Celeste - Character Portraits - Theo_17
+  - first:
+      213: -907182247458405135
+    second: PC _ Computer - Celeste - Character Portraits - Theo_18
+  - first:
+      213: -4406452422905728602
+    second: PC _ Computer - Celeste - Character Portraits - Theo_19
+  - first:
+      213: -8925916671045994595
+    second: PC _ Computer - Celeste - Character Portraits - Theo_20
+  - first:
+      213: -8616221998881974295
+    second: PC _ Computer - Celeste - Character Portraits - Theo_21
+  - first:
+      213: -9106279107838600324
+    second: PC _ Computer - Celeste - Character Portraits - Theo_22
+  - first:
+      213: 5849834687022418251
+    second: PC _ Computer - Celeste - Character Portraits - Theo_23
+  - first:
+      213: 1732968711512832080
+    second: PC _ Computer - Celeste - Character Portraits - Theo_24
+  - first:
+      213: -7249838187529568413
+    second: PC _ Computer - Celeste - Character Portraits - Theo_25
+  - first:
+      213: 3573790404694099352
+    second: PC _ Computer - Celeste - Character Portraits - Theo_26
+  - first:
+      213: -3475973741069533398
+    second: PC _ Computer - Celeste - Character Portraits - Theo_27
+  - first:
+      213: -4030839978714374193
+    second: PC _ Computer - Celeste - Character Portraits - Theo_28
+  - first:
+      213: 1280242663619195974
+    second: PC _ Computer - Celeste - Character Portraits - Theo_29
+  - first:
+      213: 8939266830499820820
+    second: PC _ Computer - Celeste - Character Portraits - Theo_30
+  - first:
+      213: -8761404424090439178
+    second: PC _ Computer - Celeste - Character Portraits - Theo_31
+  - first:
+      213: 8791999598060258889
+    second: PC _ Computer - Celeste - Character Portraits - Theo_32
+  - first:
+      213: 9103232600842181779
+    second: PC _ Computer - Celeste - Character Portraits - Theo_33
+  - first:
+      213: -2283598922124474544
+    second: PC _ Computer - Celeste - Character Portraits - Theo_34
+  - first:
+      213: 2112551938507729610
+    second: PC _ Computer - Celeste - Character Portraits - Theo_35
+  - first:
+      213: 8590659821811828279
+    second: PC _ Computer - Celeste - Character Portraits - Theo_36
+  - first:
+      213: -1520294479507885269
+    second: PC _ Computer - Celeste - Character Portraits - Theo_37
+  - first:
+      213: 7842198136536728958
+    second: PC _ Computer - Celeste - Character Portraits - Theo_38
+  - first:
+      213: -7135616101531225598
+    second: PC _ Computer - Celeste - Character Portraits - Theo_39
+  - first:
+      213: 77899550499359637
+    second: PC _ Computer - Celeste - Character Portraits - Theo_40
+  - first:
+      213: -2548461210771619624
+    second: PC _ Computer - Celeste - Character Portraits - Theo_41
+  - first:
+      213: -2004035921137954014
+    second: PC _ Computer - Celeste - Character Portraits - Theo_42
+  - first:
+      213: 3935525308746821271
+    second: PC _ Computer - Celeste - Character Portraits - Theo_43
+  - first:
+      213: 3161531018322481952
+    second: PC _ Computer - Celeste - Character Portraits - Theo_44
+  - first:
+      213: 3776072896943359077
+    second: PC _ Computer - Celeste - Character Portraits - Theo_45
+  - first:
+      213: -1412916379759597249
+    second: PC _ Computer - Celeste - Character Portraits - Theo_46
+  - first:
+      213: 8028477874924351723
+    second: PC _ Computer - Celeste - Character Portraits - Theo_47
+  - first:
+      213: 2879691612020840754
+    second: PC _ Computer - Celeste - Character Portraits - Theo_48
+  - first:
+      213: 5055742936573831829
+    second: PC _ Computer - Celeste - Character Portraits - Theo_49
+  - first:
+      213: -23214845540892239
+    second: PC _ Computer - Celeste - Character Portraits - Theo_50
+  - first:
+      213: 6648112733233191653
+    second: PC _ Computer - Celeste - Character Portraits - Theo_51
+  - first:
+      213: 1899835416074729784
+    second: PC _ Computer - Celeste - Character Portraits - Theo_52
+  - first:
+      213: 7643909962130433707
+    second: PC _ Computer - Celeste - Character Portraits - Theo_53
+  - first:
+      213: -2613042784674564068
+    second: PC _ Computer - Celeste - Character Portraits - Theo_54
+  - first:
+      213: -4389589668535930454
+    second: PC _ Computer - Celeste - Character Portraits - Theo_55
+  - first:
+      213: 4545679817510327916
+    second: PC _ Computer - Celeste - Character Portraits - Theo_56
+  - first:
+      213: 2576692601974789641
+    second: PC _ Computer - Celeste - Character Portraits - Theo_57
+  - first:
+      213: 5707541894657367947
+    second: PC _ Computer - Celeste - Character Portraits - Theo_58
+  - first:
+      213: -4336615395797696803
+    second: PC _ Computer - Celeste - Character Portraits - Theo_59
+  - first:
+      213: 8276677023997342337
+    second: PC _ Computer - Celeste - Character Portraits - Theo_60
+  - first:
+      213: -3042684151230811188
+    second: PC _ Computer - Celeste - Character Portraits - Theo_61
+  - first:
+      213: -790401914094842024
+    second: PC _ Computer - Celeste - Character Portraits - Theo_62
+  - first:
+      213: -471577582793988955
+    second: PC _ Computer - Celeste - Character Portraits - Theo_63
+  - first:
+      213: 7068965712114550005
+    second: PC _ Computer - Celeste - Character Portraits - Theo_64
+  - first:
+      213: 1959926680670204955
+    second: PC _ Computer - Celeste - Character Portraits - Theo_65
+  - first:
+      213: 6086921706355064132
+    second: PC _ Computer - Celeste - Character Portraits - Theo_66
+  - first:
+      213: -3955432326542798714
+    second: PC _ Computer - Celeste - Character Portraits - Theo_67
+  - first:
+      213: 6890259568665965468
+    second: PC _ Computer - Celeste - Character Portraits - Theo_68
+  - first:
+      213: -8359243005971450237
+    second: PC _ Computer - Celeste - Character Portraits - Theo_69
+  - first:
+      213: 7150725132691842378
+    second: PC _ Computer - Celeste - Character Portraits - Theo_70
+  - first:
+      213: -4450933662673649896
+    second: PC _ Computer - Celeste - Character Portraits - Theo_71
+  - first:
+      213: -7270040656145114133
+    second: PC _ Computer - Celeste - Character Portraits - Theo_72
+  - first:
+      213: 8899099268879836302
+    second: PC _ Computer - Celeste - Character Portraits - Theo_73
+  - first:
+      213: 6634228890657696252
+    second: PC _ Computer - Celeste - Character Portraits - Theo_74
+  - first:
+      213: 3226875841175679720
+    second: PC _ Computer - Celeste - Character Portraits - Theo_75
+  - first:
+      213: -7099224233333777003
+    second: PC _ Computer - Celeste - Character Portraits - Theo_76
+  - first:
+      213: -9072324329267104409
+    second: PC _ Computer - Celeste - Character Portraits - Theo_77
+  - first:
+      213: 3297476906105933652
+    second: PC _ Computer - Celeste - Character Portraits - Theo_78
+  - first:
+      213: 7643001539345616902
+    second: PC _ Computer - Celeste - Character Portraits - Theo_79
+  - first:
+      213: -7830805888013286148
+    second: PC _ Computer - Celeste - Character Portraits - Theo_80
+  - first:
+      213: -7292942873265905342
+    second: PC _ Computer - Celeste - Character Portraits - Theo_81
+  - first:
+      213: 1576801629535438805
+    second: PC _ Computer - Celeste - Character Portraits - Theo_82
+  - first:
+      213: 847664387446317526
+    second: PC _ Computer - Celeste - Character Portraits - Theo_83
+  - first:
+      213: 5643491673003385416
+    second: PC _ Computer - Celeste - Character Portraits - Theo_84
+  - first:
+      213: -6041493879048605860
+    second: PC _ Computer - Celeste - Character Portraits - Theo_85
+  - first:
+      213: -7579543086820876439
+    second: PC _ Computer - Celeste - Character Portraits - Theo_86
+  - first:
+      213: -1862350726403898733
+    second: PC _ Computer - Celeste - Character Portraits - Theo_87
+  - first:
+      213: -1083938790145617054
+    second: PC _ Computer - Celeste - Character Portraits - Theo_88
+  - first:
+      213: -2146929071776957700
+    second: PC _ Computer - Celeste - Character Portraits - Theo_89
+  - first:
+      213: 6188810749176641070
+    second: PC _ Computer - Celeste - Character Portraits - Theo_90
+  - first:
+      213: 1231948264850262607
+    second: PC _ Computer - Celeste - Character Portraits - Theo_91
+  - first:
+      213: -1956682444374822831
+    second: PC _ Computer - Celeste - Character Portraits - Theo_92
+  - first:
+      213: 8972298061254181124
+    second: PC _ Computer - Celeste - Character Portraits - Theo_93
+  - first:
+      213: -1370575769444631050
+    second: PC _ Computer - Celeste - Character Portraits - Theo_94
+  - first:
+      213: 5758960858343132392
+    second: PC _ Computer - Celeste - Character Portraits - Theo_95
+  - first:
+      213: 4968975972463679753
+    second: PC _ Computer - Celeste - Character Portraits - Theo_96
+  - first:
+      213: -4230528904584359365
+    second: PC _ Computer - Celeste - Character Portraits - Theo_97
+  - first:
+      213: -275280037430541842
+    second: PC _ Computer - Celeste - Character Portraits - Theo_98
+  - first:
+      213: 7851738711495295630
+    second: PC _ Computer - Celeste - Character Portraits - Theo_99
+  - first:
+      213: -2029498031594880062
+    second: PC _ Computer - Celeste - Character Portraits - Theo_100
+  - first:
+      213: -6866258595216798915
+    second: PC _ Computer - Celeste - Character Portraits - Theo_101
+  - first:
+      213: -4168029194442095916
+    second: PC _ Computer - Celeste - Character Portraits - Theo_102
+  - first:
+      213: 3779097458452297823
+    second: PC _ Computer - Celeste - Character Portraits - Theo_103
+  - first:
+      213: 5429546179231688373
+    second: PC _ Computer - Celeste - Character Portraits - Theo_104
+  - first:
+      213: 2401354783270943452
+    second: PC _ Computer - Celeste - Character Portraits - Theo_105
+  - first:
+      213: -8190388272657813285
+    second: PC _ Computer - Celeste - Character Portraits - Theo_106
+  - first:
+      213: -4704506099930108206
+    second: PC _ Computer - Celeste - Character Portraits - Theo_107
+  - first:
+      213: -3571488713510194339
+    second: PC _ Computer - Celeste - Character Portraits - Theo_108
+  - first:
+      213: -3545830397921815490
+    second: PC _ Computer - Celeste - Character Portraits - Theo_109
+  - first:
+      213: 3193417194265978392
+    second: PC _ Computer - Celeste - Character Portraits - Theo_110
+  - first:
+      213: 8098711935759785162
+    second: PC _ Computer - Celeste - Character Portraits - Theo_111
+  - first:
+      213: 7560616443608469123
+    second: PC _ Computer - Celeste - Character Portraits - Theo_112
+  - first:
+      213: 1331623666786337058
+    second: PC _ Computer - Celeste - Character Portraits - Theo_113
+  - first:
+      213: -3377324973910308815
+    second: PC _ Computer - Celeste - Character Portraits - Theo_114
+  - first:
+      213: -248631395998374279
+    second: PC _ Computer - Celeste - Character Portraits - Theo_115
+  - first:
+      213: -7125142369228364156
+    second: PC _ Computer - Celeste - Character Portraits - Theo_116
+  - first:
+      213: -1684826375471435344
+    second: PC _ Computer - Celeste - Character Portraits - Theo_117
+  - first:
+      213: 1563768063278399392
+    second: PC _ Computer - Celeste - Character Portraits - Theo_118
+  - first:
+      213: -3678617812370884934
+    second: PC _ Computer - Celeste - Character Portraits - Theo_119
+  - first:
+      213: -7570067769093027416
+    second: PC _ Computer - Celeste - Character Portraits - Theo_120
+  - first:
+      213: -1642618098530630215
+    second: PC _ Computer - Celeste - Character Portraits - Theo_121
+  - first:
+      213: 5532804393824432790
+    second: PC _ Computer - Celeste - Character Portraits - Theo_122
+  - first:
+      213: -7872414391773477762
+    second: PC _ Computer - Celeste - Character Portraits - Theo_123
+  - first:
+      213: -7015551186269979759
+    second: PC _ Computer - Celeste - Character Portraits - Theo_124
+  - first:
+      213: 2860982205472923601
+    second: PC _ Computer - Celeste - Character Portraits - Theo_125
+  - first:
+      213: 8659960076519125921
+    second: PC _ Computer - Celeste - Character Portraits - Theo_126
+  - first:
+      213: 2011430198376623076
+    second: PC _ Computer - Celeste - Character Portraits - Theo_127
+  - first:
+      213: 7468475689401723207
+    second: PC _ Computer - Celeste - Character Portraits - Theo_128
+  - first:
+      213: 3162884422538057646
+    second: PC _ Computer - Celeste - Character Portraits - Theo_129
+  - first:
+      213: -4581162636420172458
+    second: PC _ Computer - Celeste - Character Portraits - Theo_130
+  - first:
+      213: -5533866218259113521
+    second: PC _ Computer - Celeste - Character Portraits - Theo_131
+  - first:
+      213: -6020775130041297770
+    second: PC _ Computer - Celeste - Character Portraits - Theo_132
+  - first:
+      213: 4519311976479077770
+    second: PC _ Computer - Celeste - Character Portraits - Theo_133
+  - first:
+      213: 585190712715113094
+    second: PC _ Computer - Celeste - Character Portraits - Theo_134
+  - first:
+      213: -7644507043594161781
+    second: PC _ Computer - Celeste - Character Portraits - Theo_135
+  - first:
+      213: 3586336766429544427
+    second: PC _ Computer - Celeste - Character Portraits - Theo_136
+  - first:
+      213: 8591234617010547243
+    second: PC _ Computer - Celeste - Character Portraits - Theo_137
+  - first:
+      213: 8404599683975579745
+    second: PC _ Computer - Celeste - Character Portraits - Theo_138
+  - first:
+      213: 8178375703817425336
+    second: PC _ Computer - Celeste - Character Portraits - Theo_139
+  - first:
+      213: -8763341843580678677
+    second: PC _ Computer - Celeste - Character Portraits - Theo_140
+  - first:
+      213: 2007878324191257797
+    second: PC _ Computer - Celeste - Character Portraits - Theo_141
+  - first:
+      213: 8292528996360349197
+    second: PC _ Computer - Celeste - Character Portraits - Theo_142
+  - first:
+      213: 1701680086813653295
+    second: PC _ Computer - Celeste - Character Portraits - Theo_143
+  - first:
+      213: -6540101499767961411
+    second: PC _ Computer - Celeste - Character Portraits - Theo_144
+  - first:
+      213: 511369979826796792
+    second: PC _ Computer - Celeste - Character Portraits - Theo_145
+  - first:
+      213: -150012799058727933
+    second: PC _ Computer - Celeste - Character Portraits - Theo_146
+  - first:
+      213: 212109023604715129
+    second: PC _ Computer - Celeste - Character Portraits - Theo_147
+  - first:
+      213: 6866271847509245865
+    second: PC _ Computer - Celeste - Character Portraits - Theo_148
+  - first:
+      213: 519570499051579659
+    second: PC _ Computer - Celeste - Character Portraits - Theo_149
+  - first:
+      213: 1673687052314824786
+    second: PC _ Computer - Celeste - Character Portraits - Theo_150
+  - first:
+      213: 7663630774331457068
+    second: PC _ Computer - Celeste - Character Portraits - Theo_151
+  - first:
+      213: -405155933192395869
+    second: PC _ Computer - Celeste - Character Portraits - Theo_152
+  - first:
+      213: 8329925232454003454
+    second: PC _ Computer - Celeste - Character Portraits - Theo_153
+  - first:
+      213: 7528531627444946705
+    second: PC _ Computer - Celeste - Character Portraits - Theo_154
+  - first:
+      213: -5603679177557638874
+    second: PC _ Computer - Celeste - Character Portraits - Theo_155
+  - first:
+      213: -1642040084624627045
+    second: PC _ Computer - Celeste - Character Portraits - Theo_156
+  - first:
+      213: 6873998298513140702
+    second: PC _ Computer - Celeste - Character Portraits - Theo_157
+  - first:
+      213: 5036916179449904779
+    second: PC _ Computer - Celeste - Character Portraits - Theo_158
+  - first:
+      213: -5645432301550755844
+    second: PC _ Computer - Celeste - Character Portraits - Theo_159
+  - first:
+      213: 3886337164916432653
+    second: PC _ Computer - Celeste - Character Portraits - Theo_160
+  - first:
+      213: -164434407978349555
+    second: PC _ Computer - Celeste - Character Portraits - Theo_161
+  - first:
+      213: -2404173166560961127
+    second: PC _ Computer - Celeste - Character Portraits - Theo_162
+  - first:
+      213: -102974023511913836
+    second: PC _ Computer - Celeste - Character Portraits - Theo_163
+  - first:
+      213: 8887357428240536693
+    second: PC _ Computer - Celeste - Character Portraits - Theo_164
+  - first:
+      213: 5579633070442591832
+    second: PC _ Computer - Celeste - Character Portraits - Theo_165
+  - first:
+      213: -8244948261082724130
+    second: PC _ Computer - Celeste - Character Portraits - Theo_166
+  - first:
+      213: -4609671564217462282
+    second: PC _ Computer - Celeste - Character Portraits - Theo_167
+  - first:
+      213: -960018954434136419
+    second: PC _ Computer - Celeste - Character Portraits - Theo_168
+  - first:
+      213: 3744652880558229104
+    second: PC _ Computer - Celeste - Character Portraits - Theo_169
+  - first:
+      213: -7247166612382167717
+    second: PC _ Computer - Celeste - Character Portraits - Theo_170
+  - first:
+      213: 8026403795972779377
+    second: PC _ Computer - Celeste - Character Portraits - Theo_171
+  - first:
+      213: 7643787740202806737
+    second: PC _ Computer - Celeste - Character Portraits - Theo_172
+  - first:
+      213: -2048300143883434650
+    second: PC _ Computer - Celeste - Character Portraits - Theo_173
+  - first:
+      213: -960973019131582135
+    second: PC _ Computer - Celeste - Character Portraits - Theo_174
+  - first:
+      213: 1548745203597041987
+    second: PC _ Computer - Celeste - Character Portraits - Theo_175
+  - first:
+      213: -5883105308977274855
+    second: PC _ Computer - Celeste - Character Portraits - Theo_176
+  - first:
+      213: 8067148026411650984
+    second: PC _ Computer - Celeste - Character Portraits - Theo_177
+  - first:
+      213: -3923465799679973701
+    second: PC _ Computer - Celeste - Character Portraits - Theo_178
+  - first:
+      213: -5133748064643418309
+    second: PC _ Computer - Celeste - Character Portraits - Theo_179
+  - first:
+      213: 4576011937414167611
+    second: PC _ Computer - Celeste - Character Portraits - Theo_180
+  - first:
+      213: 4911827378157575881
+    second: PC _ Computer - Celeste - Character Portraits - Theo_181
+  - first:
+      213: 1722951328398270221
+    second: PC _ Computer - Celeste - Character Portraits - Theo_182
+  - first:
+      213: -3555437504307159751
+    second: PC _ Computer - Celeste - Character Portraits - Theo_183
+  - first:
+      213: -1322266760273755325
+    second: PC _ Computer - Celeste - Character Portraits - Theo_184
+  - first:
+      213: 3076806260411235455
+    second: PC _ Computer - Celeste - Character Portraits - Theo_185
+  - first:
+      213: -1660044049254607181
+    second: PC _ Computer - Celeste - Character Portraits - Theo_186
+  - first:
+      213: -2826231905716683509
+    second: PC _ Computer - Celeste - Character Portraits - Theo_187
+  - first:
+      213: 2455065163828154193
+    second: PC _ Computer - Celeste - Character Portraits - Theo_188
+  - first:
+      213: 2087771889299604817
+    second: PC _ Computer - Celeste - Character Portraits - Theo_189
+  - first:
+      213: 2690926840771910061
+    second: PC _ Computer - Celeste - Character Portraits - Theo_190
+  - first:
+      213: -6120679272690402354
+    second: PC _ Computer - Celeste - Character Portraits - Theo_191
+  - first:
+      213: -8317773453551259867
+    second: PC _ Computer - Celeste - Character Portraits - Theo_192
+  - first:
+      213: 2277575461709219069
+    second: PC _ Computer - Celeste - Character Portraits - Theo_193
+  - first:
+      213: 8078448901976011979
+    second: PC _ Computer - Celeste - Character Portraits - Theo_194
+  - first:
+      213: 5281686586308215590
+    second: PC _ Computer - Celeste - Character Portraits - Theo_195
+  - first:
+      213: 6091840011611576086
+    second: PC _ Computer - Celeste - Character Portraits - Theo_196
+  - first:
+      213: 213338986982946611
+    second: PC _ Computer - Celeste - Character Portraits - Theo_197
+  - first:
+      213: 6125720249584290956
+    second: PC _ Computer - Celeste - Character Portraits - Theo_198
+  - first:
+      213: 6574843360857844734
+    second: PC _ Computer - Celeste - Character Portraits - Theo_199
+  - first:
+      213: -7313269847301369192
+    second: PC _ Computer - Celeste - Character Portraits - Theo_200
+  - first:
+      213: 1167766493752044463
+    second: PC _ Computer - Celeste - Character Portraits - Theo_201
+  - first:
+      213: -435109568592725251
+    second: PC _ Computer - Celeste - Character Portraits - Theo_202
+  - first:
+      213: 880248933928670236
+    second: PC _ Computer - Celeste - Character Portraits - Theo_203
+  - first:
+      213: -1430966440149451407
+    second: PC _ Computer - Celeste - Character Portraits - Theo_204
+  - first:
+      213: -1725864393939709384
+    second: PC _ Computer - Celeste - Character Portraits - Theo_205
+  - first:
+      213: -5515966738211370195
+    second: PC _ Computer - Celeste - Character Portraits - Theo_206
+  - first:
+      213: 2279231879278561866
+    second: PC _ Computer - Celeste - Character Portraits - Theo_207
+  - first:
+      213: -1262272389819704119
+    second: PC _ Computer - Celeste - Character Portraits - Theo_208
+  - first:
+      213: -7408528954485249039
+    second: PC _ Computer - Celeste - Character Portraits - Theo_209
+  - first:
+      213: -776740507362387897
+    second: PC _ Computer - Celeste - Character Portraits - Theo_210
+  - first:
+      213: -4828387228946728762
+    second: PC _ Computer - Celeste - Character Portraits - Theo_211
+  - first:
+      213: -6005009916877216696
+    second: PC _ Computer - Celeste - Character Portraits - Theo_212
+  - first:
+      213: 4681758706407317153
+    second: PC _ Computer - Celeste - Character Portraits - Theo_213
+  - first:
+      213: 5846370489046505978
+    second: PC _ Computer - Celeste - Character Portraits - Theo_214
+  - first:
+      213: -551434752204160321
+    second: PC _ Computer - Celeste - Character Portraits - Theo_215
+  - first:
+      213: -6443673140155044249
+    second: PC _ Computer - Celeste - Character Portraits - Theo_216
+  - first:
+      213: 3681900884409654593
+    second: PC _ Computer - Celeste - Character Portraits - Theo_217
+  - first:
+      213: -5007791973255749806
+    second: PC _ Computer - Celeste - Character Portraits - Theo_218
+  - first:
+      213: 3493090499017448576
+    second: PC _ Computer - Celeste - Character Portraits - Theo_219
+  - first:
+      213: -5758827383222256217
+    second: PC _ Computer - Celeste - Character Portraits - Theo_220
+  - first:
+      213: -7827481310535134612
+    second: PC _ Computer - Celeste - Character Portraits - Theo_221
+  - first:
+      213: -9118348080096984390
+    second: PC _ Computer - Celeste - Character Portraits - Theo_222
+  - first:
+      213: 1175325322511827392
+    second: PC _ Computer - Celeste - Character Portraits - Theo_223
+  - first:
+      213: 6545252161701124953
+    second: PC _ Computer - Celeste - Character Portraits - Theo_224
+  - first:
+      213: -1874227301507433049
+    second: PC _ Computer - Celeste - Character Portraits - Theo_225
+  - first:
+      213: -1141746057025923335
+    second: PC _ Computer - Celeste - Character Portraits - Theo_226
+  - first:
+      213: -9063166818779124830
+    second: PC _ Computer - Celeste - Character Portraits - Theo_227
+  - first:
+      213: 1439895279410394674
+    second: PC _ Computer - Celeste - Character Portraits - Theo_228
+  - first:
+      213: -6673666396365888603
+    second: PC _ Computer - Celeste - Character Portraits - Theo_229
+  - first:
+      213: -7318121138178183849
+    second: PC _ Computer - Celeste - Character Portraits - Theo_230
+  - first:
+      213: 4296374811011525887
+    second: PC _ Computer - Celeste - Character Portraits - Theo_231
+  - first:
+      213: -3339323826967254685
+    second: PC _ Computer - Celeste - Character Portraits - Theo_232
+  - first:
+      213: 957566784357427178
+    second: PC _ Computer - Celeste - Character Portraits - Theo_233
+  - first:
+      213: -8284301072801961463
+    second: PC _ Computer - Celeste - Character Portraits - Theo_234
+  - first:
+      213: 3273557291663564552
+    second: PC _ Computer - Celeste - Character Portraits - Theo_235
+  - first:
+      213: 5772588119592350418
+    second: PC _ Computer - Celeste - Character Portraits - Theo_236
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3473
+        width: 102
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1955e3da82a5d880800000000000000
+      internalID: -8586778397367772902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 3475
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14fffd56eaf68370800000000000000
+      internalID: 8324616828567417885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3475
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2225953fdf5c0eae0800000000000000
+      internalID: -1521998979551112670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 3475
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c29bee4d95b28880800000000000000
+      internalID: -8610119850340412732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 3475
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ac2572779993050800000000000000
+      internalID: 5780820333746637457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 3475
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf31b97a52f15a10800000000000000
+      internalID: 1896563388502327218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_6
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 3475
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52753f6a12f4b5970800000000000000
+      internalID: 8744670107423430437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3295
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2272aa952615470800000000000000
+      internalID: 8381588518759506600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_8
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 3295
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a120e0d774fb1fc0800000000000000
+      internalID: -3522953488044645978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_9
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 3295
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15775c11e15677b0800000000000000
+      internalID: -5226900290231896806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_10
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 3295
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64134f7130f7e9410800000000000000
+      internalID: 1485764578342351174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_11
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 3295
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9fa9bf715054820800000000000000
+      internalID: 2901731135473777130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_12
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 3295
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e2189b8ec2bcf30800000000000000
+      internalID: 4596817222718008977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_13
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 3295
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a573fc8ef5d7fe20800000000000000
+      internalID: 3384408934255392164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3254
+        width: 114
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d22cbe072d09ce80800000000000000
+      internalID: -8157974788602846507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 3256
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b71f932045093e0800000000000000
+      internalID: -2049045461914780877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_16
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 3256
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaafa1ad9aa82f820800000000000000
+      internalID: 2950573167994403502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 3256
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aff2a8030f343700800000000000000
+      internalID: 519109139316801445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_18
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 3256
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f483b96d8a0963f0800000000000000
+      internalID: -907182247458405135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 3256
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a17b052ed229d2c0800000000000000
+      internalID: -4406452422905728602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3256
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97f0974416c02480800000000000000
+      internalID: -8925916671045994595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_21
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 3256
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7dbb22eb70d6880800000000000000
+      internalID: -8616221998881974295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3077
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b18b7066fff9180800000000000000
+      internalID: -9106279107838600324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_23
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 3077
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49cab277a9ce2150800000000000000
+      internalID: 5849834687022418251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_24
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 3077
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058b6988cddbc0810800000000000000
+      internalID: 1732968711512832080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_25
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 3077
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ffc396496636b90800000000000000
+      internalID: -7249838187529568413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3036
+        width: 98
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895cd753077a89130800000000000000
+      internalID: 3573790404694099352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_27
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 3038
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ff6fa8c4cd2cfc0800000000000000
+      internalID: -3475973741069533398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_28
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 3038
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf594a45649f08c0800000000000000
+      internalID: -4030839978714374193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_29
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3038
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64472576be554c110800000000000000
+      internalID: 1280242663619195974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_30
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 3038
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415bf50f1d7ae0c70800000000000000
+      internalID: 8939266830499820820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_31
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 3038
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1bd80a81d396680800000000000000
+      internalID: -8761404424090439178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2858
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94642cb6d05730a70800000000000000
+      internalID: 8791999598060258889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_33
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2858
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c14f8c1dd255e70800000000000000
+      internalID: 9103232600842181779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_34
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2858
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0574e4d11e60f40e0800000000000000
+      internalID: -2283598922124474544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_35
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2858
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acae0589bca415d10800000000000000
+      internalID: 2112551938507729610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_36
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2858
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7368059b797283770800000000000000
+      internalID: 8590659821811828279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_37
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 2858
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23f1fac934d6eae0800000000000000
+      internalID: -1520294479507885269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_38
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 2858
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75808ac7a515dc60800000000000000
+      internalID: 7842198136536728958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_39
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 2858
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2027ca636f239fc90800000000000000
+      internalID: -7135616101531225598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_40
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 2858
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b4dab7a31c41100800000000000000
+      internalID: 77899550499359637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_41
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 2858
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d08818f70c02acd0800000000000000
+      internalID: -2548461210771619624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_42
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2817
+        width: 101
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223137392fb3034e0800000000000000
+      internalID: -2004035921137954014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_43
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2819
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ee960ca6bcd9630800000000000000
+      internalID: 3935525308746821271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_44
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2819
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0239d7de5b300eb20800000000000000
+      internalID: 3161531018322481952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_45
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2819
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5640a441b4e476430800000000000000
+      internalID: 3776072896943359077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_46
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2819
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39291fd900546ce0800000000000000
+      internalID: -1412916379759597249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_47
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2819
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0f2fd2712ea6f60800000000000000
+      internalID: 8028477874924351723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_48
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2819
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2399c2d8348b6f720800000000000000
+      internalID: 2879691612020840754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_49
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2639
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a6c221a6b992640800000000000000
+      internalID: 5055742936573831829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_50
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2639
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1050298368daff0800000000000000
+      internalID: -23214845540892239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_51
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2639
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea9d13ce47d24c50800000000000000
+      internalID: 6648112733233191653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_52
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2639
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83937d2ce329d5a10800000000000000
+      internalID: 1899835416074729784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_53
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2639
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6aad38c9f941a60800000000000000
+      internalID: 7643909962130433707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_54
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 2639
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18339c8e6b9cbbd0800000000000000
+      internalID: -2613042784674564068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_55
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 2639
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1f039147b0513c0800000000000000
+      internalID: -4389589668535930454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_56
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2595
+        width: 116
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c669d51c5bf751f30800000000000000
+      internalID: 4545679817510327916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_57
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2600
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9069514054042c320800000000000000
+      internalID: 2576692601974789641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_58
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2600
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f56b30d13453f40800000000000000
+      internalID: 5707541894657367947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_59
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2600
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddefcfd164f31d3c0800000000000000
+      internalID: -4336615395797696803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2420
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182bfffc6e9acd270800000000000000
+      internalID: 8276677023997342337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_61
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2420
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc33d22a2e636c5d0800000000000000
+      internalID: -3042684151230811188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_62
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2420
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f869895ade705f0800000000000000
+      internalID: -790401914094842024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_63
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2420
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4e68ddfae9479f0800000000000000
+      internalID: -471577582793988955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_64
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2420
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f40108bcd20a1260800000000000000
+      internalID: 7068965712114550005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_65
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 2420
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1478239eee033b10800000000000000
+      internalID: 1959926680670204955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_66
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 2420
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d78e2ca07197450800000000000000
+      internalID: 6086921706355064132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_67
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2379
+        width: 104
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680d15b714b7b19c0800000000000000
+      internalID: -3955432326542798714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_68
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2381
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c933290529e1f9f50800000000000000
+      internalID: 6890259568665965468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_69
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2381
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38637e576c00efb80800000000000000
+      internalID: -8359243005971450237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_70
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2381
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a452e8c3f9a7c3360800000000000000
+      internalID: 7150725132691842378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_71
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2381
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f32857a6b1b32c0800000000000000
+      internalID: -4450933662673649896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_72
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2381
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb92d3aa80ab1b90800000000000000
+      internalID: -7270040656145114133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_73
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2201
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e846586b2a3ff7b70800000000000000
+      internalID: 8899099268879836302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_74
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2201
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf92942c604811c50800000000000000
+      internalID: 6634228890657696252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_75
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2201
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2f0971b7a28cc20800000000000000
+      internalID: 3226875841175679720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_76
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2201
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d9b4f4c2d7a7d90800000000000000
+      internalID: -7099224233333777003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_77
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2201
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76576eaf611a81280800000000000000
+      internalID: -9072324329267104409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_78
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 2201
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f8f7b76cdf2cd20800000000000000
+      internalID: 3297476906105933652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_79
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 2201
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600957ad765611a60800000000000000
+      internalID: 7643001539345616902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_80
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2160
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf44ee3c883635390800000000000000
+      internalID: -7830805888013286148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_81
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2162
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241e4cfa8134aca90800000000000000
+      internalID: -7292942873265905342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_82
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1982
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d787b15abce1e510800000000000000
+      internalID: 1576801629535438805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_83
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1982
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1ac7ee44283cb00800000000000000
+      internalID: 847664387446317526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_84
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1982
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842ed3ea6c5b15e40800000000000000
+      internalID: 5643491673003385416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_85
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1982
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f6c92835d482ca0800000000000000
+      internalID: -6041493879048605860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_86
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1982
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f164e78bd00d690800000000000000
+      internalID: -7579543086820876439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_87
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1982
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3924189a1e99726e0800000000000000
+      internalID: -1862350726403898733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_88
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1982
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2639a1fc96315f0f0800000000000000
+      internalID: -1083938790145617054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_89
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1941
+        width: 59
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa76c652639432e0800000000000000
+      internalID: -2146929071776957700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_90
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1943
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26face269213e550800000000000000
+      internalID: 6188810749176641070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_91
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1943
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a0f047b62c81110800000000000000
+      internalID: 1231948264850262607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_92
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1943
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150bbcc0fa778d4e0800000000000000
+      internalID: -1956682444374822831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_93
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1763
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4014bf7ac81048c70800000000000000
+      internalID: 8972298061254181124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_94
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1763
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdbe7c699cbafce0800000000000000
+      internalID: -1370575769444631050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_95
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1763
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eccbec6360fbef40800000000000000
+      internalID: 5758960858343132392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_96
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1763
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9091628f15955f440800000000000000
+      internalID: 4968975972463679753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_97
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1719
+        width: 206
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b321a3620642a45c0800000000000000
+      internalID: -4230528904584359365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_98
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1544
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee14233b3420e2cf0800000000000000
+      internalID: -275280037430541842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_99
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1544
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e824cdff1caf6fc60800000000000000
+      internalID: 7851738711495295630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_100
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1544
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3ce620b46c5d3e0800000000000000
+      internalID: -2029498031594880062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_101
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1544
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b4128cf2626b0a0800000000000000
+      internalID: -6866258595216798915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_102
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1544
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d242d3e78f2826c0800000000000000
+      internalID: -4168029194442095916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_103
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1544
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5871aead1d027430800000000000000
+      internalID: 3779097458452297823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_104
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1544
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b62fa8ab7f995b40800000000000000
+      internalID: 5429546179231688373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_105
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1544
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdabc84d373535120800000000000000
+      internalID: 2401354783270943452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_106
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1544
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0b4b3b245e55e80800000000000000
+      internalID: -8190388272657813285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_107
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1544
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dee10ea0ac36beb0800000000000000
+      internalID: -4704506099930108206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_108
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1544
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5378e700f58f6ec0800000000000000
+      internalID: -3571488713510194339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_109
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1503
+        width: 114
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34961a2a0eaacec0800000000000000
+      internalID: -3545830397921815490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_110
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1505
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81629dbc40c415c20800000000000000
+      internalID: 3193417194265978392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_111
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1505
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc9d25c897646070800000000000000
+      internalID: 8098711935759785162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_112
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1505
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e824cf894bce860800000000000000
+      internalID: 7560616443608469123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_113
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1505
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2218d417ba0ea7210800000000000000
+      internalID: 1331623666786337058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_114
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1505
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138450f74d45121d0800000000000000
+      internalID: -3377324973910308815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_115
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1505
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976e189001fac8cf0800000000000000
+      internalID: -248631395998374279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_116
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1505
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486ee0c04c86e1d90800000000000000
+      internalID: -7125142369228364156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_117
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1326
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1f0dd865b4e98e0800000000000000
+      internalID: -1684826375471435344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_118
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1326
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af3fc2b4ce93b510800000000000000
+      internalID: 1563768063278399392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_119
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1326
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6753df69ce2fcc0800000000000000
+      internalID: -3678617812370884934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_120
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1326
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a98391d877b1f690800000000000000
+      internalID: -7570067769093027416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_121
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1326
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b54477da8f3439e0800000000000000
+      internalID: -1642618098530630215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_122
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1326
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69230a9384878cc40800000000000000
+      internalID: 5532804393824432790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_123
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1326
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e744bad02d09fb290800000000000000
+      internalID: -7872414391773477762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_124
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1326
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bbec6bd51c3ae90800000000000000
+      internalID: -7015551186269979759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_125
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1285
+        width: 98
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df5de1682044b720800000000000000
+      internalID: 2860982205472923601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_126
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1287
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3bcf1aecb5e2870800000000000000
+      internalID: 8659960076519125921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_127
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1287
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb6bb0cb190aeb10800000000000000
+      internalID: 2011430198376623076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_128
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1287
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7492e60e11b55a760800000000000000
+      internalID: 7468475689401723207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_129
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1287
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea75ff6ef92d4eb20800000000000000
+      internalID: 3162884422538057646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_130
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1287
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65532edaad07c60c0800000000000000
+      internalID: -4581162636420172458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_131
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1107
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc991228ef1c333b0800000000000000
+      internalID: -5533866218259113521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_132
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1107
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694d16d2be8e17ca0800000000000000
+      internalID: -6020775130041297770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_133
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1107
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85343b5c42d7be30800000000000000
+      internalID: 4519311976479077770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_134
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1107
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682fd3d4ad30f1800800000000000000
+      internalID: 585190712715113094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_135
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1107
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81399f985149e590800000000000000
+      internalID: -7644507043594161781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_136
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1107
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befb4ffa94a35c130800000000000000
+      internalID: 3586336766429544427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_137
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1107
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ae3f8ad523a3770800000000000000
+      internalID: 8591234617010547243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_138
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1107
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16889b212e223a470800000000000000
+      internalID: 8404599683975579745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_139
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1107
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b119b92f5d6f7170800000000000000
+      internalID: 8178375703817425336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_140
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1107
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed8e00060b526680800000000000000
+      internalID: -8763341843580678677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_141
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1107
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c460a992ba6ddb10800000000000000
+      internalID: 2007878324191257797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_142
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 1107
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d066fadbf2bf41370800000000000000
+      internalID: 8292528996360349197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_143
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1107
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2932e7e5059d9710800000000000000
+      internalID: 1701680086813653295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_144
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 1107
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8c45f3654ec35a0800000000000000
+      internalID: -6540101499767961411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_145
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1066
+        width: 101
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8ff5c8940c81700800000000000000
+      internalID: 511369979826796792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_146
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1068
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ca750772c0bedf0800000000000000
+      internalID: -150012799058727933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_147
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1068
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e2d9d780091f200800000000000000
+      internalID: 212109023604715129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_148
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1068
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afbd02cdd5e94f50800000000000000
+      internalID: 6866271847509245865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_149
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1068
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09edb7bd92e53700800000000000000
+      internalID: 519570499051579659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_150
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1068
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250556aa1812a3710800000000000000
+      internalID: 1673687052314824786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_151
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1068
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e37c9e59faa5a60800000000000000
+      internalID: 7663630774331457068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_152
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 888
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3ec6b43d8906af0800000000000000
+      internalID: -405155933192395869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_153
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 888
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efaebf57dd6d99370800000000000000
+      internalID: 8329925232454003454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_154
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 888
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117462690a7ba7860800000000000000
+      internalID: 7528531627444946705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_155
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 888
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6218c624a7bbb32b0800000000000000
+      internalID: -5603679177557638874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_156
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 888
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a2ff03e3d4639e0800000000000000
+      internalID: -1642040084624627045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_157
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 888
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbe3815809556f50800000000000000
+      internalID: 6873998298513140702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_158
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 888
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e77871498b6e540800000000000000
+      internalID: 5036916179449904779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_159
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 888
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff1d868b3567a1b0800000000000000
+      internalID: -5645432301550755844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_160
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 888
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f1e309f0b0fe530800000000000000
+      internalID: 3886337164916432653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_161
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 888
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c4993f6cfc7bdf0800000000000000
+      internalID: -164434407978349555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_162
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 888
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d9b9c2e39a2aed0800000000000000
+      internalID: -2404173166560961127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_163
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 844
+        width: 116
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49aca73dba9229ef0800000000000000
+      internalID: -102974023511913836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_164
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 849
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574d4366e7c365b70800000000000000
+      internalID: 8887357428240536693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_165
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 849
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856b0c427b6de6d40800000000000000
+      internalID: 5579633070442591832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_166
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 849
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed880ba7d3f049d80800000000000000
+      internalID: -8244948261082724130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_167
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 669
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1599ba2282700c0800000000000000
+      internalID: -4609671564217462282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_168
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 669
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96bf4be8d35da2f0800000000000000
+      internalID: -960018954434136419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_169
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 669
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07601d074fda7f330800000000000000
+      internalID: 3744652880558229104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_170
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 669
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5dc3e8fc54ec6b90800000000000000
+      internalID: -7247166612382167717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_171
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 669
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17dedca0ab3836f60800000000000000
+      internalID: 8026403795972779377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_172
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 669
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd26418370341a60800000000000000
+      internalID: 7643787740202806737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_173
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 669
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665427a1fd9f293e0800000000000000
+      internalID: -2048300143883434650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_174
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 669
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9496deb6120f9a2f0800000000000000
+      internalID: -960973019131582135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_175
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 669
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341edfb9e8f3e7510800000000000000
+      internalID: 1548745203597041987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_176
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 669
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910e13a34e20b5ea0800000000000000
+      internalID: -5883105308977274855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_177
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 669
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af82c0736444ff60800000000000000
+      internalID: 8067148026411650984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_178
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 628
+        width: 104
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb66ea184ac0d89c0800000000000000
+      internalID: -3923465799679973701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_179
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 630
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b377490c55341c8b0800000000000000
+      internalID: -5133748064643418309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_180
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 630
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cb481cc92418f30800000000000000
+      internalID: 4576011937414167611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_181
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 630
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cede19f9f05a2440800000000000000
+      internalID: 4911827378157575881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_182
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 630
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f5776ca1729e710800000000000000
+      internalID: 1722951328398270221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_183
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 630
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d9ba66d6c88aec0800000000000000
+      internalID: -3555437504307159751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_184
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 450
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343839f136d56ade0800000000000000
+      internalID: -1322266760273755325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_185
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 450
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c72820ef203ba20800000000000000
+      internalID: 3076806260411235455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_186
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 450
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b69da48bb656f8e0800000000000000
+      internalID: -1660044049254607181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_187
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 450
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0db1e64e0537c8d0800000000000000
+      internalID: -2826231905716683509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_188
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 450
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fc96e42c4221220800000000000000
+      internalID: 2455065163828154193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_189
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 450
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155cfb9c87149fc10800000000000000
+      internalID: 2087771889299604817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_190
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 450
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da916cc54b7185520800000000000000
+      internalID: 2690926840771910061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_191
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 450
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb313751aafe0ba0800000000000000
+      internalID: -6120679272690402354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_192
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 450
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f27ea0d15519c80800000000000000
+      internalID: -8317773453551259867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_193
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 450
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df40358b0d29b9f10800000000000000
+      internalID: 2277575461709219069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_194
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 450
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4bc62997a6c1070800000000000000
+      internalID: 8078448901976011979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_195
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 409
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623c8d777f15c4940800000000000000
+      internalID: 5281686586308215590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_196
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 411
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6179e90f6309a8450800000000000000
+      internalID: 6091840011611576086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_197
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 231
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3373cd7adaee5f200800000000000000
+      internalID: 213338986982946611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_198
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 231
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c83ed8c1ee20550800000000000000
+      internalID: 6125720249584290956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_199
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 231
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb64c1a3398e3b50800000000000000
+      internalID: 6574843360857844734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_200
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 231
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892d60d32db028a90800000000000000
+      internalID: -7313269847301369192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_201
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 231
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faba1b0607db43010800000000000000
+      internalID: 1167766493752044463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_202
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 231
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa38a5172e26f9f0800000000000000
+      internalID: -435109568592725251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_203
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 231
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c141cbcddb5473c00800000000000000
+      internalID: 880248933928670236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_204
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 231
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17df261ba9f242ce0800000000000000
+      internalID: -1430966440149451407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_205
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 231
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8329abc4a7f7c08e0800000000000000
+      internalID: -1725864393939709384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_206
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 231
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b8a08f9795373b0800000000000000
+      internalID: -5515966738211370195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_207
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 231
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a052d715571af10800000000000000
+      internalID: 2279231879278561866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_208
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 190
+        width: 59
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc530303f18b7ee0800000000000000
+      internalID: -1262272389819704119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_209
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 192
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbe5bffa2e9f2990800000000000000
+      internalID: -7408528954485249039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_210
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 192
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7481208bf967835f0800000000000000
+      internalID: -776740507362387897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_211
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8f89ca56f1efcb0800000000000000
+      internalID: -4828387228946728762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_212
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 12
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844e5d7eb4be9aca0800000000000000
+      internalID: -6005009916877216696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_213
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 12
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae108b0db2f8f040800000000000000
+      internalID: 4681758706407317153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_214
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 12
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af991f00cfa722150800000000000000
+      internalID: 5846370489046505978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_215
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 12
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2c016b309e858f0800000000000000
+      internalID: -551434752204160321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_216
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 12
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e25584b697396a0800000000000000
+      internalID: -6443673140155044249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_217
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 12
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d1f69c85db81330800000000000000
+      internalID: 3681900884409654593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_218
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 12
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fd9059bbfb08ab0800000000000000
+      internalID: -5007791973255749806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_219
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 12
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c1a3a3d43f97030800000000000000
+      internalID: 3493090499017448576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_220
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 20
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adbe3ca1098410b0800000000000000
+      internalID: -5758827383222256217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_221
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 20
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c625b8748333f5390800000000000000
+      internalID: -7827481310535134612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_222
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 21
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab244737bbe157180800000000000000
+      internalID: -9118348080096984390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_223
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 20
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1c6d757289f4010800000000000000
+      internalID: 1175325322511827392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_224
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 20
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b9d8fa92865da50800000000000000
+      internalID: 6545252161701124953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_225
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 23
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad7f4903386df5e0800000000000000
+      internalID: -1874227301507433049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_226
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 21
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f65447a204b720f0800000000000000
+      internalID: -1141746057025923335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_227
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 20
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab209a0cc9293280800000000000000
+      internalID: -9063166818779124830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_228
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 20
+        width: 78
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236b403b0298bf310800000000000000
+      internalID: 1439895279410394674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_229
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 4
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3662765cf5263a0800000000000000
+      internalID: -6673666396365888603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_230
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 0
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75dac9f099fc07a90800000000000000
+      internalID: -7318121138178183849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_231
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 0
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc2740a02acf9b30800000000000000
+      internalID: 4296374811011525887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_232
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 0
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3696e9ffba658a1d0800000000000000
+      internalID: -3339323826967254685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_233
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 3
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7665ebae5f94d00800000000000000
+      internalID: 957566784357427178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_234
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 3
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a604ff010480d80800000000000000
+      internalID: -8284301072801961463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_235
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 4
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f1f7143030e6d20800000000000000
+      internalID: 3273557291663564552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Theo_236
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 4
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d231fe6f4a5c1050800000000000000
+      internalID: 5772588119592350418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Celeste - Character Portraits - Theo_0: -8586778397367772902
+      PC _ Computer - Celeste - Character Portraits - Theo_1: 8324616828567417885
+      PC _ Computer - Celeste - Character Portraits - Theo_10: 1485764578342351174
+      PC _ Computer - Celeste - Character Portraits - Theo_100: -2029498031594880062
+      PC _ Computer - Celeste - Character Portraits - Theo_101: -6866258595216798915
+      PC _ Computer - Celeste - Character Portraits - Theo_102: -4168029194442095916
+      PC _ Computer - Celeste - Character Portraits - Theo_103: 3779097458452297823
+      PC _ Computer - Celeste - Character Portraits - Theo_104: 5429546179231688373
+      PC _ Computer - Celeste - Character Portraits - Theo_105: 2401354783270943452
+      PC _ Computer - Celeste - Character Portraits - Theo_106: -8190388272657813285
+      PC _ Computer - Celeste - Character Portraits - Theo_107: -4704506099930108206
+      PC _ Computer - Celeste - Character Portraits - Theo_108: -3571488713510194339
+      PC _ Computer - Celeste - Character Portraits - Theo_109: -3545830397921815490
+      PC _ Computer - Celeste - Character Portraits - Theo_11: 2901731135473777130
+      PC _ Computer - Celeste - Character Portraits - Theo_110: 3193417194265978392
+      PC _ Computer - Celeste - Character Portraits - Theo_111: 8098711935759785162
+      PC _ Computer - Celeste - Character Portraits - Theo_112: 7560616443608469123
+      PC _ Computer - Celeste - Character Portraits - Theo_113: 1331623666786337058
+      PC _ Computer - Celeste - Character Portraits - Theo_114: -3377324973910308815
+      PC _ Computer - Celeste - Character Portraits - Theo_115: -248631395998374279
+      PC _ Computer - Celeste - Character Portraits - Theo_116: -7125142369228364156
+      PC _ Computer - Celeste - Character Portraits - Theo_117: -1684826375471435344
+      PC _ Computer - Celeste - Character Portraits - Theo_118: 1563768063278399392
+      PC _ Computer - Celeste - Character Portraits - Theo_119: -3678617812370884934
+      PC _ Computer - Celeste - Character Portraits - Theo_12: 4596817222718008977
+      PC _ Computer - Celeste - Character Portraits - Theo_120: -7570067769093027416
+      PC _ Computer - Celeste - Character Portraits - Theo_121: -1642618098530630215
+      PC _ Computer - Celeste - Character Portraits - Theo_122: 5532804393824432790
+      PC _ Computer - Celeste - Character Portraits - Theo_123: -7872414391773477762
+      PC _ Computer - Celeste - Character Portraits - Theo_124: -7015551186269979759
+      PC _ Computer - Celeste - Character Portraits - Theo_125: 2860982205472923601
+      PC _ Computer - Celeste - Character Portraits - Theo_126: 8659960076519125921
+      PC _ Computer - Celeste - Character Portraits - Theo_127: 2011430198376623076
+      PC _ Computer - Celeste - Character Portraits - Theo_128: 7468475689401723207
+      PC _ Computer - Celeste - Character Portraits - Theo_129: 3162884422538057646
+      PC _ Computer - Celeste - Character Portraits - Theo_13: 3384408934255392164
+      PC _ Computer - Celeste - Character Portraits - Theo_130: -4581162636420172458
+      PC _ Computer - Celeste - Character Portraits - Theo_131: -5533866218259113521
+      PC _ Computer - Celeste - Character Portraits - Theo_132: -6020775130041297770
+      PC _ Computer - Celeste - Character Portraits - Theo_133: 4519311976479077770
+      PC _ Computer - Celeste - Character Portraits - Theo_134: 585190712715113094
+      PC _ Computer - Celeste - Character Portraits - Theo_135: -7644507043594161781
+      PC _ Computer - Celeste - Character Portraits - Theo_136: 3586336766429544427
+      PC _ Computer - Celeste - Character Portraits - Theo_137: 8591234617010547243
+      PC _ Computer - Celeste - Character Portraits - Theo_138: 8404599683975579745
+      PC _ Computer - Celeste - Character Portraits - Theo_139: 8178375703817425336
+      PC _ Computer - Celeste - Character Portraits - Theo_14: -8157974788602846507
+      PC _ Computer - Celeste - Character Portraits - Theo_140: -8763341843580678677
+      PC _ Computer - Celeste - Character Portraits - Theo_141: 2007878324191257797
+      PC _ Computer - Celeste - Character Portraits - Theo_142: 8292528996360349197
+      PC _ Computer - Celeste - Character Portraits - Theo_143: 1701680086813653295
+      PC _ Computer - Celeste - Character Portraits - Theo_144: -6540101499767961411
+      PC _ Computer - Celeste - Character Portraits - Theo_145: 511369979826796792
+      PC _ Computer - Celeste - Character Portraits - Theo_146: -150012799058727933
+      PC _ Computer - Celeste - Character Portraits - Theo_147: 212109023604715129
+      PC _ Computer - Celeste - Character Portraits - Theo_148: 6866271847509245865
+      PC _ Computer - Celeste - Character Portraits - Theo_149: 519570499051579659
+      PC _ Computer - Celeste - Character Portraits - Theo_15: -2049045461914780877
+      PC _ Computer - Celeste - Character Portraits - Theo_150: 1673687052314824786
+      PC _ Computer - Celeste - Character Portraits - Theo_151: 7663630774331457068
+      PC _ Computer - Celeste - Character Portraits - Theo_152: -405155933192395869
+      PC _ Computer - Celeste - Character Portraits - Theo_153: 8329925232454003454
+      PC _ Computer - Celeste - Character Portraits - Theo_154: 7528531627444946705
+      PC _ Computer - Celeste - Character Portraits - Theo_155: -5603679177557638874
+      PC _ Computer - Celeste - Character Portraits - Theo_156: -1642040084624627045
+      PC _ Computer - Celeste - Character Portraits - Theo_157: 6873998298513140702
+      PC _ Computer - Celeste - Character Portraits - Theo_158: 5036916179449904779
+      PC _ Computer - Celeste - Character Portraits - Theo_159: -5645432301550755844
+      PC _ Computer - Celeste - Character Portraits - Theo_16: 2950573167994403502
+      PC _ Computer - Celeste - Character Portraits - Theo_160: 3886337164916432653
+      PC _ Computer - Celeste - Character Portraits - Theo_161: -164434407978349555
+      PC _ Computer - Celeste - Character Portraits - Theo_162: -2404173166560961127
+      PC _ Computer - Celeste - Character Portraits - Theo_163: -102974023511913836
+      PC _ Computer - Celeste - Character Portraits - Theo_164: 8887357428240536693
+      PC _ Computer - Celeste - Character Portraits - Theo_165: 5579633070442591832
+      PC _ Computer - Celeste - Character Portraits - Theo_166: -8244948261082724130
+      PC _ Computer - Celeste - Character Portraits - Theo_167: -4609671564217462282
+      PC _ Computer - Celeste - Character Portraits - Theo_168: -960018954434136419
+      PC _ Computer - Celeste - Character Portraits - Theo_169: 3744652880558229104
+      PC _ Computer - Celeste - Character Portraits - Theo_17: 519109139316801445
+      PC _ Computer - Celeste - Character Portraits - Theo_170: -7247166612382167717
+      PC _ Computer - Celeste - Character Portraits - Theo_171: 8026403795972779377
+      PC _ Computer - Celeste - Character Portraits - Theo_172: 7643787740202806737
+      PC _ Computer - Celeste - Character Portraits - Theo_173: -2048300143883434650
+      PC _ Computer - Celeste - Character Portraits - Theo_174: -960973019131582135
+      PC _ Computer - Celeste - Character Portraits - Theo_175: 1548745203597041987
+      PC _ Computer - Celeste - Character Portraits - Theo_176: -5883105308977274855
+      PC _ Computer - Celeste - Character Portraits - Theo_177: 8067148026411650984
+      PC _ Computer - Celeste - Character Portraits - Theo_178: -3923465799679973701
+      PC _ Computer - Celeste - Character Portraits - Theo_179: -5133748064643418309
+      PC _ Computer - Celeste - Character Portraits - Theo_18: -907182247458405135
+      PC _ Computer - Celeste - Character Portraits - Theo_180: 4576011937414167611
+      PC _ Computer - Celeste - Character Portraits - Theo_181: 4911827378157575881
+      PC _ Computer - Celeste - Character Portraits - Theo_182: 1722951328398270221
+      PC _ Computer - Celeste - Character Portraits - Theo_183: -3555437504307159751
+      PC _ Computer - Celeste - Character Portraits - Theo_184: -1322266760273755325
+      PC _ Computer - Celeste - Character Portraits - Theo_185: 3076806260411235455
+      PC _ Computer - Celeste - Character Portraits - Theo_186: -1660044049254607181
+      PC _ Computer - Celeste - Character Portraits - Theo_187: -2826231905716683509
+      PC _ Computer - Celeste - Character Portraits - Theo_188: 2455065163828154193
+      PC _ Computer - Celeste - Character Portraits - Theo_189: 2087771889299604817
+      PC _ Computer - Celeste - Character Portraits - Theo_19: -4406452422905728602
+      PC _ Computer - Celeste - Character Portraits - Theo_190: 2690926840771910061
+      PC _ Computer - Celeste - Character Portraits - Theo_191: -6120679272690402354
+      PC _ Computer - Celeste - Character Portraits - Theo_192: -8317773453551259867
+      PC _ Computer - Celeste - Character Portraits - Theo_193: 2277575461709219069
+      PC _ Computer - Celeste - Character Portraits - Theo_194: 8078448901976011979
+      PC _ Computer - Celeste - Character Portraits - Theo_195: 5281686586308215590
+      PC _ Computer - Celeste - Character Portraits - Theo_196: 6091840011611576086
+      PC _ Computer - Celeste - Character Portraits - Theo_197: 213338986982946611
+      PC _ Computer - Celeste - Character Portraits - Theo_198: 6125720249584290956
+      PC _ Computer - Celeste - Character Portraits - Theo_199: 6574843360857844734
+      PC _ Computer - Celeste - Character Portraits - Theo_2: -1521998979551112670
+      PC _ Computer - Celeste - Character Portraits - Theo_20: -8925916671045994595
+      PC _ Computer - Celeste - Character Portraits - Theo_200: -7313269847301369192
+      PC _ Computer - Celeste - Character Portraits - Theo_201: 1167766493752044463
+      PC _ Computer - Celeste - Character Portraits - Theo_202: -435109568592725251
+      PC _ Computer - Celeste - Character Portraits - Theo_203: 880248933928670236
+      PC _ Computer - Celeste - Character Portraits - Theo_204: -1430966440149451407
+      PC _ Computer - Celeste - Character Portraits - Theo_205: -1725864393939709384
+      PC _ Computer - Celeste - Character Portraits - Theo_206: -5515966738211370195
+      PC _ Computer - Celeste - Character Portraits - Theo_207: 2279231879278561866
+      PC _ Computer - Celeste - Character Portraits - Theo_208: -1262272389819704119
+      PC _ Computer - Celeste - Character Portraits - Theo_209: -7408528954485249039
+      PC _ Computer - Celeste - Character Portraits - Theo_21: -8616221998881974295
+      PC _ Computer - Celeste - Character Portraits - Theo_210: -776740507362387897
+      PC _ Computer - Celeste - Character Portraits - Theo_211: -4828387228946728762
+      PC _ Computer - Celeste - Character Portraits - Theo_212: -6005009916877216696
+      PC _ Computer - Celeste - Character Portraits - Theo_213: 4681758706407317153
+      PC _ Computer - Celeste - Character Portraits - Theo_214: 5846370489046505978
+      PC _ Computer - Celeste - Character Portraits - Theo_215: -551434752204160321
+      PC _ Computer - Celeste - Character Portraits - Theo_216: -6443673140155044249
+      PC _ Computer - Celeste - Character Portraits - Theo_217: 3681900884409654593
+      PC _ Computer - Celeste - Character Portraits - Theo_218: -5007791973255749806
+      PC _ Computer - Celeste - Character Portraits - Theo_219: 3493090499017448576
+      PC _ Computer - Celeste - Character Portraits - Theo_22: -9106279107838600324
+      PC _ Computer - Celeste - Character Portraits - Theo_220: -5758827383222256217
+      PC _ Computer - Celeste - Character Portraits - Theo_221: -7827481310535134612
+      PC _ Computer - Celeste - Character Portraits - Theo_222: -9118348080096984390
+      PC _ Computer - Celeste - Character Portraits - Theo_223: 1175325322511827392
+      PC _ Computer - Celeste - Character Portraits - Theo_224: 6545252161701124953
+      PC _ Computer - Celeste - Character Portraits - Theo_225: -1874227301507433049
+      PC _ Computer - Celeste - Character Portraits - Theo_226: -1141746057025923335
+      PC _ Computer - Celeste - Character Portraits - Theo_227: -9063166818779124830
+      PC _ Computer - Celeste - Character Portraits - Theo_228: 1439895279410394674
+      PC _ Computer - Celeste - Character Portraits - Theo_229: -6673666396365888603
+      PC _ Computer - Celeste - Character Portraits - Theo_23: 5849834687022418251
+      PC _ Computer - Celeste - Character Portraits - Theo_230: -7318121138178183849
+      PC _ Computer - Celeste - Character Portraits - Theo_231: 4296374811011525887
+      PC _ Computer - Celeste - Character Portraits - Theo_232: -3339323826967254685
+      PC _ Computer - Celeste - Character Portraits - Theo_233: 957566784357427178
+      PC _ Computer - Celeste - Character Portraits - Theo_234: -8284301072801961463
+      PC _ Computer - Celeste - Character Portraits - Theo_235: 3273557291663564552
+      PC _ Computer - Celeste - Character Portraits - Theo_236: 5772588119592350418
+      PC _ Computer - Celeste - Character Portraits - Theo_24: 1732968711512832080
+      PC _ Computer - Celeste - Character Portraits - Theo_25: -7249838187529568413
+      PC _ Computer - Celeste - Character Portraits - Theo_26: 3573790404694099352
+      PC _ Computer - Celeste - Character Portraits - Theo_27: -3475973741069533398
+      PC _ Computer - Celeste - Character Portraits - Theo_28: -4030839978714374193
+      PC _ Computer - Celeste - Character Portraits - Theo_29: 1280242663619195974
+      PC _ Computer - Celeste - Character Portraits - Theo_3: -8610119850340412732
+      PC _ Computer - Celeste - Character Portraits - Theo_30: 8939266830499820820
+      PC _ Computer - Celeste - Character Portraits - Theo_31: -8761404424090439178
+      PC _ Computer - Celeste - Character Portraits - Theo_32: 8791999598060258889
+      PC _ Computer - Celeste - Character Portraits - Theo_33: 9103232600842181779
+      PC _ Computer - Celeste - Character Portraits - Theo_34: -2283598922124474544
+      PC _ Computer - Celeste - Character Portraits - Theo_35: 2112551938507729610
+      PC _ Computer - Celeste - Character Portraits - Theo_36: 8590659821811828279
+      PC _ Computer - Celeste - Character Portraits - Theo_37: -1520294479507885269
+      PC _ Computer - Celeste - Character Portraits - Theo_38: 7842198136536728958
+      PC _ Computer - Celeste - Character Portraits - Theo_39: -7135616101531225598
+      PC _ Computer - Celeste - Character Portraits - Theo_4: 5780820333746637457
+      PC _ Computer - Celeste - Character Portraits - Theo_40: 77899550499359637
+      PC _ Computer - Celeste - Character Portraits - Theo_41: -2548461210771619624
+      PC _ Computer - Celeste - Character Portraits - Theo_42: -2004035921137954014
+      PC _ Computer - Celeste - Character Portraits - Theo_43: 3935525308746821271
+      PC _ Computer - Celeste - Character Portraits - Theo_44: 3161531018322481952
+      PC _ Computer - Celeste - Character Portraits - Theo_45: 3776072896943359077
+      PC _ Computer - Celeste - Character Portraits - Theo_46: -1412916379759597249
+      PC _ Computer - Celeste - Character Portraits - Theo_47: 8028477874924351723
+      PC _ Computer - Celeste - Character Portraits - Theo_48: 2879691612020840754
+      PC _ Computer - Celeste - Character Portraits - Theo_49: 5055742936573831829
+      PC _ Computer - Celeste - Character Portraits - Theo_5: 1896563388502327218
+      PC _ Computer - Celeste - Character Portraits - Theo_50: -23214845540892239
+      PC _ Computer - Celeste - Character Portraits - Theo_51: 6648112733233191653
+      PC _ Computer - Celeste - Character Portraits - Theo_52: 1899835416074729784
+      PC _ Computer - Celeste - Character Portraits - Theo_53: 7643909962130433707
+      PC _ Computer - Celeste - Character Portraits - Theo_54: -2613042784674564068
+      PC _ Computer - Celeste - Character Portraits - Theo_55: -4389589668535930454
+      PC _ Computer - Celeste - Character Portraits - Theo_56: 4545679817510327916
+      PC _ Computer - Celeste - Character Portraits - Theo_57: 2576692601974789641
+      PC _ Computer - Celeste - Character Portraits - Theo_58: 5707541894657367947
+      PC _ Computer - Celeste - Character Portraits - Theo_59: -4336615395797696803
+      PC _ Computer - Celeste - Character Portraits - Theo_6: 8744670107423430437
+      PC _ Computer - Celeste - Character Portraits - Theo_60: 8276677023997342337
+      PC _ Computer - Celeste - Character Portraits - Theo_61: -3042684151230811188
+      PC _ Computer - Celeste - Character Portraits - Theo_62: -790401914094842024
+      PC _ Computer - Celeste - Character Portraits - Theo_63: -471577582793988955
+      PC _ Computer - Celeste - Character Portraits - Theo_64: 7068965712114550005
+      PC _ Computer - Celeste - Character Portraits - Theo_65: 1959926680670204955
+      PC _ Computer - Celeste - Character Portraits - Theo_66: 6086921706355064132
+      PC _ Computer - Celeste - Character Portraits - Theo_67: -3955432326542798714
+      PC _ Computer - Celeste - Character Portraits - Theo_68: 6890259568665965468
+      PC _ Computer - Celeste - Character Portraits - Theo_69: -8359243005971450237
+      PC _ Computer - Celeste - Character Portraits - Theo_7: 8381588518759506600
+      PC _ Computer - Celeste - Character Portraits - Theo_70: 7150725132691842378
+      PC _ Computer - Celeste - Character Portraits - Theo_71: -4450933662673649896
+      PC _ Computer - Celeste - Character Portraits - Theo_72: -7270040656145114133
+      PC _ Computer - Celeste - Character Portraits - Theo_73: 8899099268879836302
+      PC _ Computer - Celeste - Character Portraits - Theo_74: 6634228890657696252
+      PC _ Computer - Celeste - Character Portraits - Theo_75: 3226875841175679720
+      PC _ Computer - Celeste - Character Portraits - Theo_76: -7099224233333777003
+      PC _ Computer - Celeste - Character Portraits - Theo_77: -9072324329267104409
+      PC _ Computer - Celeste - Character Portraits - Theo_78: 3297476906105933652
+      PC _ Computer - Celeste - Character Portraits - Theo_79: 7643001539345616902
+      PC _ Computer - Celeste - Character Portraits - Theo_8: -3522953488044645978
+      PC _ Computer - Celeste - Character Portraits - Theo_80: -7830805888013286148
+      PC _ Computer - Celeste - Character Portraits - Theo_81: -7292942873265905342
+      PC _ Computer - Celeste - Character Portraits - Theo_82: 1576801629535438805
+      PC _ Computer - Celeste - Character Portraits - Theo_83: 847664387446317526
+      PC _ Computer - Celeste - Character Portraits - Theo_84: 5643491673003385416
+      PC _ Computer - Celeste - Character Portraits - Theo_85: -6041493879048605860
+      PC _ Computer - Celeste - Character Portraits - Theo_86: -7579543086820876439
+      PC _ Computer - Celeste - Character Portraits - Theo_87: -1862350726403898733
+      PC _ Computer - Celeste - Character Portraits - Theo_88: -1083938790145617054
+      PC _ Computer - Celeste - Character Portraits - Theo_89: -2146929071776957700
+      PC _ Computer - Celeste - Character Portraits - Theo_9: -5226900290231896806
+      PC _ Computer - Celeste - Character Portraits - Theo_90: 6188810749176641070
+      PC _ Computer - Celeste - Character Portraits - Theo_91: 1231948264850262607
+      PC _ Computer - Celeste - Character Portraits - Theo_92: -1956682444374822831
+      PC _ Computer - Celeste - Character Portraits - Theo_93: 8972298061254181124
+      PC _ Computer - Celeste - Character Portraits - Theo_94: -1370575769444631050
+      PC _ Computer - Celeste - Character Portraits - Theo_95: 5758960858343132392
+      PC _ Computer - Celeste - Character Portraits - Theo_96: 4968975972463679753
+      PC _ Computer - Celeste - Character Portraits - Theo_97: -4230528904584359365
+      PC _ Computer - Celeste - Character Portraits - Theo_98: -275280037430541842
+      PC _ Computer - Celeste - Character Portraits - Theo_99: 7851738711495295630
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

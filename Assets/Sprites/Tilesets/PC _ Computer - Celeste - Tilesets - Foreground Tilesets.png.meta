@@ -1,0 +1,3445 @@
+fileFormatVersion: 2
+guid: 4d8af6caa26332e4383242c565a5d7e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7072642344272084524
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_0
+  - first:
+      213: 6490012207381710021
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_1
+  - first:
+      213: 2159710300318548515
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_2
+  - first:
+      213: -4813815228337652336
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_3
+  - first:
+      213: 4970176094644013580
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_4
+  - first:
+      213: 4593501389220058005
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_5
+  - first:
+      213: -3853436340317015394
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_6
+  - first:
+      213: 8730977972282252239
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_7
+  - first:
+      213: 277913051315490777
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_8
+  - first:
+      213: 9133708277377915524
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_9
+  - first:
+      213: 2183501415434654516
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_10
+  - first:
+      213: 6476200349384030015
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_11
+  - first:
+      213: -8156168025282358770
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_12
+  - first:
+      213: 4667094203910703657
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_13
+  - first:
+      213: -2512656574379705487
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_14
+  - first:
+      213: 909880136998069493
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_15
+  - first:
+      213: 941724867161777004
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_16
+  - first:
+      213: -2049723313872501118
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_17
+  - first:
+      213: -3556671860102226748
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_18
+  - first:
+      213: 4445412424765979579
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_19
+  - first:
+      213: -2624723276240926123
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_20
+  - first:
+      213: -7446691628971770128
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_21
+  - first:
+      213: 8097427147391934687
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_22
+  - first:
+      213: 191594176580880339
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_23
+  - first:
+      213: -8226096574383114987
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_24
+  - first:
+      213: -4854890616867946283
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_25
+  - first:
+      213: -122335375284346996
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_26
+  - first:
+      213: -1484673578991778839
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_27
+  - first:
+      213: -6392378964937075488
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_28
+  - first:
+      213: 2391046020230459103
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_29
+  - first:
+      213: -8035081250625839703
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_30
+  - first:
+      213: -4914312761060565896
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_31
+  - first:
+      213: -4708128443202610184
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_32
+  - first:
+      213: 4404192422721378520
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_33
+  - first:
+      213: -4319545601734414040
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_34
+  - first:
+      213: 1909961585485391308
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_35
+  - first:
+      213: -5453773928406389186
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_36
+  - first:
+      213: -3341555273566349868
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_37
+  - first:
+      213: 2171134729812404442
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_38
+  - first:
+      213: 692600301226499329
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_39
+  - first:
+      213: 1071284938905096095
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_40
+  - first:
+      213: 3642981687104787135
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_41
+  - first:
+      213: 5378387970680962150
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_42
+  - first:
+      213: -5284748163036896570
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_43
+  - first:
+      213: 8040886414933309057
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_44
+  - first:
+      213: 6125341429943059722
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_45
+  - first:
+      213: 3447287562246195301
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_46
+  - first:
+      213: -2800949798390502692
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_47
+  - first:
+      213: 94017495636480237
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_48
+  - first:
+      213: 6029256132393625217
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_49
+  - first:
+      213: -8027665707671299435
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_50
+  - first:
+      213: 2285670363381734264
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_51
+  - first:
+      213: -1079882713016881581
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_52
+  - first:
+      213: -5615572977806523618
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_53
+  - first:
+      213: -7000329652319899520
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_54
+  - first:
+      213: -1268537159029105785
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_55
+  - first:
+      213: -26054413947844032
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_56
+  - first:
+      213: -3780411117140420291
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_57
+  - first:
+      213: -5284215946955588146
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_58
+  - first:
+      213: -4440041403484642271
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_59
+  - first:
+      213: -3888083524910098306
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_60
+  - first:
+      213: -8202632715728897578
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_61
+  - first:
+      213: -326550009830917257
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_62
+  - first:
+      213: -3551979519947445892
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_63
+  - first:
+      213: -8713827201032338577
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_64
+  - first:
+      213: 5172344585211135533
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_65
+  - first:
+      213: 4877688333440674129
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_66
+  - first:
+      213: -1357123011903550145
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_67
+  - first:
+      213: -119566140268186694
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_68
+  - first:
+      213: -906636698574161851
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_69
+  - first:
+      213: -4674959562596528895
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_70
+  - first:
+      213: -3717040955213495249
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_71
+  - first:
+      213: 2737072983104087002
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_72
+  - first:
+      213: -1076427238112065856
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_73
+  - first:
+      213: 2051057037934491168
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_74
+  - first:
+      213: 6207073427932949264
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_75
+  - first:
+      213: 1150957855619641328
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_76
+  - first:
+      213: -8333551841198582427
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_77
+  - first:
+      213: -2067046155942905097
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_78
+  - first:
+      213: 6910070455264982121
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_79
+  - first:
+      213: -6447000448546465963
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_80
+  - first:
+      213: -4440971364072684162
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_81
+  - first:
+      213: 570544089994508696
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_82
+  - first:
+      213: 3399704826688858752
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_83
+  - first:
+      213: 1055577337010176082
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_84
+  - first:
+      213: -4237578315440645339
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_85
+  - first:
+      213: 6816512904924278405
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_86
+  - first:
+      213: 7040445995748061884
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_87
+  - first:
+      213: 2093647064944568608
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_88
+  - first:
+      213: -7464611064958082304
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_89
+  - first:
+      213: -4814151277607517333
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_90
+  - first:
+      213: 5968208767262930890
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_91
+  - first:
+      213: -5708141217885146485
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_92
+  - first:
+      213: -748462263514950885
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_93
+  - first:
+      213: -8565169950011821288
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_94
+  - first:
+      213: 852511082909513328
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_95
+  - first:
+      213: 3308162923812271680
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_96
+  - first:
+      213: 3058820658565181183
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_97
+  - first:
+      213: -3041466693886865589
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_98
+  - first:
+      213: 6106790156765302196
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_99
+  - first:
+      213: -2339934759697059501
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_100
+  - first:
+      213: -5909161322715974012
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_101
+  - first:
+      213: 3605853205701247630
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_102
+  - first:
+      213: -7727731634590715869
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_103
+  - first:
+      213: -529275215762405268
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_104
+  - first:
+      213: -6356786571674330939
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_105
+  - first:
+      213: -980630045309089778
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_106
+  - first:
+      213: 7409487617189681615
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_107
+  - first:
+      213: -4795294605818807801
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_108
+  - first:
+      213: -7788001585758123008
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_109
+  - first:
+      213: -808717890304283296
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_110
+  - first:
+      213: 5426791076717382190
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_111
+  - first:
+      213: 7625230515461886779
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_112
+  - first:
+      213: -7320597525703870403
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_113
+  - first:
+      213: 3968090274571831002
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_114
+  - first:
+      213: 2270876989966750857
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_115
+  - first:
+      213: -2177789157346153083
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_116
+  - first:
+      213: 3322337257913241763
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_117
+  - first:
+      213: 6689246233826321481
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_118
+  - first:
+      213: 5494780886572848944
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_119
+  - first:
+      213: -4324613402926875715
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_120
+  - first:
+      213: 4300215363561139309
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_121
+  - first:
+      213: -5080282296091974198
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_122
+  - first:
+      213: -4395124541591607309
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_123
+  - first:
+      213: -3928831026067174862
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_124
+  - first:
+      213: -8504759616825641220
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_125
+  - first:
+      213: -7183733141831943679
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_126
+  - first:
+      213: 4038131234899393724
+    second: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_127
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 535
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1c646a24de8dd90800000000000000
+      internalID: -7072642344272084524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 524
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c48fe097b7211a50800000000000000
+      internalID: 6490012207381710021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 535
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3224d345315d8fd10800000000000000
+      internalID: 2159710300318548515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 524
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d7194fd84e13db0800000000000000
+      internalID: -4813815228337652336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 524
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a056033dc99f440800000000000000
+      internalID: 4970176094644013580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_5
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 524
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59399b31d256fbf30800000000000000
+      internalID: 4593501389220058005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_6
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 535
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92b2da9018d58ac0800000000000000
+      internalID: -3853436340317015394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 524
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbd4a3053aaa2970800000000000000
+      internalID: 8730977972282252239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_8
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 524
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfca1e92785bd300800000000000000
+      internalID: 277913051315490777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 535
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ad72b294371ce70800000000000000
+      internalID: 9133708277377915524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 524
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4339b89f7fa5d4e10800000000000000
+      internalID: 2183501415434654516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_11
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 535
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37bb47c7e510e950800000000000000
+      internalID: 6476200349384030015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 521
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0255ace4687fce80800000000000000
+      internalID: -8156168025282358770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_13
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 535
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ac16d7379d4c040800000000000000
+      internalID: 4667094203910703657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_14
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 524
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b3c818820412dd0800000000000000
+      internalID: -2512656574379705487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_15
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 524
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f424f1f92b80ac00800000000000000
+      internalID: 909880136998069493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_16
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 525
+        width: 50
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c636457f6cda11d00800000000000000
+      internalID: 941724867161777004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_17
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 522
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2860bc4818bed83e0800000000000000
+      internalID: -2049723313872501118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_18
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 535
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc9afb89c924aec0800000000000000
+      internalID: -3556671860102226748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 524
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbb84a2c0741bd30800000000000000
+      internalID: 4445412424765979579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_20
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 524
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ac5fd261c139bd0800000000000000
+      internalID: -2624723276240926123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_21
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 524
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe334fea6908a890800000000000000
+      internalID: -7446691628971770128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_22
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 524
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0a6eaa617df5070800000000000000
+      internalID: 8097427147391934687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_23
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 524
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7032473eda8a200800000000000000
+      internalID: 191594176580880339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_24
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 524
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51536d3dfb807dd80800000000000000
+      internalID: -8226096574383114987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_25
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 524
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0853ec4b6ff9cb0800000000000000
+      internalID: -4854890616867946283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_26
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 522
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f56b4df906d4ef0800000000000000
+      internalID: -122335375284346996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_27
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 525
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e389ccfe31656be0800000000000000
+      internalID: -1484673578991778839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_28
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 391
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e41f3d1335b947a0800000000000000
+      internalID: -6392378964937075488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_29
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 391
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdea275efa3be2120800000000000000
+      internalID: 2391046020230459103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_30
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 391
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad9b0b9c28ad7090800000000000000
+      internalID: -8035081250625839703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_31
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 391
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cd0d9b49adccbb0800000000000000
+      internalID: -4914312761060565896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_32
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 391
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbdef9202e59aeb0800000000000000
+      internalID: -4708128443202610184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 379
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d856ce8ca5de1d30800000000000000
+      internalID: 4404192422721378520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_34
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 391
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821f4814924ed04c0800000000000000
+      internalID: -4319545601734414040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_35
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 391
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5af7d41fb818a10800000000000000
+      internalID: 1909961585485391308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 378
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3eec08e18d4054b0800000000000000
+      internalID: -5453773928406389186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_37
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 378
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d59eb9de2960a1d0800000000000000
+      internalID: -3341555273566349868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_38
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 378
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad86bf9988b612e10800000000000000
+      internalID: 2171134729812404442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_39
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 378
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d1feded4c9c9900800000000000000
+      internalID: 692600301226499329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_40
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 376
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f0aacd9f7fdde00800000000000000
+      internalID: 1071284938905096095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_41
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 378
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb252270b887e8230800000000000000
+      internalID: 3642981687104787135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_42
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 375
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c3ca80d5fd3aa40800000000000000
+      internalID: 5378387970680962150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_43
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 378
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2a9c6ab8dc8a6b0800000000000000
+      internalID: -5284748163036896570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_44
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 378
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1863d598797f69f60800000000000000
+      internalID: 8040886414933309057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_45
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 378
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a054dbbb395910550800000000000000
+      internalID: 6125341429943059722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_46
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 378
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5688e4af5c937df20800000000000000
+      internalID: 3447287562246195301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_47
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 378
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda6b399ff60129d0800000000000000
+      internalID: -2800949798390502692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_48
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 378
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de095160a640e4100800000000000000
+      internalID: 94017495636480237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_49
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 378
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186ea2f02883ca350800000000000000
+      internalID: 6029256132393625217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_50
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 378
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59adaae3290089090800000000000000
+      internalID: -8027665707671299435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_51
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 378
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b9103e51558bf10800000000000000
+      internalID: 2285670363381734264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_52
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 379
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e2b8bd46c7301f0800000000000000
+      internalID: -1079882713016881581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_53
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 379
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e134f87112a7112b0800000000000000
+      internalID: -5615572977806523618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_54
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 379
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080b6d24545d9de90800000000000000
+      internalID: -7000329652319899520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 379
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bdfa3cc20456ee0800000000000000
+      internalID: -1268537159029105785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_56
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 378
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04acec706af63aff0800000000000000
+      internalID: -26054413947844032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_57
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 247
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3958e15e18498bc0800000000000000
+      internalID: -3780411117140420291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_58
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 247
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdf14dd791baa6b0800000000000000
+      internalID: -5284215946955588146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_59
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 247
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124654d2eddc162c0800000000000000
+      internalID: -4440041403484642271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_60
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 247
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e785fa052a0ca0ac0800000000000000
+      internalID: -3888083524910098306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_61
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 247
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d93bf321056a2e80800000000000000
+      internalID: -8202632715728897578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_62
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 215
+        width: 50
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bb0a60f7cd77bf0800000000000000
+      internalID: -326550009830917257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_63
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 236
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79e1102275d4bec0800000000000000
+      internalID: -3551979519947445892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_64
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 247
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63c4581454421780800000000000000
+      internalID: -8713827201032338577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_65
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 236
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26cc69fefbd7c740800000000000000
+      internalID: 5172344585211135533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_66
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 235
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1596cc732b701b340800000000000000
+      internalID: 4877688333440674129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 235
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d0bfe9fc78a2de0800000000000000
+      internalID: -1357123011903550145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_68
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 235
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3762a9a37375ef0800000000000000
+      internalID: -119566140268186694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_69
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 235
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5487729e9bafa63f0800000000000000
+      internalID: -906636698574161851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_70
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 233
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d4e1cfb053f1fb0800000000000000
+      internalID: -4674959562596528895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 234
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24cbe8e1fa6a6cc0800000000000000
+      internalID: -3717040955213495249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_72
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 234
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3ec3260690cf520800000000000000
+      internalID: 2737072983104087002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 234
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c686cd4123cf01f0800000000000000
+      internalID: -1076427238112065856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_74
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 234
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02676205281d67c10800000000000000
+      internalID: 2051057037934491168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_75
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 234
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ba5be6564f32650800000000000000
+      internalID: 6207073427932949264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_76
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 234
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff67a7521609ff00800000000000000
+      internalID: 1150957855619641328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_77
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 234
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5655e04e0c6495c80800000000000000
+      internalID: -8333551841198582427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_78
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 234
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fabfac09706053e0800000000000000
+      internalID: -2067046155942905097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_79
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 234
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964bdfac77085ef50800000000000000
+      internalID: 6910070455264982121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_80
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 234
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5579a9def37a786a0800000000000000
+      internalID: -6447000448546465963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_81
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 233
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7504cad2108e52c0800000000000000
+      internalID: -4440971364072684162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_82
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 234
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89932d4b3dafae700800000000000000
+      internalID: 570544089994508696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_83
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 234
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a68f7078d2e2f20800000000000000
+      internalID: 3399704826688858752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_84
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 233
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250c17dcef926ae00800000000000000
+      internalID: 1055577337010176082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_85
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 234
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b134849f81135c0800000000000000
+      internalID: -4237578315440645339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_86
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 232
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ea0e02f5e199e50800000000000000
+      internalID: 6816512904924278405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_87
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 234
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb272ecc450b4b160800000000000000
+      internalID: 7040445995748061884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_88
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 234
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0296f07b9e02e0d10800000000000000
+      internalID: 2093647064944568608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_89
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 234
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00329be19cf586890800000000000000
+      internalID: -7464611064958082304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_90
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 215
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6306336be2b03db0800000000000000
+      internalID: -4814151277607517333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_91
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 215
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7341eb04653d250800000000000000
+      internalID: 5968208767262930890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_92
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 159
+        width: 178
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82b03c2ecb98c0b0800000000000000
+      internalID: -5708141217885146485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_93
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 103
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13186f698dec95f0800000000000000
+      internalID: -748462263514950885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_94
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 103
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813f1b88f47622980800000000000000
+      internalID: -8565169950011821288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_95
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 204
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076b7e7205ab4db00800000000000000
+      internalID: 852511082909513328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_96
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 204
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046b2fcd6a4f8ed20800000000000000
+      internalID: 3308162923812271680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 201
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe6761ce2d137a20800000000000000
+      internalID: 3058820658565181183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_98
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 199
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f01b2082a8ac5d0800000000000000
+      internalID: -3041466693886865589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_99
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 185
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd09dbda4dafb450800000000000000
+      internalID: 6106790156765302196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_100
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 207
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351faaacbb1e68fd0800000000000000
+      internalID: -2339934759697059501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_101
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 207
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4867907c5117efda0800000000000000
+      internalID: -5909161322715974012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_102
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 202
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82c60ec2609a0230800000000000000
+      internalID: 3605853205701247630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_103
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 127
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320fba8850591c490800000000000000
+      internalID: -7727731634590715869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_104
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 120
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c684018def2a7a8f0800000000000000
+      internalID: -529275215762405268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_105
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 117
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8d062fa4828c7a0800000000000000
+      internalID: -6356786571674330939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_106
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 47
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08c64d5b2a1462f0800000000000000
+      internalID: -980630045309089778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_107
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 91
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc91f3e0bb9c3d660800000000000000
+      internalID: 7409487617189681615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_108
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 90
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ab2da66f0b37db0800000000000000
+      internalID: -4795294605818807801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_109
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 90
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c45b202d57be390800000000000000
+      internalID: -7788001585758123008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_110
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 91
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06de8e01d5bd6c4f0800000000000000
+      internalID: -808717890304283296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_111
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 35
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2acffd5bb5df4b40800000000000000
+      internalID: 5426791076717382190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_112
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 36
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33139ce0c242d960800000000000000
+      internalID: 7625230515461886779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_113
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 36
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3831d82653086a90800000000000000
+      internalID: -7320597525703870403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_114
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 36
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad64984b41d711730800000000000000
+      internalID: 3968090274571831002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_115
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 33
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984939b3796c38f10800000000000000
+      internalID: 2270876989966750857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_116
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 36
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d6fa0cc40f6c1e0800000000000000
+      internalID: -2177789157346153083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_117
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 23
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0d6f132205b1e20800000000000000
+      internalID: 3322337257913241763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_118
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 9
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944665e220af4dc50800000000000000
+      internalID: 6689246233826321481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_119
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 12
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037d7ce8a12614c40800000000000000
+      internalID: 5494780886572848944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_120
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb76a7d503ebf3c0800000000000000
+      internalID: -4324613402926875715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_121
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 12
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c2db2f61f6dab30800000000000000
+      internalID: 4300215363561139309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_122
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 12
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac56bbe0b263f79b0800000000000000
+      internalID: -5080282296091974198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_123
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 12
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7a4da04816103c0800000000000000
+      internalID: -4395124541591607309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_124
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 12
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a8bb46ffcf979c0800000000000000
+      internalID: -3928831026067174862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_125
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 0
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6350b403609f980800000000000000
+      internalID: -8504759616825641220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_126
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10af7efb4c04e4c90800000000000000
+      internalID: -7183733141831943679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Tilesets - Foreground Tilesets_127
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc769496f25a0830800000000000000
+      internalID: 4038131234899393724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_0: -7072642344272084524
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_1: 6490012207381710021
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_10: 2183501415434654516
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_100: -2339934759697059501
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_101: -5909161322715974012
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_102: 3605853205701247630
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_103: -7727731634590715869
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_104: -529275215762405268
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_105: -6356786571674330939
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_106: -980630045309089778
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_107: 7409487617189681615
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_108: -4795294605818807801
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_109: -7788001585758123008
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_11: 6476200349384030015
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_110: -808717890304283296
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_111: 5426791076717382190
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_112: 7625230515461886779
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_113: -7320597525703870403
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_114: 3968090274571831002
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_115: 2270876989966750857
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_116: -2177789157346153083
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_117: 3322337257913241763
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_118: 6689246233826321481
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_119: 5494780886572848944
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_12: -8156168025282358770
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_120: -4324613402926875715
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_121: 4300215363561139309
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_122: -5080282296091974198
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_123: -4395124541591607309
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_124: -3928831026067174862
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_125: -8504759616825641220
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_126: -7183733141831943679
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_127: 4038131234899393724
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_13: 4667094203910703657
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_14: -2512656574379705487
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_15: 909880136998069493
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_16: 941724867161777004
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_17: -2049723313872501118
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_18: -3556671860102226748
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_19: 4445412424765979579
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_2: 2159710300318548515
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_20: -2624723276240926123
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_21: -7446691628971770128
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_22: 8097427147391934687
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_23: 191594176580880339
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_24: -8226096574383114987
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_25: -4854890616867946283
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_26: -122335375284346996
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_27: -1484673578991778839
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_28: -6392378964937075488
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_29: 2391046020230459103
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_3: -4813815228337652336
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_30: -8035081250625839703
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_31: -4914312761060565896
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_32: -4708128443202610184
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_33: 4404192422721378520
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_34: -4319545601734414040
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_35: 1909961585485391308
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_36: -5453773928406389186
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_37: -3341555273566349868
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_38: 2171134729812404442
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_39: 692600301226499329
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_4: 4970176094644013580
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_40: 1071284938905096095
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_41: 3642981687104787135
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_42: 5378387970680962150
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_43: -5284748163036896570
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_44: 8040886414933309057
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_45: 6125341429943059722
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_46: 3447287562246195301
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_47: -2800949798390502692
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_48: 94017495636480237
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_49: 6029256132393625217
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_5: 4593501389220058005
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_50: -8027665707671299435
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_51: 2285670363381734264
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_52: -1079882713016881581
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_53: -5615572977806523618
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_54: -7000329652319899520
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_55: -1268537159029105785
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_56: -26054413947844032
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_57: -3780411117140420291
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_58: -5284215946955588146
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_59: -4440041403484642271
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_6: -3853436340317015394
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_60: -3888083524910098306
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_61: -8202632715728897578
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_62: -326550009830917257
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_63: -3551979519947445892
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_64: -8713827201032338577
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_65: 5172344585211135533
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_66: 4877688333440674129
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_67: -1357123011903550145
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_68: -119566140268186694
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_69: -906636698574161851
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_7: 8730977972282252239
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_70: -4674959562596528895
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_71: -3717040955213495249
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_72: 2737072983104087002
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_73: -1076427238112065856
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_74: 2051057037934491168
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_75: 6207073427932949264
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_76: 1150957855619641328
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_77: -8333551841198582427
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_78: -2067046155942905097
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_79: 6910070455264982121
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_8: 277913051315490777
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_80: -6447000448546465963
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_81: -4440971364072684162
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_82: 570544089994508696
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_83: 3399704826688858752
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_84: 1055577337010176082
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_85: -4237578315440645339
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_86: 6816512904924278405
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_87: 7040445995748061884
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_88: 2093647064944568608
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_89: -7464611064958082304
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_9: 9133708277377915524
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_90: -4814151277607517333
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_91: 5968208767262930890
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_92: -5708141217885146485
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_93: -748462263514950885
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_94: -8565169950011821288
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_95: 852511082909513328
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_96: 3308162923812271680
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_97: 3058820658565181183
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_98: -3041466693886865589
+      PC _ Computer - Celeste - Tilesets - Foreground Tilesets_99: 6106790156765302196
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
