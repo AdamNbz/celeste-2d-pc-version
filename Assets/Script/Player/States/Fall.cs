@@ -10,12 +10,11 @@ namespace Player_State
         public override void Enter()
         {
      
-            playerController.GetAnimator().SetBool("isFalling", true);
+            playerController.GetAnimator().Play("Fall");
         }
         public override void Exit()
         {
             playerController.SpawnLandingEffect();
-            playerController.GetAnimator().SetBool("isFalling", false);
         }
         public override void FixedUpdate()
         {

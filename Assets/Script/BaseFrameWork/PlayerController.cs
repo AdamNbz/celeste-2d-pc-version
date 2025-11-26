@@ -152,7 +152,7 @@ public class PlayerController : MonoBehaviour
     public bool HandleJump()
     {
        
-        if (Jump.IsPressed()&& rb.IsTouchingLayers(1 << LayerMask.NameToLayer("Ground")) && state.GetStateName() != "Jump")
+        if (Jump.IsPressed()&& rb.IsTouchingLayers(LayerMask.NameToLayer("Ground")) && state.GetStateName() != "Jump")
         {
      
             rb.linearVelocity += new Vector2(0, jumpForce);
@@ -164,7 +164,7 @@ public class PlayerController : MonoBehaviour
 
     public bool IsOnTheGround()
     {
-        return rb.IsTouchingLayers( 1 << LayerMask.NameToLayer("Ground"));
+        return rb.IsTouchingLayers(LayerMask.NameToLayer("Ground"));
     }
 
     public Vector2 GetObjectVelocity()
@@ -182,6 +182,7 @@ public class PlayerController : MonoBehaviour
     {
         if(Dash.IsPressed())
         {
+            rb.linearVelocity = new Vector2(Direction * movementSpeed * 2, rb.linearVelocity.y);
             SetState(new Dash(this));
         }
     }
@@ -190,5 +191,10 @@ public class PlayerController : MonoBehaviour
     {
 
         landingEffect.SpawnLandingEffect(footPosition);
+    }
+
+    public float dashSpeed
+    {
+        get { return movementSpeed * 2; }
     }
 }

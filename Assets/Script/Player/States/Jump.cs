@@ -8,11 +8,11 @@ namespace Player_State
         }
         public override void Enter()
         {
-            playerController.GetAnimator().SetBool("isJumping", true);
+            playerController.GetAnimator().Play("Jump");
         }
         public override void Exit()
         {
-            playerController.GetAnimator().SetBool("isJumping", false);
+            
         }
         public override void FixedUpdate()
         {
