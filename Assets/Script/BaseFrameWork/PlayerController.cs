@@ -152,7 +152,7 @@ public class PlayerController : MonoBehaviour
     public bool HandleJump()
     {
        
-        if (Jump.IsPressed()&& rb.IsTouchingLayers(LayerMask.NameToLayer("Ground")) && state.GetStateName() != "Jump")
+        if (Jump.IsPressed()&& rb.IsTouchingLayers(1 << LayerMask.NameToLayer("Ground")) && state.GetStateName() != "Jump")
         {
      
             rb.linearVelocity += new Vector2(0, jumpForce);
@@ -164,7 +164,7 @@ public class PlayerController : MonoBehaviour
 
     public bool IsOnTheGround()
     {
-        return rb.IsTouchingLayers(LayerMask.NameToLayer("Ground"));
+        return rb.IsTouchingLayers(1 << LayerMask.NameToLayer("Ground"));
     }
 
     public Vector2 GetObjectVelocity()

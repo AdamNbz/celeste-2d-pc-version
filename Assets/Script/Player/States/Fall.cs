@@ -10,7 +10,7 @@ namespace Player_State
         public override void Enter()
         {
      
-            playerController.GetAnimator().Play("Fall");
+            playerController.GetAnimator().Play("PlayerFall");
         }
         public override void Exit()
         {

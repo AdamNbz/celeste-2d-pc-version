@@ -14,7 +14,7 @@ namespace Player_State
 
         public override void Enter()
         {
-            playerController.GetAnimator().Play("Dash");
+            playerController.GetAnimator().Play("PlayerDash");
             dashTimer = dashDuration;
             previousSpeed=playerController.GetObjectVelocity().x/playerController.Direction;
             playerController.SetObjectVelocity(playerController.dashSpeed*playerController.Direction,0);
