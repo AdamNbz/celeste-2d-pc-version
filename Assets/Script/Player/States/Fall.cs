@@ -22,6 +22,7 @@ namespace Player_State
             if(playerController.IsOnTheGround())
             {
                 playerController.SetObjectVelocity(playerController.GetObjectVelocity().x, 0);
+            
                 playerController.SetState(new Idle(playerController));
                 return;
             }

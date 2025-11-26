@@ -20,15 +20,17 @@ public class PlayerController : MonoBehaviour
     PlayerState state;
     Animator animator;
     Rigidbody2D rb;
-    Transform footerPosition;
-
-    // private components
-    LandingEffect landingEffect;
-
+    Transform footPosition;
+    Transform handPosition;
     Vector2 originalScale;
     public PlayerState nextState;
     int _Direction = 1;
     float currentSpeed = 5;
+
+
+    // private components
+    LandingEffect landingEffect;
+
 
     public int Direction
     {
@@ -59,7 +61,8 @@ public class PlayerController : MonoBehaviour
         SetState(new Idle(this));
         originalScale = transform.localScale;
         landingEffect = GetComponent<LandingEffect>();
-        footerPosition = GameObject.FindGameObjectWithTag("PlayerFooterPosition").transform;
+        footPosition = GameObject.FindGameObjectWithTag("PlayerFootPosition").transform;
+        handPosition = GameObject.FindGameObjectWithTag("PlayerHandPosition").transform;
     }
 
     private void Update()
@@ -144,7 +147,12 @@ public class PlayerController : MonoBehaviour
 
     public bool IsOnTheGround()
     {
-        return Physics2D.OverlapCircle(footerPosition.position, 0.1f, 1 << LayerMask.NameToLayer("Ground"));
+        return Physics2D.OverlapCircle(footPosition.position, 0.1f, 1 << LayerMask.NameToLayer("Ground"));
+    }
+
+    public bool IsTouchingWall()
+    {
+        return Physics2D.OverlapCircle(handPosition.position, 0.1f, 1 << LayerMask.NameToLayer("Ground"));
     }
 
     public Vector2 GetObjectVelocity()
@@ -170,7 +178,7 @@ public class PlayerController : MonoBehaviour
     public void SpawnLandingEffect()
     {
 
-        landingEffect.SpawnLandingEffect(footerPosition.position);
+        landingEffect.SpawnLandingEffect(footPosition.position);
     }
 
     public float dashSpeed

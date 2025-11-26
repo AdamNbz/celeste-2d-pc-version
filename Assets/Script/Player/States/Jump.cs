@@ -18,6 +18,7 @@ namespace Player_State
         {
             playerController.HandleMovement();
             playerController.HandleDash();
+            
 
             if (playerController.GetObjectVelocity().y<0)
             {
