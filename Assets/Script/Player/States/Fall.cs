@@ -9,10 +9,12 @@ namespace Player_State
         }
         public override void Enter()
         {
-            playerController.GetAnimator().Play("Fall");
+     
+            playerController.GetAnimator().Play("PlayerFall");
         }
         public override void Exit()
         {
+            playerController.SpawnLandingEffect();
         }
         public override void FixedUpdate()
         {
@@ -24,6 +26,7 @@ namespace Player_State
                 return;
             }
             playerController.HandleMovement();
+            playerController.HandleDash();
         }
         public override void Update()
         {

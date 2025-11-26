@@ -10,7 +10,7 @@ namespace Player_State
 
         public override void Enter()
         {
-            playerController.GetAnimator().Play("Idle");
+            playerController.GetAnimator().Play("PlayerIdle");
         }
 
         public override void Exit()

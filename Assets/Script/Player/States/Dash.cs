@@ -1,16 +1,23 @@
+﻿using System;
 using UnityEngine;
 
 namespace Player_State
 {
     public class Dash : PlayerState
     {
+        float dashDuration = 0.2f; // thời gian dash
+        float dashTimer = 0;
+        float previousSpeed;
         public Dash(PlayerController playerController) : base(playerController)
         {
         }
 
         public override void Enter()
         {
-            playerController.GetAnimator().Play("Dash");
+            playerController.GetAnimator().Play("PlayerDash");
+            dashTimer = dashDuration;
+            previousSpeed=playerController.GetObjectVelocity().x/playerController.Direction;
+            playerController.SetObjectVelocity(playerController.dashSpeed*playerController.Direction,0);
         }
 
         public override void Exit()
@@ -19,8 +26,15 @@ namespace Player_State
 
         public override void FixedUpdate()
         {
-            Debug.Log("Dash FixedUpdate" + " " + GetStateName());
-            playerController.SetState(prevState);
+            playerController.SetObjectVelocity(playerController.GetObjectVelocity().x, 0);
+            dashTimer -= Time.fixedDeltaTime;
+            // vẫn di chuyển trong dash nếu muốn
+            if (dashTimer <= 0)
+            {
+                playerController.SetState(prevState); // quay về state trước
+                playerController.SetObjectVelocity(previousSpeed*playerController.Direction,0);
+            }
+            
         }
 
         public override void Update()
