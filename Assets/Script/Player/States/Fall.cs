@@ -9,10 +9,13 @@ namespace Player_State
         }
         public override void Enter()
         {
-            playerController.GetAnimator().Play("Fall");
+     
+            playerController.GetAnimator().SetBool("isFalling", true);
         }
         public override void Exit()
         {
+            playerController.SpawnLandingEffect();
+            playerController.GetAnimator().SetBool("isFalling", false);
         }
         public override void FixedUpdate()
         {
@@ -24,6 +27,7 @@ namespace Player_State
                 return;
             }
             playerController.HandleMovement();
+            playerController.HandleDash();
         }
         public override void Update()
         {

@@ -8,18 +8,23 @@ namespace Player_State
         }
         public override void Enter()
         {
-            playerController.GetAnimator().Play("Jump");
+            playerController.GetAnimator().SetBool("isJumping", true);
         }
         public override void Exit()
         {
+            playerController.GetAnimator().SetBool("isJumping", false);
         }
         public override void FixedUpdate()
         {
             playerController.HandleMovement();
+            playerController.HandleDash();
+
             if (playerController.GetObjectVelocity().y<0)
             {
+               
                 playerController.SetState(new Fall(playerController));
             }
+            
         }
         public override void Update()
         {

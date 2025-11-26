@@ -9,11 +9,12 @@ namespace Player_State
         }
         public override void Enter()
         {
-            playerController.GetAnimator().Play("Walk");
+            playerController.GetAnimator().SetBool("isWalking", true);
 
         }
         public override void Exit()
         {
+            playerController.GetAnimator().SetBool("isWalking", false);
         }
         public override void FixedUpdate()
         {
@@ -22,6 +23,7 @@ namespace Player_State
                 playerController.SetState(new Idle(playerController));
             }
             playerController.HandleJump();
+            playerController.HandleDash();
         }
         public override void Update()
         {
