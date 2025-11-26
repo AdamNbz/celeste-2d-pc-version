@@ -9,47 +9,26 @@ using UnityEngine.InputSystem;
 using UnityEngine.UIElements;
 public class PlayerController : MonoBehaviour
 {
-    PlayerState state;
-    Animator animator;
-    Rigidbody2D rb;
+
     [SerializeField] InputAction moveAction;
     [SerializeField] InputAction Jump;
     [SerializeField] InputAction Dash;
     [SerializeField] float movementSpeed = 10;
     [SerializeField] float jumpForce = 10;
 
-    // private component
+    // private fields
+    PlayerState state;
+    Animator animator;
+    Rigidbody2D rb;
+    Transform footerPosition;
+
+    // private components
     LandingEffect landingEffect;
 
     Vector2 originalScale;
     public PlayerState nextState;
     int _Direction = 1;
     float currentSpeed = 5;
-    Vector2 footPosition
-    {
-        get
-        {
-            BoxCollider2D boxCollider = GetComponent<BoxCollider2D>();
-            if (boxCollider != null)
-            {
-              
-                Vector2 currentScale = transform.localScale;
-
-                float xCenterWorld = boxCollider.offset.x * currentScale.x;
-
-
-                float worldSizeY = boxCollider.size.y * currentScale.y;
-
-                float worldOffsetY = boxCollider.offset.y * currentScale.y;
-
-     
-                float yBottomWorldOffset = worldOffsetY - worldSizeY / 2f;
-
-                return rb.position + new Vector2(xCenterWorld, yBottomWorldOffset);
-            }
-            return rb.position;
-        }
-    }
 
     public int Direction
     {
@@ -79,7 +58,8 @@ public class PlayerController : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         SetState(new Idle(this));
         originalScale = transform.localScale;
-        landingEffect = GetComponent<LandingEffect>();  
+        landingEffect = GetComponent<LandingEffect>();
+        footerPosition = GameObject.FindGameObjectWithTag("PlayerFooterPosition").transform;
     }
 
     private void Update()
@@ -152,9 +132,9 @@ public class PlayerController : MonoBehaviour
     public bool HandleJump()
     {
        
-        if (Jump.IsPressed()&& rb.IsTouchingLayers(1 << LayerMask.NameToLayer("Ground")) && state.GetStateName() != "Jump")
+        if (Jump.IsPressed()&& IsOnTheGround() && state.GetStateName() != "Jump")
         {
-     
+           
             rb.linearVelocity += new Vector2(0, jumpForce);
             SetState(new Jump(this));
             return true;
@@ -164,7 +144,7 @@ public class PlayerController : MonoBehaviour
 
     public bool IsOnTheGround()
     {
-        return rb.IsTouchingLayers(1 << LayerMask.NameToLayer("Ground"));
+        return Physics2D.OverlapCircle(footerPosition.position, 0.1f, 1 << LayerMask.NameToLayer("Ground"));
     }
 
     public Vector2 GetObjectVelocity()
@@ -190,7 +170,7 @@ public class PlayerController : MonoBehaviour
     public void SpawnLandingEffect()
     {
 
-        landingEffect.SpawnLandingEffect(footPosition);
+        landingEffect.SpawnLandingEffect(footerPosition.position);
     }
 
     public float dashSpeed
