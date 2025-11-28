@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 0260516449298d745852ed97e9eb338b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6642379086325086697
+    second: PC _ Computer - Celeste - User Interface - Chapter Icons_0
+  - first:
+      213: 767038339941617700
+    second: PC _ Computer - Celeste - User Interface - Chapter Icons_1
+  - first:
+      213: 6353813570887920709
+    second: PC _ Computer - Celeste - User Interface - Chapter Icons_2
+  - first:
+      213: -2059157491016034541
+    second: PC _ Computer - Celeste - User Interface - Chapter Icons_3
+  - first:
+      213: -4522622308782619396
+    second: PC _ Computer - Celeste - User Interface - Chapter Icons_4
+  - first:
+      213: -1544839170649225553
+    second: PC _ Computer - Celeste - User Interface - Chapter Icons_5
+  - first:
+      213: -7975745669387235362
+    second: PC _ Computer - Celeste - User Interface - Chapter Icons_6
+  - first:
+      213: 2223171110186212380
+    second: PC _ Computer - Celeste - User Interface - Chapter Icons_7
+  - first:
+      213: -305794944617251038
+    second: PC _ Computer - Celeste - User Interface - Chapter Icons_8
+  - first:
+      213: 9057232516795752057
+    second: PC _ Computer - Celeste - User Interface - Chapter Icons_9
+  - first:
+      213: 5612225155809506214
+    second: PC _ Computer - Celeste - User Interface - Chapter Icons_10
+  - first:
+      213: -1160134566706336590
+    second: PC _ Computer - Celeste - User Interface - Chapter Icons_11
+  - first:
+      213: -1077604760565754436
+    second: PC _ Computer - Celeste - User Interface - Chapter Icons_12
+  - first:
+      213: -6879580923515507597
+    second: PC _ Computer - Celeste - User Interface - Chapter Icons_13
+  - first:
+      213: -6813802882726867061
+    second: PC _ Computer - Celeste - User Interface - Chapter Icons_14
+  - first:
+      213: 8144207421818117482
+    second: PC _ Computer - Celeste - User Interface - Chapter Icons_15
+  - first:
+      213: 3639062055032977278
+    second: PC _ Computer - Celeste - User Interface - Chapter Icons_16
+  - first:
+      213: -1644398197627629205
+    second: PC _ Computer - Celeste - User Interface - Chapter Icons_17
+  - first:
+      213: -2012464141965992872
+    second: PC _ Computer - Celeste - User Interface - Chapter Icons_18
+  - first:
+      213: -5361241298546002874
+    second: PC _ Computer - Celeste - User Interface - Chapter Icons_19
+  - first:
+      213: 2090548261255991780
+    second: PC _ Computer - Celeste - User Interface - Chapter Icons_20
+  - first:
+      213: -4775121362243009268
+    second: PC _ Computer - Celeste - User Interface - Chapter Icons_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Chapter Icons_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 650
+        width: 139
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9f3ef06987e2c50800000000000000
+      internalID: 6642379086325086697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Chapter Icons_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 653
+        width: 139
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42053556e4115aa00800000000000000
+      internalID: 767038339941617700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Chapter Icons_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 478
+        width: 151
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ca4dd57c74d2850800000000000000
+      internalID: 6353813570887920709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Chapter Icons_3
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 653
+        width: 145
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317976bfb276c63e0800000000000000
+      internalID: -2059157491016034541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Chapter Icons_4
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 649
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf441c7d8fa6c31c0800000000000000
+      internalID: -4522622308782619396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Chapter Icons_5
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 635
+        width: 167
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6085e85f0af8ae0800000000000000
+      internalID: -1544839170649225553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Chapter Icons_6
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 635
+        width: 166
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf405d2295705190800000000000000
+      internalID: -7975745669387235362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Chapter Icons_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476
+        width: 149
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c5f89885a4ade10800000000000000
+      internalID: 2223171110186212380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Chapter Icons_8
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 482
+        width: 133
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f7af73e1991cbf0800000000000000
+      internalID: -305794944617251038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Chapter Icons_9
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 482
+        width: 135
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e5abb9cf0c1bd70800000000000000
+      internalID: 9057232516795752057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Chapter Icons_10
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 482
+        width: 146
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3798b5b01a2ed40800000000000000
+      internalID: 5612225155809506214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Chapter Icons_11
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 482
+        width: 146
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc21db12cf56efe0800000000000000
+      internalID: -1160134566706336590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Chapter Icons_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 142
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5553efd249b01f0800000000000000
+      internalID: -1077604760565754436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Chapter Icons_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 290
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ced428991d680a0800000000000000
+      internalID: -6879580923515507597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Chapter Icons_14
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 290
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f488511628071a0800000000000000
+      internalID: -6813802882726867061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Chapter Icons_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 304
+        width: 143
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d91921089060170800000000000000
+      internalID: 8144207421818117482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Chapter Icons_16
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 192
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77f7d198ab808230800000000000000
+      internalID: 3639062055032977278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Chapter Icons_17
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 306
+        width: 140
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61dc193d8ced29e0800000000000000
+      internalID: -1644398197627629205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Chapter Icons_18
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 304
+        width: 140
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cd7ee768a4214e0800000000000000
+      internalID: -2012464141965992872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Chapter Icons_19
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 304
+        width: 165
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644f20da17b0995b0800000000000000
+      internalID: -5361241298546002874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Chapter Icons_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 304
+        width: 158
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e159f1419e130d10800000000000000
+      internalID: 2090548261255991780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - User Interface - Chapter Icons_21
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 164
+        width: 574
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c054024bb6c5bbdb0800000000000000
+      internalID: -4775121362243009268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Celeste - User Interface - Chapter Icons_0: 6642379086325086697
+      PC _ Computer - Celeste - User Interface - Chapter Icons_1: 767038339941617700
+      PC _ Computer - Celeste - User Interface - Chapter Icons_10: 5612225155809506214
+      PC _ Computer - Celeste - User Interface - Chapter Icons_11: -1160134566706336590
+      PC _ Computer - Celeste - User Interface - Chapter Icons_12: -1077604760565754436
+      PC _ Computer - Celeste - User Interface - Chapter Icons_13: -6879580923515507597
+      PC _ Computer - Celeste - User Interface - Chapter Icons_14: -6813802882726867061
+      PC _ Computer - Celeste - User Interface - Chapter Icons_15: 8144207421818117482
+      PC _ Computer - Celeste - User Interface - Chapter Icons_16: 3639062055032977278
+      PC _ Computer - Celeste - User Interface - Chapter Icons_17: -1644398197627629205
+      PC _ Computer - Celeste - User Interface - Chapter Icons_18: -2012464141965992872
+      PC _ Computer - Celeste - User Interface - Chapter Icons_19: -5361241298546002874
+      PC _ Computer - Celeste - User Interface - Chapter Icons_2: 6353813570887920709
+      PC _ Computer - Celeste - User Interface - Chapter Icons_20: 2090548261255991780
+      PC _ Computer - Celeste - User Interface - Chapter Icons_21: -4775121362243009268
+      PC _ Computer - Celeste - User Interface - Chapter Icons_3: -2059157491016034541
+      PC _ Computer - Celeste - User Interface - Chapter Icons_4: -4522622308782619396
+      PC _ Computer - Celeste - User Interface - Chapter Icons_5: -1544839170649225553
+      PC _ Computer - Celeste - User Interface - Chapter Icons_6: -7975745669387235362
+      PC _ Computer - Celeste - User Interface - Chapter Icons_7: 2223171110186212380
+      PC _ Computer - Celeste - User Interface - Chapter Icons_8: -305794944617251038
+      PC _ Computer - Celeste - User Interface - Chapter Icons_9: 9057232516795752057
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

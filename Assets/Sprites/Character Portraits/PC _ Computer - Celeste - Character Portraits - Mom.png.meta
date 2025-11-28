@@ -1,0 +1,2015 @@
+fileFormatVersion: 2
+guid: 8bc98b04a8374994ca59570f170e82c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2620734133196526836
+    second: PC _ Computer - Celeste - Character Portraits - Mom_0
+  - first:
+      213: -5245380080216804997
+    second: PC _ Computer - Celeste - Character Portraits - Mom_1
+  - first:
+      213: 6443729407857843039
+    second: PC _ Computer - Celeste - Character Portraits - Mom_2
+  - first:
+      213: -1435088036746415042
+    second: PC _ Computer - Celeste - Character Portraits - Mom_3
+  - first:
+      213: -6168914954633885003
+    second: PC _ Computer - Celeste - Character Portraits - Mom_4
+  - first:
+      213: -2885183611787055165
+    second: PC _ Computer - Celeste - Character Portraits - Mom_5
+  - first:
+      213: 2628825976173016583
+    second: PC _ Computer - Celeste - Character Portraits - Mom_6
+  - first:
+      213: 7188602004593410240
+    second: PC _ Computer - Celeste - Character Portraits - Mom_7
+  - first:
+      213: -1313084558918377907
+    second: PC _ Computer - Celeste - Character Portraits - Mom_8
+  - first:
+      213: -5444405701838756994
+    second: PC _ Computer - Celeste - Character Portraits - Mom_9
+  - first:
+      213: 2288784239859766374
+    second: PC _ Computer - Celeste - Character Portraits - Mom_10
+  - first:
+      213: -2479085316843599632
+    second: PC _ Computer - Celeste - Character Portraits - Mom_11
+  - first:
+      213: -54711995481585077
+    second: PC _ Computer - Celeste - Character Portraits - Mom_12
+  - first:
+      213: -8183814263431834367
+    second: PC _ Computer - Celeste - Character Portraits - Mom_13
+  - first:
+      213: -2213532900201864677
+    second: PC _ Computer - Celeste - Character Portraits - Mom_14
+  - first:
+      213: -921610167513542486
+    second: PC _ Computer - Celeste - Character Portraits - Mom_15
+  - first:
+      213: 3143852417985869188
+    second: PC _ Computer - Celeste - Character Portraits - Mom_16
+  - first:
+      213: -8992154358058380956
+    second: PC _ Computer - Celeste - Character Portraits - Mom_17
+  - first:
+      213: -530747371554392000
+    second: PC _ Computer - Celeste - Character Portraits - Mom_18
+  - first:
+      213: 1448121902958208984
+    second: PC _ Computer - Celeste - Character Portraits - Mom_19
+  - first:
+      213: 1863605271197186527
+    second: PC _ Computer - Celeste - Character Portraits - Mom_20
+  - first:
+      213: 3965873979242943701
+    second: PC _ Computer - Celeste - Character Portraits - Mom_21
+  - first:
+      213: 1130320148827750841
+    second: PC _ Computer - Celeste - Character Portraits - Mom_22
+  - first:
+      213: 5052148972224495913
+    second: PC _ Computer - Celeste - Character Portraits - Mom_23
+  - first:
+      213: 4468870990296039996
+    second: PC _ Computer - Celeste - Character Portraits - Mom_24
+  - first:
+      213: -9212466016448300075
+    second: PC _ Computer - Celeste - Character Portraits - Mom_25
+  - first:
+      213: -7878538905614945794
+    second: PC _ Computer - Celeste - Character Portraits - Mom_26
+  - first:
+      213: -3826593561774505082
+    second: PC _ Computer - Celeste - Character Portraits - Mom_27
+  - first:
+      213: 5807397262088735810
+    second: PC _ Computer - Celeste - Character Portraits - Mom_28
+  - first:
+      213: 965947665126234329
+    second: PC _ Computer - Celeste - Character Portraits - Mom_29
+  - first:
+      213: 8150918410779162019
+    second: PC _ Computer - Celeste - Character Portraits - Mom_30
+  - first:
+      213: 5618551531740600051
+    second: PC _ Computer - Celeste - Character Portraits - Mom_31
+  - first:
+      213: -8866431264659594527
+    second: PC _ Computer - Celeste - Character Portraits - Mom_32
+  - first:
+      213: -7429415403589499538
+    second: PC _ Computer - Celeste - Character Portraits - Mom_33
+  - first:
+      213: -4072191382636746693
+    second: PC _ Computer - Celeste - Character Portraits - Mom_34
+  - first:
+      213: 4766886656707679748
+    second: PC _ Computer - Celeste - Character Portraits - Mom_35
+  - first:
+      213: 5593416005967049672
+    second: PC _ Computer - Celeste - Character Portraits - Mom_36
+  - first:
+      213: -8041811727760811807
+    second: PC _ Computer - Celeste - Character Portraits - Mom_37
+  - first:
+      213: 1489780764403304354
+    second: PC _ Computer - Celeste - Character Portraits - Mom_38
+  - first:
+      213: 6516841437949769118
+    second: PC _ Computer - Celeste - Character Portraits - Mom_39
+  - first:
+      213: -2272707422332632208
+    second: PC _ Computer - Celeste - Character Portraits - Mom_40
+  - first:
+      213: -6211873956135634924
+    second: PC _ Computer - Celeste - Character Portraits - Mom_41
+  - first:
+      213: -5254177345497703449
+    second: PC _ Computer - Celeste - Character Portraits - Mom_42
+  - first:
+      213: -5318966452344172367
+    second: PC _ Computer - Celeste - Character Portraits - Mom_43
+  - first:
+      213: 4373214432666680876
+    second: PC _ Computer - Celeste - Character Portraits - Mom_44
+  - first:
+      213: -801602033266114012
+    second: PC _ Computer - Celeste - Character Portraits - Mom_45
+  - first:
+      213: -6932209513133461327
+    second: PC _ Computer - Celeste - Character Portraits - Mom_46
+  - first:
+      213: 2067679001785322213
+    second: PC _ Computer - Celeste - Character Portraits - Mom_47
+  - first:
+      213: 533565510145034855
+    second: PC _ Computer - Celeste - Character Portraits - Mom_48
+  - first:
+      213: -349941819415959639
+    second: PC _ Computer - Celeste - Character Portraits - Mom_49
+  - first:
+      213: 8798539295701447421
+    second: PC _ Computer - Celeste - Character Portraits - Mom_50
+  - first:
+      213: -663337928193854992
+    second: PC _ Computer - Celeste - Character Portraits - Mom_51
+  - first:
+      213: -4465270629877611267
+    second: PC _ Computer - Celeste - Character Portraits - Mom_52
+  - first:
+      213: -9125679564088418170
+    second: PC _ Computer - Celeste - Character Portraits - Mom_53
+  - first:
+      213: 3899670928068590950
+    second: PC _ Computer - Celeste - Character Portraits - Mom_54
+  - first:
+      213: 8010667681243028112
+    second: PC _ Computer - Celeste - Character Portraits - Mom_55
+  - first:
+      213: -1224526494559362130
+    second: PC _ Computer - Celeste - Character Portraits - Mom_56
+  - first:
+      213: -7967539085026644878
+    second: PC _ Computer - Celeste - Character Portraits - Mom_57
+  - first:
+      213: -4339384669942606338
+    second: PC _ Computer - Celeste - Character Portraits - Mom_58
+  - first:
+      213: -8425726041921487503
+    second: PC _ Computer - Celeste - Character Portraits - Mom_59
+  - first:
+      213: -6759461835978100658
+    second: PC _ Computer - Celeste - Character Portraits - Mom_60
+  - first:
+      213: 3788094387251918313
+    second: PC _ Computer - Celeste - Character Portraits - Mom_61
+  - first:
+      213: -9051585731157324121
+    second: PC _ Computer - Celeste - Character Portraits - Mom_62
+  - first:
+      213: -1057598490538475883
+    second: PC _ Computer - Celeste - Character Portraits - Mom_63
+  - first:
+      213: -3735140106914586606
+    second: PC _ Computer - Celeste - Character Portraits - Mom_64
+  - first:
+      213: -971454735464440715
+    second: PC _ Computer - Celeste - Character Portraits - Mom_65
+  - first:
+      213: -8142032208854180649
+    second: PC _ Computer - Celeste - Character Portraits - Mom_66
+  - first:
+      213: -5557960569044931113
+    second: PC _ Computer - Celeste - Character Portraits - Mom_67
+  - first:
+      213: 1021406898389573337
+    second: PC _ Computer - Celeste - Character Portraits - Mom_68
+  - first:
+      213: -6186407445080715825
+    second: PC _ Computer - Celeste - Character Portraits - Mom_69
+  - first:
+      213: 4347457663836744594
+    second: PC _ Computer - Celeste - Character Portraits - Mom_70
+  - first:
+      213: 4629214828943237242
+    second: PC _ Computer - Celeste - Character Portraits - Mom_71
+  - first:
+      213: 2768509212044243044
+    second: PC _ Computer - Celeste - Character Portraits - Mom_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 875
+        width: 145
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b641ce03841abd0800000000000000
+      internalID: -2620734133196526836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 877
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7174c6bb9aa437b0800000000000000
+      internalID: -5245380080216804997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 877
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bda1091c9bc6950800000000000000
+      internalID: 6443729407857843039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 877
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e343154b80b851ce0800000000000000
+      internalID: -1435088036746415042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 877
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bac377788c936aa0800000000000000
+      internalID: -6168914954633885003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 877
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf67ab9ac4c5f7d0800000000000000
+      internalID: -2885183611787055165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 877
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706bc161c477b7420800000000000000
+      internalID: 2628825976173016583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_7
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 877
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c08373bf6b03c360800000000000000
+      internalID: 7188602004593410240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 877
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e9e99fc8cf6cde0800000000000000
+      internalID: -1313084558918377907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 697
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e732ac02cd59174b0800000000000000
+      internalID: -5444405701838756994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_10
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 697
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6649a50c32563cf10800000000000000
+      internalID: 2288784239859766374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_11
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 697
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f886a10a05889dd0800000000000000
+      internalID: -2479085316843599632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_12
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 697
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a0e50eabf9d3ff0800000000000000
+      internalID: -54711995481585077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_13
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 697
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105de5089404d6e80800000000000000
+      internalID: -8183814263431834367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_14
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 697
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12e3d81e83f741e0800000000000000
+      internalID: -2213532900201864677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_15
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 697
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa097ff7f68c533f0800000000000000
+      internalID: -921610167513542486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 656
+        width: 98
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485fc480e1531ab20800000000000000
+      internalID: 3143852417985869188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_17
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 658
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461137af043753380800000000000000
+      internalID: -8992154358058380956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_18
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 658
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048370dd31862a8f0800000000000000
+      internalID: -530747371554392000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 658
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d76941c233c81410800000000000000
+      internalID: 1448121902958208984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_20
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 658
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9f04fce1bdcd910800000000000000
+      internalID: 1863605271197186527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 658
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d49dbc3f5d990730800000000000000
+      internalID: 3965873979242943701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 478
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b14859cf24bfaf00800000000000000
+      internalID: 1130320148827750841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_23
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 478
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921cbc909b6dc1640800000000000000
+      internalID: 5052148972224495913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_24
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 478
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32c4a31d7e940e30800000000000000
+      internalID: 4468870990296039996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_25
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 478
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbbd30c7feb62080800000000000000
+      internalID: -9212466016448300075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_26
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 478
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1f9bd8b9ec9a290800000000000000
+      internalID: -7878538905614945794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_27
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 478
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68342a20e6535eac0800000000000000
+      internalID: -3826593561774505082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_28
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 478
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c006c7a05089050800000000000000
+      internalID: 5807397262088735810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 434
+        width: 249
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8977b984cb76d00800000000000000
+      internalID: 965947665126234329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 259
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5fea3fb11ed1170800000000000000
+      internalID: 8150918410779162019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_31
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 259
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f610a989da19fd40800000000000000
+      internalID: 5618551531740600051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_32
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 259
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e22c8cbdbb14f480800000000000000
+      internalID: -8866431264659594527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_33
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 259
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e658b3c9d0a65e890800000000000000
+      internalID: -7429415403589499538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_34
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 259
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38a78c438bac77c0800000000000000
+      internalID: -4072191382636746693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_35
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 259
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4065c918822672240800000000000000
+      internalID: 4766886656707679748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_36
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 259
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c376a4e83ecf9d40800000000000000
+      internalID: 5593416005967049672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_37
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 218
+        width: 98
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e81f3847deb56090800000000000000
+      internalID: -8041811727760811807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_38
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 220
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7087746b3cca410800000000000000
+      internalID: 1489780764403304354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_39
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 220
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95ba8692c8707a50800000000000000
+      internalID: 6516841437949769118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_40
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 220
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073487504a8b570e0800000000000000
+      internalID: -2272707422332632208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_41
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 220
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418f80f7c8dfac9a0800000000000000
+      internalID: -6211873956135634924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_42
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 220
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb54b6ca896517b0800000000000000
+      internalID: -5254177345497703449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_43
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 40
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b05ec3513c3f26b0800000000000000
+      internalID: -5318966452344172367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_44
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 40
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e75b13b57c0bc30800000000000000
+      internalID: 4373214432666680876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_45
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 40
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42241f3a23320e4f0800000000000000
+      internalID: -801602033266114012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_46
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 40
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0b81d1d28dbcf90800000000000000
+      internalID: -6932209513133461327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_47
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 40
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eac2fad81fd1bc10800000000000000
+      internalID: 2067679001785322213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_48
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 40
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a4898210b976700800000000000000
+      internalID: 533565510145034855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_49
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 40
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a768a1f4c1c42bf0800000000000000
+      internalID: -349941819415959639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_50
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 6
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2b99e6fd0ba1a70800000000000000
+      internalID: 8798539295701447421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_51
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 6
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f136f73ba95bc6f0800000000000000
+      internalID: -663337928193854992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_52
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 7
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df40928250c2802c0800000000000000
+      internalID: -4465270629877611267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_53
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 6
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680e77059c21b5180800000000000000
+      internalID: -9125679564088418170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_54
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 6
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d32783c0a6e1630800000000000000
+      internalID: 3899670928068590950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_55
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 9
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a513250db9b2f60800000000000000
+      internalID: 8010667681243028112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_56
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 7
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea32cb914ab910fe0800000000000000
+      internalID: -1224526494559362130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_57
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 6
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c22fe7a6d9d6190800000000000000
+      internalID: -7967539085026644878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_58
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 6
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef59b4c32a867c3c0800000000000000
+      internalID: -4339384669942606338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_59
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 6
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17df2886ecec11b80800000000000000
+      internalID: -8425726041921487503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_60
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 6
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4037b9f5419132a0800000000000000
+      internalID: -6759461835978100658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_61
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 7
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e53dc766c3029430800000000000000
+      internalID: 3788094387251918313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_62
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 6
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae8f502cbe426280800000000000000
+      internalID: -9051585731157324121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_63
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 9
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ef678b6c7a251f0800000000000000
+      internalID: -1057598490538475883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_64
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 7
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210aa05ccdd1a2cc0800000000000000
+      internalID: -3735140106914586606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_65
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 3
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c5549a013b482f0800000000000000
+      internalID: -971454735464440715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_66
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 3
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc157928d0b10f80800000000000000
+      internalID: -8142032208854180649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_67
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 3
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dde27e4f482ed2b0800000000000000
+      internalID: -5557960569044931113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_68
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 6
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ded4a59924cc2e00800000000000000
+      internalID: 1021406898389573337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_69
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 6
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdc128a437752aa0800000000000000
+      internalID: -6186407445080715825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_70
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 6
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29be90126b5455c30800000000000000
+      internalID: 4347457663836744594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_71
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 7
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70e12c3c564e3040800000000000000
+      internalID: 4629214828943237242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Celeste - Character Portraits - Mom_72
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 7
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4603b4dc578bb6620800000000000000
+      internalID: 2768509212044243044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Celeste - Character Portraits - Mom_0: -2620734133196526836
+      PC _ Computer - Celeste - Character Portraits - Mom_1: -5245380080216804997
+      PC _ Computer - Celeste - Character Portraits - Mom_10: 2288784239859766374
+      PC _ Computer - Celeste - Character Portraits - Mom_11: -2479085316843599632
+      PC _ Computer - Celeste - Character Portraits - Mom_12: -54711995481585077
+      PC _ Computer - Celeste - Character Portraits - Mom_13: -8183814263431834367
+      PC _ Computer - Celeste - Character Portraits - Mom_14: -2213532900201864677
+      PC _ Computer - Celeste - Character Portraits - Mom_15: -921610167513542486
+      PC _ Computer - Celeste - Character Portraits - Mom_16: 3143852417985869188
+      PC _ Computer - Celeste - Character Portraits - Mom_17: -8992154358058380956
+      PC _ Computer - Celeste - Character Portraits - Mom_18: -530747371554392000
+      PC _ Computer - Celeste - Character Portraits - Mom_19: 1448121902958208984
+      PC _ Computer - Celeste - Character Portraits - Mom_2: 6443729407857843039
+      PC _ Computer - Celeste - Character Portraits - Mom_20: 1863605271197186527
+      PC _ Computer - Celeste - Character Portraits - Mom_21: 3965873979242943701
+      PC _ Computer - Celeste - Character Portraits - Mom_22: 1130320148827750841
+      PC _ Computer - Celeste - Character Portraits - Mom_23: 5052148972224495913
+      PC _ Computer - Celeste - Character Portraits - Mom_24: 4468870990296039996
+      PC _ Computer - Celeste - Character Portraits - Mom_25: -9212466016448300075
+      PC _ Computer - Celeste - Character Portraits - Mom_26: -7878538905614945794
+      PC _ Computer - Celeste - Character Portraits - Mom_27: -3826593561774505082
+      PC _ Computer - Celeste - Character Portraits - Mom_28: 5807397262088735810
+      PC _ Computer - Celeste - Character Portraits - Mom_29: 965947665126234329
+      PC _ Computer - Celeste - Character Portraits - Mom_3: -1435088036746415042
+      PC _ Computer - Celeste - Character Portraits - Mom_30: 8150918410779162019
+      PC _ Computer - Celeste - Character Portraits - Mom_31: 5618551531740600051
+      PC _ Computer - Celeste - Character Portraits - Mom_32: -8866431264659594527
+      PC _ Computer - Celeste - Character Portraits - Mom_33: -7429415403589499538
+      PC _ Computer - Celeste - Character Portraits - Mom_34: -4072191382636746693
+      PC _ Computer - Celeste - Character Portraits - Mom_35: 4766886656707679748
+      PC _ Computer - Celeste - Character Portraits - Mom_36: 5593416005967049672
+      PC _ Computer - Celeste - Character Portraits - Mom_37: -8041811727760811807
+      PC _ Computer - Celeste - Character Portraits - Mom_38: 1489780764403304354
+      PC _ Computer - Celeste - Character Portraits - Mom_39: 6516841437949769118
+      PC _ Computer - Celeste - Character Portraits - Mom_4: -6168914954633885003
+      PC _ Computer - Celeste - Character Portraits - Mom_40: -2272707422332632208
+      PC _ Computer - Celeste - Character Portraits - Mom_41: -6211873956135634924
+      PC _ Computer - Celeste - Character Portraits - Mom_42: -5254177345497703449
+      PC _ Computer - Celeste - Character Portraits - Mom_43: -5318966452344172367
+      PC _ Computer - Celeste - Character Portraits - Mom_44: 4373214432666680876
+      PC _ Computer - Celeste - Character Portraits - Mom_45: -801602033266114012
+      PC _ Computer - Celeste - Character Portraits - Mom_46: -6932209513133461327
+      PC _ Computer - Celeste - Character Portraits - Mom_47: 2067679001785322213
+      PC _ Computer - Celeste - Character Portraits - Mom_48: 533565510145034855
+      PC _ Computer - Celeste - Character Portraits - Mom_49: -349941819415959639
+      PC _ Computer - Celeste - Character Portraits - Mom_5: -2885183611787055165
+      PC _ Computer - Celeste - Character Portraits - Mom_50: 8798539295701447421
+      PC _ Computer - Celeste - Character Portraits - Mom_51: -663337928193854992
+      PC _ Computer - Celeste - Character Portraits - Mom_52: -4465270629877611267
+      PC _ Computer - Celeste - Character Portraits - Mom_53: -9125679564088418170
+      PC _ Computer - Celeste - Character Portraits - Mom_54: 3899670928068590950
+      PC _ Computer - Celeste - Character Portraits - Mom_55: 8010667681243028112
+      PC _ Computer - Celeste - Character Portraits - Mom_56: -1224526494559362130
+      PC _ Computer - Celeste - Character Portraits - Mom_57: -7967539085026644878
+      PC _ Computer - Celeste - Character Portraits - Mom_58: -4339384669942606338
+      PC _ Computer - Celeste - Character Portraits - Mom_59: -8425726041921487503
+      PC _ Computer - Celeste - Character Portraits - Mom_6: 2628825976173016583
+      PC _ Computer - Celeste - Character Portraits - Mom_60: -6759461835978100658
+      PC _ Computer - Celeste - Character Portraits - Mom_61: 3788094387251918313
+      PC _ Computer - Celeste - Character Portraits - Mom_62: -9051585731157324121
+      PC _ Computer - Celeste - Character Portraits - Mom_63: -1057598490538475883
+      PC _ Computer - Celeste - Character Portraits - Mom_64: -3735140106914586606
+      PC _ Computer - Celeste - Character Portraits - Mom_65: -971454735464440715
+      PC _ Computer - Celeste - Character Portraits - Mom_66: -8142032208854180649
+      PC _ Computer - Celeste - Character Portraits - Mom_67: -5557960569044931113
+      PC _ Computer - Celeste - Character Portraits - Mom_68: 1021406898389573337
+      PC _ Computer - Celeste - Character Portraits - Mom_69: -6186407445080715825
+      PC _ Computer - Celeste - Character Portraits - Mom_7: 7188602004593410240
+      PC _ Computer - Celeste - Character Portraits - Mom_70: 4347457663836744594
+      PC _ Computer - Celeste - Character Portraits - Mom_71: 4629214828943237242
+      PC _ Computer - Celeste - Character Portraits - Mom_72: 2768509212044243044
+      PC _ Computer - Celeste - Character Portraits - Mom_8: -1313084558918377907
+      PC _ Computer - Celeste - Character Portraits - Mom_9: -5444405701838756994
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
