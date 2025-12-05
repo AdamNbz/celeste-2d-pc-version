@@ -174,7 +174,6 @@ public class PlayerController : MonoBehaviour
 
     public void SetObjectVelocity(float x,float y)
     {
-        Debug.Log(x + " " + y);
         rb.linearVelocity = new Vector2(x, y);
     }
     
