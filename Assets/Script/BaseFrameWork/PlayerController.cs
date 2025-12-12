@@ -9,6 +9,8 @@ using UnityEngine.InputSystem;
 using UnityEngine.UIElements;
 public class PlayerController : MonoBehaviour
 {
+    
+    [Header("Player Stat and State")]
     PlayerState state;
     Animator animator;
     Rigidbody2D rb;

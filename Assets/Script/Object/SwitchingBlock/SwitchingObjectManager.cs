@@ -36,6 +36,7 @@ public class SwitchingObjectManager : MonoBehaviour
         {
             objList.Add(obj);
         }
+        SwitchMode();
         Timer = switchCooldown;
     }
     enum SwitchingMode
