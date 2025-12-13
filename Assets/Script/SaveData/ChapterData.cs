@@ -1,16 +1,19 @@
+using System;
+using System.Collections;
+using Unity;
 using UnityEditor;
 using UnityEngine;
-using System.Collections;
-using System.Collections.Generic;
 namespace Assets.Script.SaveData
 {
+    //Runtime Data
     [System.Serializable]
     public class ChapterData
     {
-        float timetofinish = -1;
+        [SerializeField] string name;
+        [SerializeField] float timetofinish = -1;
         //Strawberry Go Here
-        int Death=0;
-
+        [SerializeField] int Death=0;
+        [SerializeField] int strawberryCollected = 0;
         public void IncreasePlayTime(float deltaTime)
         {
             if(timetofinish ==-1)
@@ -38,41 +41,16 @@ namespace Assets.Script.SaveData
             Death++;
         }
 
-        public int DeathCount => Death;
-
-    }
-
-    [CreateAssetMenu(fileName = "StaticChaptersDataManager", menuName = "StaticChaptersDataManager", order = 0)]
-    public class StaticChaptersData:ScriptableObject
-    {
-        [SerializeField] string name;
-        [SerializeField] int builtIndex;
-        [SerializeField] int maxStrawberry;
-    }
-
-    [CreateAssetMenu(fileName ="StaticChaptersDataManager",menuName ="StaticChaptersDataManager",order=0)]
-    public class StaticChaptersDataManager : ScriptableObject
-    {
-        static private StaticChaptersDataManager __instance;
-        public static StaticChaptersDataManager Instance
+        public void CollectStrawberry()
         {
-            get
-            {
-                if(__instance==null)
-                {
-                    __instance = Resources.Load<StaticChaptersDataManager>("SaveData/StaticChapterData");
-                    if (__instance==null)
-                    {
-                        Debug.Log("File is not exits or not in correct direction");
-                    }
-                }
-                return __instance;
-            }
+            strawberryCollected++;
         }
-        [SerializeField] Dictionary<string, StaticChaptersData> datas;
-        public StaticChaptersData GetStaticChaptersData(string name)
+        public int StrawberryCollected => strawberryCollected;
+        public int DeathCount => Death;
+        public string Name => name;
+        public void SetName(string name)
         {
-            return datas[name];
+            this.name = name;
         }
     }
 }

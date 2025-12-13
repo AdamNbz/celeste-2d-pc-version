@@ -1,4 +1,5 @@
 ﻿using Assets.Script.Player.VFX;
+using Assets.Script.SaveData;
 using NUnit.Framework;
 using Player_State;
 using System;
@@ -19,7 +20,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] InputAction Dash;
     [SerializeField] float movementSpeed = 10;
     [SerializeField] float jumpForce = 10;
-
+    PlayerData data;
     // private component
     LandingEffect landingEffect;
 
@@ -81,7 +82,7 @@ public class PlayerController : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         SetState(new Idle(this));
         originalScale = transform.localScale;
-        landingEffect = GetComponent<LandingEffect>();  
+        landingEffect = GetComponent<LandingEffect>();
     }
 
     private void Update()
