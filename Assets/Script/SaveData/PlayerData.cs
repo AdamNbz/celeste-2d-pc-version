@@ -9,11 +9,9 @@ namespace Assets.Script.SaveData
         [Header("Position")]
         [SerializeField]string currentcheckpoint="";
         [SerializeField]string currentstage="";
-
         [Header("Progress")]
         [SerializeField]string SaveId;
         [SerializeField]Skill skills=new Skill();
-
         public void SetCheckpoint(string checkpoint)
         {
             currentcheckpoint = checkpoint;
@@ -27,6 +25,27 @@ namespace Assets.Script.SaveData
         public void SetSaveId(string id)
         {
             SaveId = id;
+        }
+
+        public string GetStage()
+        {
+           
+            return currentstage;
+        }
+
+        public string GetCheckpoint()
+        {
+            return currentcheckpoint;
+        }
+
+        public void GetSaveId(out string id)
+        {
+            id = SaveId;
+        }
+
+        public Skill GetSkills()
+        {
+            return skills;
         }
     }
     [System.Serializable]
@@ -64,6 +83,12 @@ namespace Assets.Script.SaveData
         public bool GetWallClimbStatus()
         {
             return CanWallClimb;
+        }
+        public void SetToDefault()
+        {
+            CanDoubleJump = false;
+            CanDash = false;
+            CanWallClimb = false;
         }
     }
 }

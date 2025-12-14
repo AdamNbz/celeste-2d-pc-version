@@ -52,5 +52,12 @@ namespace Assets.Script.SaveData
         {
             this.name = name;
         }
+
+        public void ReturnToDefault()
+        {
+            timetofinish = -1;
+            strawberryCollected = 0;
+            Death = 0;
+        }
     }
 }

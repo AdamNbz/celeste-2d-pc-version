@@ -28,6 +28,17 @@ public class PlayerController : MonoBehaviour
     public PlayerState nextState;
     int _Direction = 1;
     float currentSpeed = 5;
+    
+    public void SetPlayerData(PlayerData data)
+    {
+        this.data = data;
+    }
+
+    public PlayerData GetPlayerData()
+    {
+        return data;
+    }
+
     Vector2 footPosition
     {
         get
