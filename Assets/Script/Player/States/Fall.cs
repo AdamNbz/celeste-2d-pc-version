@@ -1,3 +1,4 @@
+using Assets.Script.Player.States;
 using UnityEngine;
 
 namespace Player_State
@@ -18,13 +19,20 @@ namespace Player_State
         }
         public override void FixedUpdate()
         {
-            
-            if(playerController.IsOnTheGround())
+
+            if (playerController.IsOnTheGround())
             {
-                playerController.SetObjectVelocity(playerController.GetObjectVelocity().x, 0);
                 playerController.SetState(new Idle(playerController));
                 return;
             }
+
+            if (playerController.IsTouchingWall() && playerController.IsPressingTowardWall() && playerController.CanClimbWall())
+            {
+                playerController.SetState(new Climb(playerController));
+                return;
+            }
+
+
             playerController.HandleMovement();
             playerController.HandleDash();
         }

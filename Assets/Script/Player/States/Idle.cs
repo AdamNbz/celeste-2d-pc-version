@@ -20,12 +20,20 @@ namespace Player_State
 
         public override void FixedUpdate()
         {
-           
 
-            if (playerController.HandleMovement()&&playerController.IsOnTheGround())
+
+            if (!playerController.IsOnTheGround())
+            {
+                playerController.SetState(new Fall(playerController));
+                return;
+            }
+
+            if (playerController.HandleMovement())
             {
                 playerController.SetState(new Walk(playerController));
+                return;
             }
+
             playerController.HandleJump();
             playerController.HandleDash();
         }

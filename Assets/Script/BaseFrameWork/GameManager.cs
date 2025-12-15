@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -14,12 +15,38 @@ public class GameManager : MonoBehaviour
                 GameObject obj = new GameObject("GameManager");
                 __instance = obj.AddComponent<GameManager>();
             }
+            else
+            {
+                DontDestroyOnLoad(__instance.gameObject);
+            }
         }
         return __instance;
     }
-
+    [Header("SaveSlot")]
+    SaveSlot currentSaveSlot= new SaveSlot(1);
     [Header("Player Manager")]
-    GameObject player;
-    [Header("Enermy Manager")]
-    GameObject enermy;
+    PlayerController player;
+
+    private void Awake()
+    {
+        if (__instance == null)
+        {
+            __instance = this;
+            DontDestroyOnLoad(this.gameObject);
+        }
+        else
+        {
+            Destroy(this.gameObject);
+        }
+        currentSaveSlot.LoadFromSaveFile();
+        player = FindAnyObjectByType<PlayerController>();
+        player.SetPlayerData(currentSaveSlot.PlayerData);
+        SceneManager.LoadScene(StaticChaptersDataManager.Instance.GetStaticChaptersData(player.GetPlayerData().GetStage()).BuiltIndex);
+        Debug.Log(StaticChaptersDataManager.Instance.GetStaticChaptersData(player.GetPlayerData().GetStage()).BuiltIndex);
+    }
+
+    public SaveSlot GetCurrentSaveSlot()
+    {
+        return currentSaveSlot;
+    }
 }

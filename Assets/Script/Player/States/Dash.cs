@@ -16,8 +16,8 @@ namespace Player_State
         {
             playerController.GetAnimator().Play("PlayerDash");
             dashTimer = dashDuration;
-            previousSpeed=playerController.GetObjectVelocity().x/playerController.Direction;
-            playerController.SetObjectVelocity(playerController.dashSpeed*playerController.Direction,0);
+            previousSpeed=playerController.GetObjectVelocity().x / playerController.Direction;
+            playerController.SetObjectVelocity(playerController.dashSpeed*playerController.Direction, 0);
         }
 
         public override void Exit()
