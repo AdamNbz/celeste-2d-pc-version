@@ -1,4 +1,6 @@
-﻿using Assets.Script.Player.VFX;
+﻿using Assets.Script.Player.States;
+using Assets.Script.Player.VFX;
+using Assets.Script.SaveData;
 using NUnit.Framework;
 using Player_State;
 using System;
@@ -9,27 +11,45 @@ using UnityEngine.InputSystem;
 using UnityEngine.UIElements;
 public class PlayerController : MonoBehaviour
 {
-
+    
+    [Header("Player Stat and State")]
+    PlayerState state;
+    Animator animator;
+    Rigidbody2D rb;
     [SerializeField] InputAction moveAction;
     [SerializeField] InputAction Jump;
     [SerializeField] InputAction Dash;
     [SerializeField] float movementSpeed = 10;
     [SerializeField] float jumpForce = 10;
 
+    [Header("Wall Climb Settings")]
+    [SerializeField] float maxClimbTime = 1.2f;   // tClimb
+    [SerializeField] float wallClimbCooldown = 0.5f; // t
+
+    float wallCooldownTimer;
+
     // private fields
-    PlayerState state;
-    Animator animator;
-    Rigidbody2D rb;
+
     Transform footPosition;
     Transform handPosition;
+    PlayerData data;
+    // private component
+    LandingEffect landingEffect;
+
     Vector2 originalScale;
     public PlayerState nextState;
     int _Direction = 1;
     float currentSpeed = 5;
+    
+    public void SetPlayerData(PlayerData data)
+    {
+        this.data = data;
+    }
 
-
-    // private components
-    LandingEffect landingEffect;
+    public PlayerData GetPlayerData()
+    {
+        return data;
+    }
 
 
     public int Direction
@@ -71,11 +91,14 @@ public class PlayerController : MonoBehaviour
         {
             state.Update();
         }
-        Debug.Log(state.GetStateName());
+        
     }
     private void FixedUpdate()
     {
-        if(nextState != state && nextState != null)//do this for only one enter exit once per frame
+        if (wallCooldownTimer > 0)
+            wallCooldownTimer -= Time.fixedDeltaTime;
+
+        if (nextState != state && nextState != null && nextState.GetType() != state.GetType())//do this for only one enter exit once per frame
         {
             state.Exit();
             nextState.prevState = state;
@@ -86,10 +109,12 @@ public class PlayerController : MonoBehaviour
         {
             Debug.Log("Next state is null");
         }
+
         if (state != null)
         {
             state.FixedUpdate();
         }
+        
     }
 
     public void SetState(PlayerState newState)
@@ -162,7 +187,6 @@ public class PlayerController : MonoBehaviour
 
     public void SetObjectVelocity(float x,float y)
     {
-        Debug.Log(x + " " + y);
         rb.linearVelocity = new Vector2(x, y);
     }
     
@@ -185,4 +209,34 @@ public class PlayerController : MonoBehaviour
     {
         get { return movementSpeed * 2; }
     }
+
+    public float MaxClimbTime { get => maxClimbTime;}
+    public float WallClimbCooldown { get => wallClimbCooldown; }
+
+    public float GetMoveInputX()
+    {
+        return moveAction.ReadValue<Vector2>().x;
+    }
+
+    public bool IsPressingTowardWall()
+    {
+        float inputX = GetMoveInputX();
+
+        if (inputX == 0) return false;
+
+        // đang nhấn về phía đang quay mặt
+        return Mathf.Sign(inputX) == Direction;
+    }
+
+    public bool CanClimbWall()
+    {
+        return wallCooldownTimer <= 0;
+    }
+
+    public void StartWallCooldown()
+    {
+        wallCooldownTimer = wallClimbCooldown;
+    }
+
+
 }

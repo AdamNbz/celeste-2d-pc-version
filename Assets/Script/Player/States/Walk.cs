@@ -21,7 +21,15 @@ namespace Player_State
             if (!playerController.HandleMovement())
             {
                 playerController.SetState(new Idle(playerController));
+                return;
             }
+
+            if (!playerController.IsOnTheGround())
+            {
+                playerController.SetState(new Fall(playerController));
+                return;
+            }
+
             playerController.HandleJump();
             playerController.HandleDash();
         }
