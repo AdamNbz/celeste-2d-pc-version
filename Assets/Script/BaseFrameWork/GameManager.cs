@@ -45,17 +45,28 @@ public class GameManager : MonoBehaviour
     {
         currentSaveSlot.LoadFromSaveFile();
         player = FindAnyObjectByType<PlayerController>();
+        player.SetPlayerData(currentSaveSlot.PlayerData);
         if (player == null)
         {
             Debug.LogError("PlayerController not found in the scene.");
             return;
         }
-        if (currentSaveSlot==null)
+        if (currentSaveSlot == null)
         {
             Debug.Log("Save slot null");
         }
-        player.SetPlayerData(currentSaveSlot.PlayerData);
-        SceneManager.LoadScene(StaticChaptersDataManager.Instance.GetStaticChaptersData(player.GetPlayerData().GetStage()).BuiltIndex);
+        if (StaticChaptersDataManager.Instance==null)
+        {
+            Debug.Log("StaticDataNotFound");
+        }
+        if (StaticChaptersDataManager.Instance.GetStaticChaptersData("Chapter1")==null)
+        {
+            Debug.Log("Chapter not found");
+        }
+        if (StaticChaptersDataManager.Instance.GetStaticChaptersData("Chapter1").BuiltIndex != default(int))
+            SceneManager.LoadScene(StaticChaptersDataManager.Instance.GetStaticChaptersData("Chapter1").BuiltIndex);
+        else
+            Debug.Log("BuiltIndex not found");
     }
 
     public SaveSlot GetCurrentSaveSlot()
