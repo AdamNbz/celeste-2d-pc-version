@@ -38,11 +38,24 @@ public class GameManager : MonoBehaviour
         {
             Destroy(this.gameObject);
         }
+        
+    }
+
+    private void Start()
+    {
         currentSaveSlot.LoadFromSaveFile();
         player = FindAnyObjectByType<PlayerController>();
+        if (player == null)
+        {
+            Debug.LogError("PlayerController not found in the scene.");
+            return;
+        }
+        if (currentSaveSlot==null)
+        {
+            Debug.Log("Save slot null");
+        }
         player.SetPlayerData(currentSaveSlot.PlayerData);
         SceneManager.LoadScene(StaticChaptersDataManager.Instance.GetStaticChaptersData(player.GetPlayerData().GetStage()).BuiltIndex);
-        Debug.Log(StaticChaptersDataManager.Instance.GetStaticChaptersData(player.GetPlayerData().GetStage()).BuiltIndex);
     }
 
     public SaveSlot GetCurrentSaveSlot()

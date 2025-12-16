@@ -41,6 +41,11 @@ public class SaveSlot
     public void LoadFromSaveFile()
     {
         string json = SaveSystem.getFileJson(slotID);
+        if(json == "")
+        {
+            Debug.Log("Empty Save File");
+            return;
+        }
         JsonUtility.FromJsonOverwrite(json, this);
     }
 
