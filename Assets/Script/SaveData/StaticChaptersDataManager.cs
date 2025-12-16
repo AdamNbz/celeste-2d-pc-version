@@ -32,4 +32,9 @@ public class StaticChaptersDataManager : ScriptableObject
         Debug.Log("Cannot Load Chapter Data");
         return null;
     }
+
+    public List<StaticChaptersData> GetChaptersDatas()
+    {
+        return datas;
+    }
 }

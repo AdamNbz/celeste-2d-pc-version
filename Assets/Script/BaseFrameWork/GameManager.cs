@@ -23,7 +23,7 @@ public class GameManager : MonoBehaviour
         return __instance;
     }
     [Header("SaveSlot")]
-    SaveSlot currentSaveSlot= new SaveSlot(1);
+    SaveSlot currentSaveSlot;
     [Header("Player Manager")]
     PlayerController player;
 
@@ -43,6 +43,7 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
+        currentSaveSlot = new SaveSlot(1);
         currentSaveSlot.LoadFromSaveFile();
         player = FindAnyObjectByType<PlayerController>();
         player.SetPlayerData(currentSaveSlot.PlayerData);
@@ -67,6 +68,7 @@ public class GameManager : MonoBehaviour
             SceneManager.LoadScene(StaticChaptersDataManager.Instance.GetStaticChaptersData("Chapter1").BuiltIndex);
         else
             Debug.Log("BuiltIndex not found");
+        currentSaveSlot.SaveToFile();
     }
 
     public SaveSlot GetCurrentSaveSlot()
