@@ -147,7 +147,7 @@ public class GameManager : MonoBehaviour
         }
     }
     // If you want to change scene and reset checkpoint
-    //If go to menu, reset both stage and checkpoint
+    //If go to menu,Save Game
     public void ChangeScene(string newSceneName)
     {
         currentSaveSlot.PlayerData.SetStage(newSceneName);
@@ -159,8 +159,6 @@ public class GameManager : MonoBehaviour
     public void GoToMenu()
     {
         SceneManager.LoadScene("MainMenu");
-        currentSaveSlot.PlayerData.SetCheckpoint("");
-        currentSaveSlot.PlayerData.SetStage("");
         SaveSlot(currentSaveSlot.SlotID);
     }
 }
