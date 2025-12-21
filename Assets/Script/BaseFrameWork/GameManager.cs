@@ -146,11 +146,21 @@ public class GameManager : MonoBehaviour
             player.transform.position = StaticChaptersDataManager.Instance.GetStaticChaptersData(currentSaveSlot.PlayerData.GetStage()).DefaultPlayerPos;
         }
     }
-
+    // If you want to change scene and reset checkpoint
+    //If go to menu, reset both stage and checkpoint
     public void ChangeScene(string newSceneName)
     {
         currentSaveSlot.PlayerData.SetStage(newSceneName);
         currentSaveSlot.PlayerData.SetCheckpoint("");
+        SaveSlot(currentSaveSlot.SlotID);
         StartCoroutine(SpawnPlayerAfterLoadScene(currentSaveSlot.PlayerData.GetStage()));
+    }
+
+    public void GoToMenu()
+    {
+        SceneManager.LoadScene("MainMenu");
+        currentSaveSlot.PlayerData.SetCheckpoint("");
+        currentSaveSlot.PlayerData.SetStage("");
+        SaveSlot(currentSaveSlot.SlotID);
     }
 }
