@@ -210,4 +210,9 @@ public class PlayerController : MonoBehaviour
     {
         get { return movementSpeed * 2; }
     }
+
+    public void SetPlayerPosition(Vector2 newPos)
+    {
+        transform.position = newPos;
+    }
 }
