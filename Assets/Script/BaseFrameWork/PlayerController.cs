@@ -239,4 +239,8 @@ public class PlayerController : MonoBehaviour
     }
 
 
+    public void SetPlayerPosition(Vector2 newPos)
+    {
+        transform.position = newPos;
+    }
 }

@@ -26,7 +26,7 @@ public static class SaveSystem
     public static void SaveToFile(string json,int saveslot)
     {
         string baseSaveFile = GetBaseSaveFilePath();
-        string filename ="save" + "0" + saveslot.ToString();
+        string filename ="save" + "0" + saveslot.ToString()+".txt";
         string filepath = Path.Combine(baseSaveFile, filename);
         File.WriteAllText(filepath,json);
     }

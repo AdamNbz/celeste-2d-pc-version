@@ -21,8 +21,6 @@ public class SwitchingObjectManager : MonoBehaviour
     }
     private void Start()
     {
-        SaveSystem.GetBaseSaveFilePath();
-        Debug.Log(SaveSystem.GetBaseSaveFilePath());
         _instance =GetInstance();
         var instances = FindObjectsByType<SwitchingObjectManager>(FindObjectsSortMode.None);
         for (int i = 0; i < instances.Length; i++)

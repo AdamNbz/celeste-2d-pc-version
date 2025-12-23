@@ -14,6 +14,12 @@ public class SaveSlot
         slotID = id;
         playerData = new PlayerData();
         chapterDatas = new List<ChapterData>();
+        foreach(var chapter in StaticChaptersDataManager.Instance.GetChaptersDatas())
+        {
+            var temp = new ChapterData();
+            temp.SetName(chapter.ChapterName);
+            chapterDatas.Add(temp);
+        }
     }
     public int SlotID => slotID;
     public PlayerData PlayerData => playerData;
@@ -41,6 +47,11 @@ public class SaveSlot
     public void LoadFromSaveFile()
     {
         string json = SaveSystem.getFileJson(slotID);
+        if(json == "")
+        {
+            Debug.Log("Empty Save File");
+            return;
+        }
         JsonUtility.FromJsonOverwrite(json, this);
     }
 

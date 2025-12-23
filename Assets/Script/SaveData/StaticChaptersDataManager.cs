@@ -10,7 +10,7 @@ public class StaticChaptersDataManager : ScriptableObject
         {
             if (__instance == null)
             {
-                __instance = Resources.Load<StaticChaptersDataManager>("SaveData/StaticChapterData");
+                __instance = Resources.Load<StaticChaptersDataManager>("StaticChaptersDataManager");
                 if (__instance == null)
                 {
                     Debug.Log("File is not exits or not in correct direction");
@@ -31,5 +31,10 @@ public class StaticChaptersDataManager : ScriptableObject
         }
         Debug.Log("Cannot Load Chapter Data");
         return null;
+    }
+
+    public List<StaticChaptersData> GetChaptersDatas()
+    {
+        return datas;
     }
 }

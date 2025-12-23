@@ -1,6 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 namespace Assets.Script.SaveData
 {
     [System.Serializable]
