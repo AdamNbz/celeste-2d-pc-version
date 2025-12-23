@@ -265,6 +265,7 @@ GameObject:
   - component: {fileID: 364237948}
   - component: {fileID: 364237947}
   - component: {fileID: 364237946}
+  - component: {fileID: 364237949}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -346,6 +347,38 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &364237949
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 364237945}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbab857323e30c849b726cfd2ecece07, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CameraController
+  target: {fileID: 526992371}
+  cameraMovementStyle: 1
+  maxDistanceFromTarget: 5
+  cameraOffset: {x: 0, y: 0}
+  cameraZCoordinate: -10
+  mouseTracking: 0.5
+  lookAction:
+    m_Name: Look
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: b4b97ad1-c267-4f89-af58-1317f73f6f28
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings: []
+    m_Flags: 0
+--- !u!4 &526992371 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1162538062755405102, guid: dd8dd688691bb244485cbdb4b833c9ef, type: 3}
+  m_PrefabInstance: {fileID: 102464966248817436}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &888516196 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 514949171119933314, guid: b7fc19cf91a0db94cab7c8401b6ce0a0, type: 3}
@@ -17853,6 +17886,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 860118315052634542, guid: dd8dd688691bb244485cbdb4b833c9ef, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.422
+      objectReference: {fileID: 0}
     - target: {fileID: 1162538062755405102, guid: dd8dd688691bb244485cbdb4b833c9ef, type: 3}
       propertyPath: m_LocalPosition.x
       value: -11.56
@@ -17893,6 +17930,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2304669747860735025, guid: dd8dd688691bb244485cbdb4b833c9ef, type: 3}
+      propertyPath: m_TagString
+      value: PlayerHandPosition
+      objectReference: {fileID: 0}
     - target: {fileID: 3476890658547279256, guid: dd8dd688691bb244485cbdb4b833c9ef, type: 3}
       propertyPath: m_Name
       value: Player
@@ -17901,9 +17942,33 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 4055028735300019681, guid: dd8dd688691bb244485cbdb4b833c9ef, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.429
+      objectReference: {fileID: 0}
+    - target: {fileID: 4362088231954370060, guid: dd8dd688691bb244485cbdb4b833c9ef, type: 3}
+      propertyPath: m_TagString
+      value: PlayerFootPosition
+      objectReference: {fileID: 0}
     - target: {fileID: 6286167472000015713, guid: dd8dd688691bb244485cbdb4b833c9ef, type: 3}
       propertyPath: m_Constraints
       value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7682306633247003697, guid: dd8dd688691bb244485cbdb4b833c9ef, type: 3}
+      propertyPath: maxClimbTime
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7682306633247003697, guid: dd8dd688691bb244485cbdb4b833c9ef, type: 3}
+      propertyPath: wallClimbCooldown
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8042172573901154694, guid: dd8dd688691bb244485cbdb4b833c9ef, type: 3}
+      propertyPath: m_Size.y
+      value: 0.7865014
+      objectReference: {fileID: 0}
+    - target: {fileID: 8042172573901154694, guid: dd8dd688691bb244485cbdb4b833c9ef, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.029886961
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

@@ -1,4 +1,5 @@
-﻿using Assets.Script.Player.VFX;
+﻿using Assets.Script.Player.States;
+using Assets.Script.Player.VFX;
 using Assets.Script.SaveData;
 using NUnit.Framework;
 using Player_State;
@@ -20,6 +21,17 @@ public class PlayerController : MonoBehaviour
     [SerializeField] InputAction Dash;
     [SerializeField] float movementSpeed = 10;
     [SerializeField] float jumpForce = 10;
+
+    [Header("Wall Climb Settings")]
+    [SerializeField] float maxClimbTime = 1.2f;   // tClimb
+    [SerializeField] float wallClimbCooldown = 0.5f; // t
+
+    float wallCooldownTimer;
+
+    // private fields
+
+    Transform footPosition;
+    Transform handPosition;
     PlayerData data;
     // private component
     LandingEffect landingEffect;
@@ -39,31 +51,6 @@ public class PlayerController : MonoBehaviour
         return data;
     }
 
-    Vector2 footPosition
-    {
-        get
-        {
-            BoxCollider2D boxCollider = GetComponent<BoxCollider2D>();
-            if (boxCollider != null)
-            {
-              
-                Vector2 currentScale = transform.localScale;
-
-                float xCenterWorld = boxCollider.offset.x * currentScale.x;
-
-
-                float worldSizeY = boxCollider.size.y * currentScale.y;
-
-                float worldOffsetY = boxCollider.offset.y * currentScale.y;
-
-     
-                float yBottomWorldOffset = worldOffsetY - worldSizeY / 2f;
-
-                return rb.position + new Vector2(xCenterWorld, yBottomWorldOffset);
-            }
-            return rb.position;
-        }
-    }
 
     public int Direction
     {
@@ -94,6 +81,8 @@ public class PlayerController : MonoBehaviour
         SetState(new Idle(this));
         originalScale = transform.localScale;
         landingEffect = GetComponent<LandingEffect>();
+        footPosition = GameObject.FindGameObjectWithTag("PlayerFootPosition").transform;
+        handPosition = GameObject.FindGameObjectWithTag("PlayerHandPosition").transform;
     }
 
     private void Update()
@@ -102,11 +91,14 @@ public class PlayerController : MonoBehaviour
         {
             state.Update();
         }
-        Debug.Log(state.GetStateName());
+        
     }
     private void FixedUpdate()
     {
-        if(nextState != state && nextState != null)//do this for only one enter exit once per frame
+        if (wallCooldownTimer > 0)
+            wallCooldownTimer -= Time.fixedDeltaTime;
+
+        if (nextState != state && nextState != null && nextState.GetType() != state.GetType())//do this for only one enter exit once per frame
         {
             state.Exit();
             nextState.prevState = state;
@@ -117,10 +109,12 @@ public class PlayerController : MonoBehaviour
         {
             Debug.Log("Next state is null");
         }
+
         if (state != null)
         {
             state.FixedUpdate();
         }
+        
     }
 
     public void SetState(PlayerState newState)
@@ -166,9 +160,9 @@ public class PlayerController : MonoBehaviour
     public bool HandleJump()
     {
        
-        if (Jump.IsPressed()&& rb.IsTouchingLayers(1 << LayerMask.NameToLayer("Ground")) && state.GetStateName() != "Jump")
+        if (Jump.IsPressed()&& IsOnTheGround() && state.GetStateName() != "Jump")
         {
-     
+           
             rb.linearVelocity += new Vector2(0, jumpForce);
             SetState(new Jump(this));
             return true;
@@ -178,7 +172,12 @@ public class PlayerController : MonoBehaviour
 
     public bool IsOnTheGround()
     {
-        return rb.IsTouchingLayers(1 << LayerMask.NameToLayer("Ground"));
+        return Physics2D.OverlapCircle(footPosition.position, 0.1f, 1 << LayerMask.NameToLayer("Ground"));
+    }
+
+    public bool IsTouchingWall()
+    {
+        return Physics2D.OverlapCircle(handPosition.position, 0.1f, 1 << LayerMask.NameToLayer("Ground"));
     }
 
     public Vector2 GetObjectVelocity()
@@ -203,13 +202,42 @@ public class PlayerController : MonoBehaviour
     public void SpawnLandingEffect()
     {
 
-        landingEffect.SpawnLandingEffect(footPosition);
+        landingEffect.SpawnLandingEffect(footPosition.position);
     }
 
     public float dashSpeed
     {
         get { return movementSpeed * 2; }
     }
+
+    public float MaxClimbTime { get => maxClimbTime;}
+    public float WallClimbCooldown { get => wallClimbCooldown; }
+
+    public float GetMoveInputX()
+    {
+        return moveAction.ReadValue<Vector2>().x;
+    }
+
+    public bool IsPressingTowardWall()
+    {
+        float inputX = GetMoveInputX();
+
+        if (inputX == 0) return false;
+
+        // đang nhấn về phía đang quay mặt
+        return Mathf.Sign(inputX) == Direction;
+    }
+
+    public bool CanClimbWall()
+    {
+        return wallCooldownTimer <= 0;
+    }
+
+    public void StartWallCooldown()
+    {
+        wallCooldownTimer = wallClimbCooldown;
+    }
+
 
     public void SetPlayerPosition(Vector2 newPos)
     {
