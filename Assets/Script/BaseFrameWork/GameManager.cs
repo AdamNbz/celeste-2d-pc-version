@@ -63,8 +63,8 @@ public class GameManager : MonoBehaviour
         }
         else
         {
+            currentPlayingStatus = PlayingChapterStatus.Playing;
             StartCoroutine(LoadPlayerAndCheckPointAfterLoadScene(currentSaveSlot.PlayerData.GetStage()));
-
         }
     }
 
@@ -154,11 +154,45 @@ public class GameManager : MonoBehaviour
         currentSaveSlot.PlayerData.SetCheckpoint("");
         SaveSlot(currentSaveSlot.SlotID);
         StartCoroutine(SpawnPlayerAfterLoadScene(currentSaveSlot.PlayerData.GetStage()));
+        currentPlayingStatus = PlayingChapterStatus.Playing;
     }
 
     public void GoToMenu()
     {
         SceneManager.LoadScene("MainMenu");
         SaveSlot(currentSaveSlot.SlotID);
+    }
+    enum PlayingChapterStatus
+    {
+        ChapterEnding,
+        ChapterComplete,
+        Playing
+    }
+    PlayingChapterStatus currentPlayingStatus;
+    public void OnChapterEnding()
+    {
+        if (currentPlayingStatus!=PlayingChapterStatus.Playing)
+        {
+            return;
+        }
+        else
+        {
+            currentPlayingStatus = PlayingChapterStatus.ChapterEnding;
+            player.DisableInput();
+            Invoke("ChapterEnded", 1.5f);
+        }
+    }
+    private void FixedUpdate()
+    {
+        if(currentPlayingStatus==PlayingChapterStatus.ChapterEnding)
+        {
+            Debug.Log("...");
+        }
+    }
+
+    public void ChapterEnded()
+    {
+        currentPlayingStatus = PlayingChapterStatus.ChapterComplete;
+        Debug.Log("ChapterComplete");
     }
 }

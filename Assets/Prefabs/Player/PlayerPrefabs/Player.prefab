@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4055028735300019681}
   m_Layer: 0
   m_Name: HandPosition
-  m_TagString: Untagged
+  m_TagString: PlayerHandPosition
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -330,6 +330,8 @@ MonoBehaviour:
     m_Flags: 0
   movementSpeed: 10
   jumpForce: 15
+  maxClimbTime: 1.2
+  wallClimbCooldown: 0.5
 --- !u!114 &1908657204451158438
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -400,7 +402,7 @@ GameObject:
   - component: {fileID: 860118315052634542}
   m_Layer: 0
   m_Name: FootPosition
-  m_TagString: Untagged
+  m_TagString: PlayerFootPosition
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

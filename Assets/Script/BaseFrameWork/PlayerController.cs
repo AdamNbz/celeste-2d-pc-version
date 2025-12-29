@@ -74,15 +74,43 @@ public class PlayerController : MonoBehaviour
         Dash.Disable();
     }
 
-    private void Awake()
+    private void Start()
     {
         animator = GetComponent<Animator>();
+        if (animator == null)
+        {
+            Debug.LogError("Animator component is missing on PlayerController.");
+        }
         rb = GetComponent<Rigidbody2D>();
+        if (rb == null)
+        {
+            Debug.LogError("Rigidbody2D component is missing on PlayerController.");
+        }
         SetState(new Idle(this));
         originalScale = transform.localScale;
+        if(originalScale == null)
+        {
+            Debug.LogError("Original Scale could not be determined.");
+        }
         landingEffect = GetComponent<LandingEffect>();
-        footPosition = GameObject.FindGameObjectWithTag("PlayerFootPosition").transform;
-        handPosition = GameObject.FindGameObjectWithTag("PlayerHandPosition").transform;
+        GameObject footObj = GameObject.FindGameObjectWithTag("PlayerFootPosition");
+        if (footObj == null)
+        {
+            Debug.Log("PlayerFootPosition object with the correct tag is missing in the scene.");
+        }
+        else
+        {
+            footPosition = footObj.transform;
+        }
+        GameObject handObj = GameObject.FindGameObjectWithTag("PlayerFootPosition");
+        if (handObj == null)
+        {
+            Debug.Log("PlayerHandPosition object with the correct tag is missing in the scene.");
+        }
+        else
+        {
+            handPosition = handObj.transform;
+        }
     }
 
     private void Update()
@@ -242,5 +270,12 @@ public class PlayerController : MonoBehaviour
     public void SetPlayerPosition(Vector2 newPos)
     {
         transform.position = newPos;
+    }
+
+    public void DisableInput()
+    {
+        moveAction.Disable();
+        Jump.Disable();
+        Dash.Disable();
     }
 }
