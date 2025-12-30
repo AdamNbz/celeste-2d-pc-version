@@ -21,17 +21,16 @@ public class PlayerController : MonoBehaviour
     [SerializeField] InputAction Dash;
     [SerializeField] float movementSpeed = 10;
     [SerializeField] float jumpForce = 10;
-
     [Header("Wall Climb Settings")]
     [SerializeField] float maxClimbTime = 1.2f;   // tClimb
     [SerializeField] float wallClimbCooldown = 0.5f; // t
-
+    bool isDeathed = false;
     float wallCooldownTimer;
 
     // private fields
 
-    Transform footPosition;
-    Transform handPosition;
+    [SerializeField]Transform footPosition;
+    [SerializeField]Transform handPosition;
     PlayerData data;
     // private component
     LandingEffect landingEffect;
@@ -76,6 +75,7 @@ public class PlayerController : MonoBehaviour
 
     private void Start()
     {
+        Debug.Log("PlayerController Start");
         animator = GetComponent<Animator>();
         if (animator == null)
         {
@@ -93,24 +93,6 @@ public class PlayerController : MonoBehaviour
             Debug.LogError("Original Scale could not be determined.");
         }
         landingEffect = GetComponent<LandingEffect>();
-        GameObject footObj = GameObject.FindGameObjectWithTag("PlayerFootPosition");
-        if (footObj == null)
-        {
-            Debug.Log("PlayerFootPosition object with the correct tag is missing in the scene.");
-        }
-        else
-        {
-            footPosition = footObj.transform;
-        }
-        GameObject handObj = GameObject.FindGameObjectWithTag("PlayerFootPosition");
-        if (handObj == null)
-        {
-            Debug.Log("PlayerHandPosition object with the correct tag is missing in the scene.");
-        }
-        else
-        {
-            handPosition = handObj.transform;
-        }
     }
 
     private void Update()
@@ -123,6 +105,7 @@ public class PlayerController : MonoBehaviour
     }
     private void FixedUpdate()
     {
+        
         if (wallCooldownTimer > 0)
             wallCooldownTimer -= Time.fixedDeltaTime;
 
@@ -137,7 +120,6 @@ public class PlayerController : MonoBehaviour
         {
             Debug.Log("Next state is null");
         }
-
         if (state != null)
         {
             state.FixedUpdate();
@@ -200,6 +182,11 @@ public class PlayerController : MonoBehaviour
 
     public bool IsOnTheGround()
     {
+        if(footPosition==null)
+        {
+            Debug.LogError("Foot Position is null in IsOnTheGround");
+            return false;
+        }
         return Physics2D.OverlapCircle(footPosition.position, 0.1f, 1 << LayerMask.NameToLayer("Ground"));
     }
 
@@ -277,5 +264,21 @@ public class PlayerController : MonoBehaviour
         moveAction.Disable();
         Jump.Disable();
         Dash.Disable();
+    }
+
+    public void EnableInput()
+    {
+        moveAction.Enable();
+        Jump.Enable();
+        Dash.Enable();
+    }
+    public void Death()
+    {
+        if(isDeathed)
+        {
+            return;
+        }
+        isDeathed = true;
+        GameManager.GetInstance().OnPlayerDeath();
     }
 }

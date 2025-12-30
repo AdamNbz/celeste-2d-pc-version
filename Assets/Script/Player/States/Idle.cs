@@ -10,6 +10,7 @@ namespace Player_State
 
         public override void Enter()
         {
+            Debug.Log("Player is now Idle.");
             playerController.GetAnimator().Play("PlayerIdle");
         }
 
@@ -20,8 +21,6 @@ namespace Player_State
 
         public override void FixedUpdate()
         {
-
-
             if (!playerController.IsOnTheGround())
             {
                 playerController.SetState(new Fall(playerController));

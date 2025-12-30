@@ -332,6 +332,8 @@ MonoBehaviour:
   jumpForce: 15
   maxClimbTime: 1.2
   wallClimbCooldown: 0.5
+  footPosition: {fileID: 860118315052634542}
+  handPosition: {fileID: 4055028735300019681}
 --- !u!114 &1908657204451158438
 MonoBehaviour:
   m_ObjectHideFlags: 0
