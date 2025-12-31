@@ -12,29 +12,33 @@ using UnityEngine.UIElements;
 public class PlayerController : MonoBehaviour
 {
     
-    [Header("Player Stat and State")]
-    PlayerState state;
-    Animator animator;
-    Rigidbody2D rb;
+    [Header("Input")]
     [SerializeField] InputAction moveAction;
     [SerializeField] InputAction Jump;
     [SerializeField] InputAction Dash;
+
+    [Header("Movement Settings")]
     [SerializeField] float movementSpeed = 10;
     [SerializeField] float jumpForce = 10;
+
     [Header("Wall Climb Settings")]
     [SerializeField] float maxClimbTime = 1.2f;   // tClimb
     [SerializeField] float wallClimbCooldown = 0.5f; // t
-    bool isDeathed = false;
-    float wallCooldownTimer;
+   
+    [Header("Foot and Hand Object")]
+    [SerializeField] Transform footPosition;
+    [SerializeField] Transform handPosition;
+
 
     // private fields
-
-    [SerializeField]Transform footPosition;
-    [SerializeField]Transform handPosition;
     PlayerData data;
+    bool isDeathed = false;
+    float wallCooldownTimer;
+    PlayerState state;
+    Animator animator;
+    Rigidbody2D rb;
     // private component
     LandingEffect landingEffect;
-
     Vector2 originalScale;
     public PlayerState nextState;
     int _Direction = 1;
