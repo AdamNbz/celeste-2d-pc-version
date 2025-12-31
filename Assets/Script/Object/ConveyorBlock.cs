@@ -10,6 +10,7 @@ public class ConveyorBlock : MonoBehaviour
     [SerializeField]private GameObject minwaypoint;
     [SerializeField]private GameObject maxwaypoint;
     private bool isMoving=false;
+    private bool isCollisionWithPlayer = false;
     private Rigidbody2D rb;
     private void Start()
     {
@@ -82,15 +83,19 @@ public class ConveyorBlock : MonoBehaviour
                 transform.position = minwaypoint.transform.position;
             }
         }
+
+        if (isCollisionWithPlayer&&isMoving)
+        {
+            PlayerController player = GameManager.GetInstance().GetPlayerController();
+            player.SetPlayerPosition(player.gameObject.transform.position + new Vector3(direction * speed * Time.fixedDeltaTime, 0f, 0f));
+        }
     }
-
-
-
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Player") && !(GetComponent<SpriteRenderer>().bounds.min.y+0.2 > collision.gameObject.GetComponent<SpriteRenderer>().bounds.max.y))
         {
            isMoving = true;
+           isCollisionWithPlayer = true;
         }
     }
 
@@ -98,7 +103,8 @@ public class ConveyorBlock : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            collision.rigidbody.linearVelocityX += calculateboost();   
+            collision.rigidbody.linearVelocityX += calculateboost();
+            isCollisionWithPlayer = false;
         }
     }
 }

@@ -63,21 +63,29 @@ public class GameManager : MonoBehaviour
         }
         else
         {
+            currentPlayingStatus = PlayingChapterStatus.Playing;
             StartCoroutine(LoadPlayerAndCheckPointAfterLoadScene(currentSaveSlot.PlayerData.GetStage()));
-
         }
     }
 
     IEnumerator<WaitUntil> LoadPlayerAndCheckPointAfterLoadScene(string SceneName)
     {
-        SceneManager.LoadScene(StaticChaptersDataManager.Instance.GetStaticChaptersData(SceneName).BuiltIndex);
+        if(SceneManager.GetActiveScene().buildIndex != StaticChaptersDataManager.Instance.GetStaticChaptersData(SceneName).BuiltIndex)
+            SceneManager.LoadScene(StaticChaptersDataManager.Instance.GetStaticChaptersData(SceneName).BuiltIndex);
         yield return new WaitUntil(()=>SceneManager.GetActiveScene().buildIndex== StaticChaptersDataManager.Instance.GetStaticChaptersData(SceneName).BuiltIndex);
         GetCheckPoints();
         SpawnPlayerAtCheckPoint();
     }
 
+    IEnumerator<WaitForSeconds> SpawnPlayerAfterDelayCoroutine(float timeDelay)
+    {
+        yield return new WaitForSeconds(timeDelay);
+        SpawnPlayerAtCheckPoint();
+    }
+
     IEnumerator<WaitUntil> SpawnPlayerAfterLoadScene(string SceneName)
     {
+        if(SceneManager.GetActiveScene().buildIndex != StaticChaptersDataManager.Instance.GetStaticChaptersData(SceneName).BuiltIndex)
         SceneManager.LoadScene(StaticChaptersDataManager.Instance.GetStaticChaptersData(SceneName).BuiltIndex);
         yield return new WaitUntil(() => SceneManager.GetActiveScene().buildIndex == StaticChaptersDataManager.Instance.GetStaticChaptersData(SceneName).BuiltIndex);
         SpawnPlayerAtCheckPoint();
@@ -114,6 +122,7 @@ public class GameManager : MonoBehaviour
     {
         if(player!=null)
         {
+            player.gameObject.name = "OldPlayerController";
             Destroy(player.gameObject);
         }
         player=Instantiate(playerPrefab);
@@ -154,11 +163,67 @@ public class GameManager : MonoBehaviour
         currentSaveSlot.PlayerData.SetCheckpoint("");
         SaveSlot(currentSaveSlot.SlotID);
         StartCoroutine(SpawnPlayerAfterLoadScene(currentSaveSlot.PlayerData.GetStage()));
+        currentPlayingStatus = PlayingChapterStatus.Playing;
     }
 
     public void GoToMenu()
     {
         SceneManager.LoadScene("MainMenu");
         SaveSlot(currentSaveSlot.SlotID);
+    }
+    public enum PlayingChapterStatus
+    {
+        ChapterEnding,
+        ChapterComplete,
+        Playing
+    }
+    PlayingChapterStatus currentPlayingStatus;
+
+    public PlayingChapterStatus GetCurrentPlayingStatus()
+    {
+        return currentPlayingStatus;
+    }
+
+    public void OnChapterEnding()
+    {
+        if (currentPlayingStatus!=PlayingChapterStatus.Playing)
+        {
+            return;
+        }
+        else
+        {
+            currentPlayingStatus = PlayingChapterStatus.ChapterEnding;
+            player.DisableInput();
+            Invoke("ChapterEnded", 1.5f);
+        }
+    }
+    private void FixedUpdate()
+    {
+        if(currentPlayingStatus==PlayingChapterStatus.ChapterEnding)
+        {
+            Debug.Log("...");
+        }
+    }
+
+    public void ChapterEnded()
+    {
+        currentPlayingStatus = PlayingChapterStatus.ChapterComplete;
+        Debug.Log("ChapterComplete");
+    }
+
+    public void SpawnPlayerAfterADelay(float timeDelay)
+    {
+        StartCoroutine(SpawnPlayerAfterDelayCoroutine(timeDelay));
+    }
+
+    public void OnPlayerDeath()
+    {
+        if(currentPlayingStatus!= PlayingChapterStatus.Playing)
+        {
+            return;
+        }
+        player.SetState(new Player_State.Death(player));
+        GameManager.GetInstance().SpawnPlayerAfterADelay(2f);
+        StartCoroutine(SpawnPlayerAfterDelayCoroutine(2f));
     }
 }
