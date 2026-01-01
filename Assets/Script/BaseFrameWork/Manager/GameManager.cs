@@ -2,10 +2,13 @@ using NUnit.Framework;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using System.Collections.Generic;
+using UnityEngine.InputSystem;
+using Unity.VisualScripting;
 public class GameManager : MonoBehaviour
 {
     [Header("Game Manager Settings")]
     [SerializeField]private PlayerController playerPrefab;
+    [SerializeField] InputAction reload;
     private static GameManager __instance;
     public static GameManager GetInstance()
     {
@@ -49,6 +52,7 @@ public class GameManager : MonoBehaviour
     private void Start()
     {
         LoadSlot(1);
+        reload.Enable();
     }
 
     public void LoadSlot(int slotID)
@@ -199,10 +203,22 @@ public class GameManager : MonoBehaviour
     }
     private void FixedUpdate()
     {
-        if(currentPlayingStatus==PlayingChapterStatus.ChapterEnding)
+        if (currentPlayingStatus==PlayingChapterStatus.ChapterEnding)
         {
             Debug.Log("...");
         }
+        if (reload.IsPressed())
+        {
+            StartCoroutine(ReloadScene());
+        }
+    }
+
+    IEnumerator<WaitForNextFrameUnit> ReloadScene()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        yield return new WaitForNextFrameUnit();
+        SpawnPlayerAtCheckPoint();
+        reload.Enable();
     }
 
     public void ChapterEnded()
