@@ -13,5 +13,6 @@ MonoBehaviour:
   m_Name: StaticChaptersDataManager
   m_EditorClassIdentifier: Assembly-CSharp::StaticChaptersDataManager
   datas:
+  - {fileID: 11400000, guid: 98c6724da7080c2408a682f09b281114, type: 2}
   - {fileID: 11400000, guid: 984719eb9a4e1c94bb5c95d9895c8adc, type: 2}
   - {fileID: 11400000, guid: 5c6cdccbc14a1654181791ec9ba8d6b6, type: 2}
