@@ -103,6 +103,10 @@ public class CameraController : MonoBehaviour
     /// </summary>
     void Update()
     {
+        if (target==null&& GameManager.GetInstance().GetPlayerController()!=null)
+        {
+            target = GameManager.GetInstance().GetPlayerController().transform;
+        }
         SetCameraPosition();
     }
 

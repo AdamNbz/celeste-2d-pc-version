@@ -265,6 +265,7 @@ public class PlayerController : MonoBehaviour
 
     public void DisableInput()
     {
+        rb.angularVelocity = 0;
         moveAction.Disable();
         Jump.Disable();
         Dash.Disable();
