@@ -188,7 +188,13 @@ public class GameManager : MonoBehaviour
         return currentPlayingStatus;
     }
 
-    public void OnChapterEnding()
+    public IEnumerator<WaitForSeconds> ChangeSceneAfterADelay(string newSceneName,float delaytime)
+    {
+        yield return new WaitForSeconds(delaytime);
+        ChangeScene(newSceneName);
+    }
+
+    public void OnChapterEnding(string nextSceneName)
     {
         if (currentPlayingStatus!=PlayingChapterStatus.Playing)
         {
@@ -199,6 +205,7 @@ public class GameManager : MonoBehaviour
             currentPlayingStatus = PlayingChapterStatus.ChapterEnding;
             player.DisableInput();
             Invoke("ChapterEnded", 1.5f);
+            StartCoroutine(ChangeSceneAfterADelay(nextSceneName, 3f));
         }
     }
     private void FixedUpdate()

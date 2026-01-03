@@ -1,3 +1,4 @@
+using Assets.Script.Player.States;
 using UnityEngine;
 namespace Player_State
 {
@@ -19,7 +20,18 @@ namespace Player_State
         }
         public override void FixedUpdate()
         {
-            playerController.HandleMovement();
+            Debug.Log(prevState.GetStateName());
+            if (prevState.GetStateName()!= "Climb")
+            {
+                playerController.HandleMovement();
+            }
+
+            if (playerController.IsTouchingWall() && playerController.IsPressingTowardWall() && playerController.CanClimbWall())
+            {
+                playerController.SetState(new Climb(playerController));
+                return;
+            }
+            playerController.HandleJump();
             playerController.HandleDash();
 
             if (playerController.GetObjectVelocity().y < 0)

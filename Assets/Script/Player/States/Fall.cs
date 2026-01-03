@@ -34,6 +34,7 @@ namespace Player_State
 
 
             playerController.HandleMovement();
+            playerController.HandleJump();
             playerController.HandleDash();
         }
         public override void Update()
