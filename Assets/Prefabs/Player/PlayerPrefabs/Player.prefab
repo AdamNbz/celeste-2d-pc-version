@@ -333,6 +333,8 @@ MonoBehaviour:
   jumpForce: 15
   maxClimbTime: 5
   wallClimbCooldown: 5
+  hairAnchor: {fileID: 3597373750009955511}
+  hair: {fileID: 4627056650119791686, guid: e23dd123f98b54268973732319cc972f, type: 3}
 --- !u!114 &1908657204451158438
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -449,7 +451,7 @@ Transform:
   m_GameObject: {fileID: 6960050884591034658}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.313, z: 0}
+  m_LocalPosition: {x: -0.01, y: 0.39, z: 0}
   m_LocalScale: {x: 1.37, y: 1.37, z: 1.37}
   m_ConstrainProportionsScale: 1
   m_Children: []

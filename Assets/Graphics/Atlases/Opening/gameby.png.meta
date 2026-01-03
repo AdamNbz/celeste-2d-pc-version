@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: e6af8ab060474461c8959761ceb9079e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2484251930404815742
+    second: gameby_0
+  - first:
+      213: -2500603889101942624
+    second: gameby_1
+  - first:
+      213: 3893017257761995995
+    second: gameby_2
+  - first:
+      213: 239075556221622935
+    second: gameby_3
+  - first:
+      213: -1637153340250192156
+    second: gameby_4
+  - first:
+      213: 1472736894266190849
+    second: gameby_5
+  - first:
+      213: -5494493976320963094
+    second: gameby_6
+  - first:
+      213: 8647549719604996529
+    second: gameby_7
+  - first:
+      213: -71667344945118911
+    second: gameby_8
+  - first:
+      213: 3382915475019966121
+    second: gameby_9
+  - first:
+      213: -8580870028336587639
+    second: gameby_10
+  - first:
+      213: 5312223709584471158
+    second: gameby_11
+  - first:
+      213: 2325291113652767372
+    second: gameby_12
+  - first:
+      213: 4970289409041102552
+    second: gameby_13
+  - first:
+      213: 792284536613871048
+    second: gameby_14
+  - first:
+      213: -689143452890756684
+    second: gameby_15
+  - first:
+      213: 8270770010122432513
+    second: gameby_16
+  - first:
+      213: -1933235454357784467
+    second: gameby_17
+  - first:
+      213: 3321939710687118539
+    second: gameby_18
+  - first:
+      213: 1452072723120577383
+    second: gameby_19
+  - first:
+      213: -6080532904056024592
+    second: gameby_20
+  - first:
+      213: -1441387712232895968
+    second: gameby_21
+  - first:
+      213: 8295905543857144408
+    second: gameby_22
+  - first:
+      213: -7188813130202487596
+    second: gameby_23
+  - first:
+      213: -4940114722135698190
+    second: gameby_24
+  - first:
+      213: 183230424235007743
+    second: gameby_25
+  - first:
+      213: 3513374363031048315
+    second: gameby_26
+  - first:
+      213: 5182633808837247054
+    second: gameby_27
+  - first:
+      213: -3545434214097035467
+    second: gameby_28
+  - first:
+      213: 4532543752539658988
+    second: gameby_29
+  - first:
+      213: 4114461824640516643
+    second: gameby_30
+  - first:
+      213: -9119972648599620925
+    second: gameby_31
+  - first:
+      213: 248847243452285819
+    second: gameby_32
+  - first:
+      213: -7633006884989879127
+    second: gameby_33
+  - first:
+      213: 2323024525818416296
+    second: gameby_34
+  - first:
+      213: 8329317445004341446
+    second: gameby_35
+  - first:
+      213: 8817355397655476604
+    second: gameby_36
+  - first:
+      213: -3708211456135043335
+    second: gameby_37
+  - first:
+      213: -1436010067971109389
+    second: gameby_38
+  - first:
+      213: -7797233206884883253
+    second: gameby_39
+  - first:
+      213: 3365549747843765253
+    second: gameby_40
+  - first:
+      213: -5397193277575419645
+    second: gameby_41
+  - first:
+      213: -4508164621348326911
+    second: gameby_42
+  - first:
+      213: 5096034147672177963
+    second: gameby_43
+  - first:
+      213: 5183737290019495917
+    second: gameby_44
+  - first:
+      213: -1940929196488487395
+    second: gameby_45
+  - first:
+      213: 9159696044595032161
+    second: gameby_46
+  - first:
+      213: 8533488935710970734
+    second: gameby_47
+  - first:
+      213: 8929503339902081890
+    second: gameby_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gameby_0
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 693
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c74ab080a268dd0800000000000000
+      internalID: -2484251930404815742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_1
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 681
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a05e1af2021c4dd0800000000000000
+      internalID: -2500603889101942624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_2
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 693
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc7e51e196c60630800000000000000
+      internalID: 3893017257761995995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_3
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 694
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a9113a3fd515300800000000000000
+      internalID: 239075556221622935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_4
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 693
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e60b8706b9a749e0800000000000000
+      internalID: -1637153340250192156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_5
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 693
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c29560766307410800000000000000
+      internalID: 1472736894266190849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_6
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 681
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed8dd0f6d2afb3b0800000000000000
+      internalID: -5494493976320963094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_7
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 561
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9a59e37a4420870800000000000000
+      internalID: 8647549719604996529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_8
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 560
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1410d82fde2610ff0800000000000000
+      internalID: -71667344945118911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_9
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 560
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6acb973b782fe20800000000000000
+      internalID: 3382915475019966121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_10
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 560
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c93313c20aae880800000000000000
+      internalID: -8580870028336587639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_11
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 544
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674b039815fc8b940800000000000000
+      internalID: 5312223709584471158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_12
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 551
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a45aca2f7154020800000000000000
+      internalID: 2325291113652767372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_13
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 559
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6f7c042e30af440800000000000000
+      internalID: 4970289409041102552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_14
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 560
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd97ed9692cefa00800000000000000
+      internalID: 792284536613871048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_15
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 560
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9092b4eabaf66f0800000000000000
+      internalID: -689143452890756684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_16
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 561
+        width: 15
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1003d48f08da7c270800000000000000
+      internalID: 8270770010122432513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_17
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 551
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6830d3d894cb25e0800000000000000
+      internalID: -1933235454357784467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_18
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 561
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc405c40196e91e20800000000000000
+      internalID: 3321939710687118539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_19
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 561
+        width: 73
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bd2a1c27cc62410800000000000000
+      internalID: 1452072723120577383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_20
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 560
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f19aa03a8b9d9ba0800000000000000
+      internalID: -6080532904056024592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_21
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 561
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02aceb433892ffbe0800000000000000
+      internalID: -1441387712232895968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_22
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 560
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8528cc7732af02370800000000000000
+      internalID: 8295905543857144408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_23
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 465
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4ed99cb843c3c90800000000000000
+      internalID: -7188813130202487596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_24
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 464
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f49c6585df217bb0800000000000000
+      internalID: -4940114722135698190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_25
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 465
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe529c9917fa8200800000000000000
+      internalID: 183230424235007743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_26
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 465
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b701e675e5302c030800000000000000
+      internalID: 3513374363031048315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_27
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 513
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e408ca88df96ce740800000000000000
+      internalID: 5182633808837247054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_28
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 464
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fda36ed561ccec0800000000000000
+      internalID: -3545434214097035467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_29
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 465
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceada0b4784d6ee30800000000000000
+      internalID: 4532543752539658988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_30
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 464
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3228a9bea31891930800000000000000
+      internalID: 4114461824640516643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_31
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 455
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2f0fe12395f6180800000000000000
+      internalID: -9119972648599620925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_32
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 464
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b730f4ddf35147300800000000000000
+      internalID: 248847243452285819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_33
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 465
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac3114fdac121690800000000000000
+      internalID: -7633006884989879127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_34
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 464
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac4de19f7a0d3020800000000000000
+      internalID: 2323024525818416296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_35
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 455
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0b2fae51ea79370800000000000000
+      internalID: 8329317445004341446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_36
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 464
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79b0af840a8d5a70800000000000000
+      internalID: 8817355397655476604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_37
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 463
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6690dd359c98cc0800000000000000
+      internalID: -3708211456135043335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_38
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 465
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd82b49374421ce0800000000000000
+      internalID: -1436010067971109389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_39
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 465
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc42fb8b5b9aac390800000000000000
+      internalID: -7797233206884883253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_40
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 339
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504122a0aa5d4be20800000000000000
+      internalID: 3365549747843765253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_41
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 341
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309adf14f415915b0800000000000000
+      internalID: -5397193277575419645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_42
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 389
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102bc838928cf61c0800000000000000
+      internalID: -4508164621348326911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_43
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 340
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2db24fae00c8b640800000000000000
+      internalID: 5096034147672177963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_44
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 341
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defde84c99550f740800000000000000
+      internalID: 5183737290019495917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_45
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 341
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e8e15ed2f6015e0800000000000000
+      internalID: -1940929196488487395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_46
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 340
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16033acb507cd1f70800000000000000
+      internalID: 9159696044595032161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_47
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 341
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6357c389fa0d6670800000000000000
+      internalID: 8533488935710970734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameby_48
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 340
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b17832af7fbeb70800000000000000
+      internalID: 8929503339902081890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gameby_0: -2484251930404815742
+      gameby_1: -2500603889101942624
+      gameby_10: -8580870028336587639
+      gameby_11: 5312223709584471158
+      gameby_12: 2325291113652767372
+      gameby_13: 4970289409041102552
+      gameby_14: 792284536613871048
+      gameby_15: -689143452890756684
+      gameby_16: 8270770010122432513
+      gameby_17: -1933235454357784467
+      gameby_18: 3321939710687118539
+      gameby_19: 1452072723120577383
+      gameby_2: 3893017257761995995
+      gameby_20: -6080532904056024592
+      gameby_21: -1441387712232895968
+      gameby_22: 8295905543857144408
+      gameby_23: -7188813130202487596
+      gameby_24: -4940114722135698190
+      gameby_25: 183230424235007743
+      gameby_26: 3513374363031048315
+      gameby_27: 5182633808837247054
+      gameby_28: -3545434214097035467
+      gameby_29: 4532543752539658988
+      gameby_3: 239075556221622935
+      gameby_30: 4114461824640516643
+      gameby_31: -9119972648599620925
+      gameby_32: 248847243452285819
+      gameby_33: -7633006884989879127
+      gameby_34: 2323024525818416296
+      gameby_35: 8329317445004341446
+      gameby_36: 8817355397655476604
+      gameby_37: -3708211456135043335
+      gameby_38: -1436010067971109389
+      gameby_39: -7797233206884883253
+      gameby_4: -1637153340250192156
+      gameby_40: 3365549747843765253
+      gameby_41: -5397193277575419645
+      gameby_42: -4508164621348326911
+      gameby_43: 5096034147672177963
+      gameby_44: 5183737290019495917
+      gameby_45: -1940929196488487395
+      gameby_46: 9159696044595032161
+      gameby_47: 8533488935710970734
+      gameby_48: 8929503339902081890
+      gameby_5: 1472736894266190849
+      gameby_6: -5494493976320963094
+      gameby_7: 8647549719604996529
+      gameby_8: -71667344945118911
+      gameby_9: 3382915475019966121
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

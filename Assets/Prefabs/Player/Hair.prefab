@@ -104,10 +104,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HairPart
   target: {fileID: 6089693824903017688}
-  mainHairPart: 0
-  lerpSpeed: 5
+  spriteRenderer: {fileID: 0}
   maxDist: 0.5
-  gravity: -0.1
+  baseOffset: {x: 0, y: -0.06}
 --- !u!1 &2339499396157942287
 GameObject:
   m_ObjectHideFlags: 0
@@ -211,11 +210,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f188ff2263308014c96345834eeb06da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HairPart
-  target: {fileID: 6901217708369070513}
-  mainHairPart: 0
-  lerpSpeed: 5
+  target: {fileID: 6089693824903017688}
+  spriteRenderer: {fileID: 0}
   maxDist: 0.5
-  gravity: -0.1
+  baseOffset: {x: 0, y: -0.06}
 --- !u!1 &4627056650119791686
 GameObject:
   m_ObjectHideFlags: 0
@@ -269,8 +267,15 @@ MonoBehaviour:
   - {fileID: 414580756060735176}
   - {fileID: 146076072134955151}
   - {fileID: 6055563564675011531}
-  offSets: []
-  NumberOfParts: 0
+  numberOfParts: 4
+  maxDistBetweenParts: 0.22
+  baseOffset: {x: 0, y: -0.06}
+  scalePerPart:
+  - 1
+  - 0.9
+  - 0.8
+  - 0.6
+  - 0.4
 --- !u!1 &6016110588384545657
 GameObject:
   m_ObjectHideFlags: 0
@@ -375,10 +380,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HairPart
   target: {fileID: 0}
-  mainHairPart: 1
-  lerpSpeed: 5
+  spriteRenderer: {fileID: 0}
   maxDist: 0.5
-  gravity: -0.1
+  baseOffset: {x: 0, y: -0.06}
 --- !u!1 &6222599061519724713
 GameObject:
   m_ObjectHideFlags: 0
@@ -482,8 +486,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f188ff2263308014c96345834eeb06da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HairPart
-  target: {fileID: 4496305928086570921}
-  mainHairPart: 0
-  lerpSpeed: 5
+  target: {fileID: 6089693824903017688}
+  spriteRenderer: {fileID: 0}
   maxDist: 0.5
-  gravity: -0.1
+  baseOffset: {x: 0, y: -0.06}

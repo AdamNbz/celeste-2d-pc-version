@@ -26,6 +26,13 @@ public class PlayerController : MonoBehaviour
     [SerializeField] float maxClimbTime = 1.2f;   // tClimb
     [SerializeField] float wallClimbCooldown = 0.5f; // t
 
+    [Header("Hair")]
+    public Transform hairAnchor;
+    public GameObject hair;
+
+    public hairDelegate hairGravity;
+    public delegate void hairDelegate(float gravityScale);
+
     float wallCooldownTimer;
 
     // private fields
@@ -83,6 +90,7 @@ public class PlayerController : MonoBehaviour
         landingEffect = GetComponent<LandingEffect>();
         footPosition = GameObject.FindGameObjectWithTag("PlayerFootPosition").transform;
         handPosition = GameObject.FindGameObjectWithTag("PlayerHandPosition").transform;
+        CreateHair();
     }
 
     private void Update()
@@ -91,6 +99,9 @@ public class PlayerController : MonoBehaviour
         {
             state.Update();
         }
+
+        if (IsOnTheGround()) hairGravity?.Invoke(-.1f);
+        else hairGravity?.Invoke(-0.025f);
         
     }
     private void FixedUpdate()
@@ -238,5 +249,34 @@ public class PlayerController : MonoBehaviour
         wallCooldownTimer = wallClimbCooldown;
     }
 
+    private void CreateHair()
+    {
+        GameObject obj = Instantiate(hair);
+        HairObject hairSystem = obj.GetComponent<HairObject>();
+        
+        if (hairSystem != null)
+        {
+            hairSystem.Initialize(this, hairAnchor);
+        }
+        else
+        {
+            // Fallback: Initialize hair parts directly if no HairObject component
+            Transform previousTarget = hairAnchor;
+            float[] scales = { 1f, 0.9f, 0.8f, 0.6f, 0.4f };
+            int index = 0;
+            
+            foreach (Transform child in obj.transform)
+            {
+                HairPart part = child.GetComponent<HairPart>();
+                if (part != null)
+                {
+                    float scale = (index < scales.Length) ? scales[index] : 0.3f;
+                    part.InitHair(this, previousTarget, index, scale);
+                    previousTarget = child;
+                    index++;
+                }
+            }
+        }
+    }
 
 }

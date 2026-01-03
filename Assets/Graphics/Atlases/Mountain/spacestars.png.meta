@@ -1,0 +1,4940 @@
+fileFormatVersion: 2
+guid: 45bb4b91b7a7d4efba0c4757d7d7c2d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3918966666562812452
+    second: spacestars_0
+  - first:
+      213: 5655710692158182295
+    second: spacestars_1
+  - first:
+      213: 4860437759150713580
+    second: spacestars_2
+  - first:
+      213: -4169277051324466550
+    second: spacestars_3
+  - first:
+      213: -2613073261680075949
+    second: spacestars_4
+  - first:
+      213: 1488631380560971917
+    second: spacestars_5
+  - first:
+      213: 8560443583428504570
+    second: spacestars_6
+  - first:
+      213: -8876999341037668795
+    second: spacestars_7
+  - first:
+      213: 240043790217184750
+    second: spacestars_8
+  - first:
+      213: -5527113845674066458
+    second: spacestars_9
+  - first:
+      213: 8678507369546927283
+    second: spacestars_10
+  - first:
+      213: -1753132728488136142
+    second: spacestars_11
+  - first:
+      213: -6336364623053338586
+    second: spacestars_12
+  - first:
+      213: -5241661401033245748
+    second: spacestars_13
+  - first:
+      213: 3312762215393848894
+    second: spacestars_14
+  - first:
+      213: -5829967950658687311
+    second: spacestars_15
+  - first:
+      213: 1359903427794785164
+    second: spacestars_16
+  - first:
+      213: -7600777154367745607
+    second: spacestars_17
+  - first:
+      213: -1591929609693782068
+    second: spacestars_18
+  - first:
+      213: 474179345577671264
+    second: spacestars_19
+  - first:
+      213: -3896110280287681382
+    second: spacestars_20
+  - first:
+      213: -7974154330264163582
+    second: spacestars_21
+  - first:
+      213: 989258256478675032
+    second: spacestars_22
+  - first:
+      213: 2153330850525586937
+    second: spacestars_23
+  - first:
+      213: -3477070905356475936
+    second: spacestars_24
+  - first:
+      213: -721578512108383396
+    second: spacestars_25
+  - first:
+      213: -8459516689600915828
+    second: spacestars_26
+  - first:
+      213: 748739097948196817
+    second: spacestars_27
+  - first:
+      213: 7043239131281190755
+    second: spacestars_28
+  - first:
+      213: 5437948933919041689
+    second: spacestars_29
+  - first:
+      213: 8411106009951668201
+    second: spacestars_30
+  - first:
+      213: 718436345321283579
+    second: spacestars_31
+  - first:
+      213: -6579934217260757365
+    second: spacestars_32
+  - first:
+      213: -4321367460023628342
+    second: spacestars_33
+  - first:
+      213: 5950487658419967376
+    second: spacestars_34
+  - first:
+      213: 7735043139483574615
+    second: spacestars_35
+  - first:
+      213: -4243581628094380000
+    second: spacestars_36
+  - first:
+      213: -7599925519284103949
+    second: spacestars_37
+  - first:
+      213: 8891526261109133910
+    second: spacestars_38
+  - first:
+      213: 3032353933176086388
+    second: spacestars_39
+  - first:
+      213: -2993245682745656819
+    second: spacestars_40
+  - first:
+      213: 7100884421868156099
+    second: spacestars_41
+  - first:
+      213: -4909877572472360161
+    second: spacestars_42
+  - first:
+      213: -2991670635556147663
+    second: spacestars_43
+  - first:
+      213: 4631361050746918684
+    second: spacestars_44
+  - first:
+      213: 7317725013661844129
+    second: spacestars_45
+  - first:
+      213: -8633221166417241902
+    second: spacestars_46
+  - first:
+      213: 7571772859106072613
+    second: spacestars_47
+  - first:
+      213: -7741346051526634835
+    second: spacestars_48
+  - first:
+      213: -2936938181441321069
+    second: spacestars_49
+  - first:
+      213: 3185783421659643205
+    second: spacestars_50
+  - first:
+      213: -2642264591178907643
+    second: spacestars_51
+  - first:
+      213: 1973289887249504789
+    second: spacestars_52
+  - first:
+      213: -8958416407336924941
+    second: spacestars_53
+  - first:
+      213: 7484536273166330190
+    second: spacestars_54
+  - first:
+      213: 4424381515361821791
+    second: spacestars_55
+  - first:
+      213: -6762337592037752713
+    second: spacestars_56
+  - first:
+      213: -7366126801044923295
+    second: spacestars_57
+  - first:
+      213: 3845318322004963658
+    second: spacestars_58
+  - first:
+      213: 5576607966693282669
+    second: spacestars_59
+  - first:
+      213: 5087558874826204195
+    second: spacestars_60
+  - first:
+      213: 2051755024052067026
+    second: spacestars_61
+  - first:
+      213: -2828632356480972254
+    second: spacestars_62
+  - first:
+      213: 6725262999013665453
+    second: spacestars_63
+  - first:
+      213: -5969686634719297697
+    second: spacestars_64
+  - first:
+      213: -940000097085873627
+    second: spacestars_65
+  - first:
+      213: 2846592191827264083
+    second: spacestars_66
+  - first:
+      213: -7999246144779669444
+    second: spacestars_67
+  - first:
+      213: -8387165600363986553
+    second: spacestars_68
+  - first:
+      213: -1996330224516079529
+    second: spacestars_69
+  - first:
+      213: 4860055200534529951
+    second: spacestars_70
+  - first:
+      213: -8113610584364868878
+    second: spacestars_71
+  - first:
+      213: -1535395068903644381
+    second: spacestars_72
+  - first:
+      213: -387348158614035658
+    second: spacestars_73
+  - first:
+      213: -381516232115906969
+    second: spacestars_74
+  - first:
+      213: 2469915292438836194
+    second: spacestars_75
+  - first:
+      213: 1833906627601705420
+    second: spacestars_76
+  - first:
+      213: -2415687135032698510
+    second: spacestars_77
+  - first:
+      213: 3356818026272335356
+    second: spacestars_78
+  - first:
+      213: 2547157302285724813
+    second: spacestars_79
+  - first:
+      213: 1809229537153904473
+    second: spacestars_80
+  - first:
+      213: 3814214362893686323
+    second: spacestars_81
+  - first:
+      213: -5377078612008859773
+    second: spacestars_82
+  - first:
+      213: -3560763299483599273
+    second: spacestars_83
+  - first:
+      213: 3434990128924659102
+    second: spacestars_84
+  - first:
+      213: 2177524935946820615
+    second: spacestars_85
+  - first:
+      213: 283476051270548851
+    second: spacestars_86
+  - first:
+      213: -3348955607952305301
+    second: spacestars_87
+  - first:
+      213: 2388939381725600892
+    second: spacestars_88
+  - first:
+      213: -9005311410701001187
+    second: spacestars_89
+  - first:
+      213: 4000356510242985195
+    second: spacestars_90
+  - first:
+      213: -447417168897352679
+    second: spacestars_91
+  - first:
+      213: 6279483176135745275
+    second: spacestars_92
+  - first:
+      213: 3032970337793983682
+    second: spacestars_93
+  - first:
+      213: 7296101096524833995
+    second: spacestars_94
+  - first:
+      213: 2921243547594059066
+    second: spacestars_95
+  - first:
+      213: -6868021957504218824
+    second: spacestars_96
+  - first:
+      213: 5292202837523515145
+    second: spacestars_97
+  - first:
+      213: 9213665775267871003
+    second: spacestars_98
+  - first:
+      213: -4368832088019314859
+    second: spacestars_99
+  - first:
+      213: 2231543928993197520
+    second: spacestars_100
+  - first:
+      213: -6976573117054077912
+    second: spacestars_101
+  - first:
+      213: -878128370554908103
+    second: spacestars_102
+  - first:
+      213: 1931167330940521565
+    second: spacestars_103
+  - first:
+      213: 1776832140297942091
+    second: spacestars_104
+  - first:
+      213: 1376287942204510380
+    second: spacestars_105
+  - first:
+      213: 7642685133043849248
+    second: spacestars_106
+  - first:
+      213: 6263493520420912200
+    second: spacestars_107
+  - first:
+      213: 8717062351708871975
+    second: spacestars_108
+  - first:
+      213: 5929645534565713471
+    second: spacestars_109
+  - first:
+      213: 2201125672546575668
+    second: spacestars_110
+  - first:
+      213: 8643609523842578040
+    second: spacestars_111
+  - first:
+      213: -2867069791498664285
+    second: spacestars_112
+  - first:
+      213: 7583098578913779792
+    second: spacestars_113
+  - first:
+      213: 8560014274361017809
+    second: spacestars_114
+  - first:
+      213: 2684423598865590397
+    second: spacestars_115
+  - first:
+      213: -4433384059932755138
+    second: spacestars_116
+  - first:
+      213: -148577111978008572
+    second: spacestars_117
+  - first:
+      213: 3558151555064344921
+    second: spacestars_118
+  - first:
+      213: 5995627169591946550
+    second: spacestars_119
+  - first:
+      213: -8034379376428015711
+    second: spacestars_120
+  - first:
+      213: -638728485706274422
+    second: spacestars_121
+  - first:
+      213: 5921501056052218891
+    second: spacestars_122
+  - first:
+      213: -7429213290566782742
+    second: spacestars_123
+  - first:
+      213: 6617000617732508640
+    second: spacestars_124
+  - first:
+      213: 4292515829173914584
+    second: spacestars_125
+  - first:
+      213: -6307468262619452993
+    second: spacestars_126
+  - first:
+      213: 3823350485115406112
+    second: spacestars_127
+  - first:
+      213: 5837793568544457298
+    second: spacestars_128
+  - first:
+      213: -124330915455929593
+    second: spacestars_129
+  - first:
+      213: -4989350551606326516
+    second: spacestars_130
+  - first:
+      213: 2481678672925739265
+    second: spacestars_131
+  - first:
+      213: -5328513609244998287
+    second: spacestars_132
+  - first:
+      213: -1614590806932850682
+    second: spacestars_133
+  - first:
+      213: 542924768639840380
+    second: spacestars_134
+  - first:
+      213: 3407868565451133398
+    second: spacestars_135
+  - first:
+      213: -2639251950993085664
+    second: spacestars_136
+  - first:
+      213: 4986026999522915422
+    second: spacestars_137
+  - first:
+      213: -5178207964640940800
+    second: spacestars_138
+  - first:
+      213: -6453003907578893638
+    second: spacestars_139
+  - first:
+      213: -6664309316366410972
+    second: spacestars_140
+  - first:
+      213: -7207124683831179972
+    second: spacestars_141
+  - first:
+      213: 2720462279616986955
+    second: spacestars_142
+  - first:
+      213: -4762217189236444852
+    second: spacestars_143
+  - first:
+      213: -2964329797411715887
+    second: spacestars_144
+  - first:
+      213: -8266882089367376229
+    second: spacestars_145
+  - first:
+      213: -4362485327949485446
+    second: spacestars_146
+  - first:
+      213: 7628684458947228562
+    second: spacestars_147
+  - first:
+      213: 4603014680581000793
+    second: spacestars_148
+  - first:
+      213: -5773764710391809878
+    second: spacestars_149
+  - first:
+      213: 404201423212700
+    second: spacestars_150
+  - first:
+      213: -8504725787310244212
+    second: spacestars_151
+  - first:
+      213: -5768461293907255180
+    second: spacestars_152
+  - first:
+      213: 3660866621455642514
+    second: spacestars_153
+  - first:
+      213: 4371122172699466511
+    second: spacestars_154
+  - first:
+      213: 5948350629011943035
+    second: spacestars_155
+  - first:
+      213: -7592507599016664078
+    second: spacestars_156
+  - first:
+      213: -6973391962201952521
+    second: spacestars_157
+  - first:
+      213: 4522501058088474306
+    second: spacestars_158
+  - first:
+      213: 6556849392502518165
+    second: spacestars_159
+  - first:
+      213: 551100394499450716
+    second: spacestars_160
+  - first:
+      213: -5472942075137393102
+    second: spacestars_161
+  - first:
+      213: 6353730900319161251
+    second: spacestars_162
+  - first:
+      213: 3578428231507910666
+    second: spacestars_163
+  - first:
+      213: -5583769104356566934
+    second: spacestars_164
+  - first:
+      213: 3145074917457269328
+    second: spacestars_165
+  - first:
+      213: -779375649317208962
+    second: spacestars_166
+  - first:
+      213: -8373418466623328951
+    second: spacestars_167
+  - first:
+      213: -3058943841234612377
+    second: spacestars_168
+  - first:
+      213: 3726320185004427309
+    second: spacestars_169
+  - first:
+      213: -2951320936058903120
+    second: spacestars_170
+  - first:
+      213: -5423633484808537268
+    second: spacestars_171
+  - first:
+      213: 3668424384850005925
+    second: spacestars_172
+  - first:
+      213: -2382620802670856831
+    second: spacestars_173
+  - first:
+      213: -2546689502712047235
+    second: spacestars_174
+  - first:
+      213: 288887013977535745
+    second: spacestars_175
+  - first:
+      213: 5818556488831326952
+    second: spacestars_176
+  - first:
+      213: -471408506744523951
+    second: spacestars_177
+  - first:
+      213: -731436862899615260
+    second: spacestars_178
+  - first:
+      213: -4404060166756184253
+    second: spacestars_179
+  - first:
+      213: 7176758109319855489
+    second: spacestars_180
+  - first:
+      213: -4679409147567771948
+    second: spacestars_181
+  - first:
+      213: -9020210934472575941
+    second: spacestars_182
+  - first:
+      213: 2484548252633168704
+    second: spacestars_183
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spacestars_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 244
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd54de094980d99c0800000000000000
+      internalID: -3918966666562812452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 247
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7939776c8ee1d7e40800000000000000
+      internalID: 5655710692158182295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 243
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceae217e36eb37340800000000000000
+      internalID: 4860437759150713580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_3
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 241
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8afd919c90c326c0800000000000000
+      internalID: -4169277051324466550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 232
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bdc7196bf7cbbd0800000000000000
+      internalID: -2613073261680075949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_5
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8806df7a5ea8a410800000000000000
+      internalID: 1488631380560971917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_6
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 214
+        width: 11
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb270e751eccc670800000000000000
+      internalID: 8560443583428504570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_7
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 247
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546b216b1209ec480800000000000000
+      internalID: -8876999341037668795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 212
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee50f6e2e8ec45300800000000000000
+      internalID: 240043790217184750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 206
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed3473cd3fbb43b0800000000000000
+      internalID: -5527113845674066458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_10
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 219
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc447ec870407870800000000000000
+      internalID: 8678507369546927283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 214
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2327a5a621f9ba7e0800000000000000
+      internalID: -1753132728488136142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_12
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 229
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628cd8362f5b018a0800000000000000
+      internalID: -6336364623053338586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_13
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 218
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb798e2ab0e147b0800000000000000
+      internalID: -5241661401033245748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_14
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ee2e1eeab49fd20800000000000000
+      internalID: 3312762215393848894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_15
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 207
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bea311990bc71fa0800000000000000
+      internalID: -5829967950658687311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_16
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 218
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c835b8666f85fd210800000000000000
+      internalID: 1359903427794785164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_17
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 201
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b19101e27d948690800000000000000
+      internalID: -7600777154367745607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_18
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 199
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf96c2547458e9e0800000000000000
+      internalID: -1591929609693782068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 208
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06afbfc3a9f949600800000000000000
+      internalID: 474179345577671264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_20
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 195
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9484b1b75c3ee9c0800000000000000
+      internalID: -3896110280287681382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 175
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b2670b2ec165190800000000000000
+      internalID: -7974154330264163582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_22
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 206
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850a888942d8abd00800000000000000
+      internalID: 989258256478675032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_23
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 209
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5a77deffa22ed10800000000000000
+      internalID: 2153330850525586937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_24
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 201
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1a1631f66febfc0800000000000000
+      internalID: -3477070905356475936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_25
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 190
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5399349a207cf5f0800000000000000
+      internalID: -721578512108383396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_26
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 201
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8659d82462c99a80800000000000000
+      internalID: -8459516689600915828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_27
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 204
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df06aa1e3e046a00800000000000000
+      internalID: 748739097948196817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_28
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 207
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f65285cac9eb160800000000000000
+      internalID: 7043239131281190755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_29
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 209
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99865f07eb9777b40800000000000000
+      internalID: 5437948933919041689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_30
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 201
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e782532a504ab470800000000000000
+      internalID: 8411106009951668201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_31
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 208
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffda94bc0668f900800000000000000
+      internalID: 718436345321283579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_32
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 190
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e0cbef0b06fa4a0800000000000000
+      internalID: -6579934217260757365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_33
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 171
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd0c51d03b6704c0800000000000000
+      internalID: -4321367460023628342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_34
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095d7709ff0649250800000000000000
+      internalID: 5950487658419967376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_35
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 186
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751ad3bd0c4685b60800000000000000
+      internalID: 7735043139483574615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_36
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 165
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0288f022ef4cb15c0800000000000000
+      internalID: -4243581628094380000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_37
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 175
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f415af9104a78690800000000000000
+      internalID: -7599925519284103949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_38
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 187
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6529770760c056b70800000000000000
+      internalID: 8891526261109133910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_39
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 172
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f183c06d5151a20800000000000000
+      internalID: 3032353933176086388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_40
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 190
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a397219ead576d0800000000000000
+      internalID: -2993245682745656819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 189
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c47e8472c86b8260800000000000000
+      internalID: 7100884421868156099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_42
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 183
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13b02a8c5c9cdbb0800000000000000
+      internalID: -4909877572472360161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_43
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 160
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e65b258637b76d0800000000000000
+      internalID: -2991670635556147663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_44
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 181
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1799507656e54040800000000000000
+      internalID: 4631361050746918684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_45
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 172
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a20e430128cd8560800000000000000
+      internalID: 7317725013661844129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_46
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 175
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d811540713a03880800000000000000
+      internalID: -8633221166417241902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_47
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 175
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52816f26c47541960800000000000000
+      internalID: 7571772859106072613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_48
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 169
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2d16318c6319490800000000000000
+      internalID: -7741346051526634835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_49
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 179
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39788e7d846ed37d0800000000000000
+      internalID: -2936938181441321069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_50
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 170
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54df95b942d263c20800000000000000
+      internalID: 3185783421659643205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_51
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 159
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50040388a5ac45bd0800000000000000
+      internalID: -2642264591178907643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_52
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 164
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a906092b8826b10800000000000000
+      internalID: 1973289887249504789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_53
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 147
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8c6a2cdbf4da380800000000000000
+      internalID: -8958416407336924941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_54
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 159
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49ea9ee51a6ed760800000000000000
+      internalID: 7484536273166330190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_55
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 157
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5422fdfb8f866d30800000000000000
+      internalID: 4424381515361821791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_56
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 158
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770c157d9c95722a0800000000000000
+      internalID: -6762337592037752713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_57
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 166
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c9b3da3b246c990800000000000000
+      internalID: -7366126801044923295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_58
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 147
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a413867f3a05d5530800000000000000
+      internalID: 3845318322004963658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_59
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 123
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63dd5a4667146d40800000000000000
+      internalID: 5576607966693282669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_60
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 149
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324e6e377d3aa9640800000000000000
+      internalID: 5087558874826204195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_61
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 152
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da1fbed25c497c10800000000000000
+      internalID: 2051755024052067026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_62
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 140
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a86c7cbddaeb8d0800000000000000
+      internalID: -2828632356480972254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_63
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 147
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daaa94dc01fe45d50800000000000000
+      internalID: 6725262999013665453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_64
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 138
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fb82d62a9672da0800000000000000
+      internalID: -5969686634719297697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_65
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 149
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5222d5c54e274f2f0800000000000000
+      internalID: -940000097085873627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_66
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 134
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352c34e3480218720800000000000000
+      internalID: 2846592191827264083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_67
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 140
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30be7d5308fcf090800000000000000
+      internalID: -7999246144779669444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781cde5d25dca9b80800000000000000
+      internalID: -8387165600363986553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_69
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 131
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750e751ec3c9b44e0800000000000000
+      internalID: -1996330224516079529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_70
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 129
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9786a88472627340800000000000000
+      internalID: 4860055200534529951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_71
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 134
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa1519492aa66f80800000000000000
+      internalID: -8113610584364868878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_72
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 132
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323ac18d15e21bae0800000000000000
+      internalID: -1535395068903644381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_73
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 120
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633a869e6ecdf9af0800000000000000
+      internalID: -387348158614035658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_74
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 123
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7669fac120594baf0800000000000000
+      internalID: -381516232115906969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_75
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 131
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e33f1f4fd6e64220800000000000000
+      internalID: 2469915292438836194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_76
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 129
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc92f618c58537910800000000000000
+      internalID: 1833906627601705420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_77
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 130
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27915eb7951c97ed0800000000000000
+      internalID: -2415687135032698510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_78
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 131
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5279fa530d59e20800000000000000
+      internalID: 3356818026272335356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_79
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 136
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c68cd2212595320800000000000000
+      internalID: 2547157302285724813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_80
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 114
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fe337adacab1910800000000000000
+      internalID: 1809229537153904473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_81
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 118
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336987521cfcee430800000000000000
+      internalID: 3814214362893686323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_82
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 106
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3878cd9cd77c065b0800000000000000
+      internalID: -5377078612008859773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_83
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 109
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e380515a0a59ec0800000000000000
+      internalID: -3560763299483599273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_84
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 95
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d0789a2598baf20800000000000000
+      internalID: 3434990128924659102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_85
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 105
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c5aa8646f183e10800000000000000
+      internalID: 2177524935946820615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_86
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 114
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dbf4a77fb1fe300800000000000000
+      internalID: 283476051270548851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_87
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 106
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63537b3e9e1681d0800000000000000
+      internalID: -3348955607952305301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_88
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 120
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c12b5e5b7372120800000000000000
+      internalID: 2388939381725600892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_89
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 120
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e1561fbf4b60380800000000000000
+      internalID: -9005311410701001187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_90
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 106
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be454ff1d0f148730800000000000000
+      internalID: 4000356510242985195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_91
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 120
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c567594747ac9f0800000000000000
+      internalID: -447417168897352679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_92
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 102
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfedc96bda4352750800000000000000
+      internalID: 6279483176135745275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_93
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 96
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4c18ee376471a20800000000000000
+      internalID: 3032970337793983682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_94
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 88
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc463b77a45f04560800000000000000
+      internalID: 7296101096524833995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_95
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 105
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3deeb477875a8820800000000000000
+      internalID: 2921243547594059066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_96
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 97
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839c0610b62efa0a0800000000000000
+      internalID: -6868021957504218824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_97
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 103
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90747e1017ea17940800000000000000
+      internalID: 5292202837523515145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_98
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 96
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19f30ed4348ddf70800000000000000
+      internalID: 9213665775267871003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_99
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 95
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557d74eec5ace53c0800000000000000
+      internalID: -4368832088019314859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_100
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 66
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dda154516908fe10800000000000000
+      internalID: 2231543928993197520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_101
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 89
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824b378a6bb3e2f90800000000000000
+      internalID: -6976573117054077912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_102
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 70
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932d1e546e240d3f0800000000000000
+      internalID: -878128370554908103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_103
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 71
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c8c8aa472ecca10800000000000000
+      internalID: 1931167330940521565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_104
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 78
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44b4f3ea6398a810800000000000000
+      internalID: 1776832140297942091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_105
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 68
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0d0cf679e891310800000000000000
+      internalID: 1376287942204510380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_106
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 90
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028dc35c2a5401a60800000000000000
+      internalID: 7642685133043849248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_107
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 78
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c36a1eb266ce650800000000000000
+      internalID: 6263493520420912200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_108
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 81
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72dd98e160a39f870800000000000000
+      internalID: 8717062351708871975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_109
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 76
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3645c372355a4250800000000000000
+      internalID: 5929645534565713471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_110
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 89
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435a12a1328fb8e10800000000000000
+      internalID: 2201125672546575668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_111
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 70
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876f1dde01544f770800000000000000
+      internalID: 8643609523842578040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_112
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 76
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6087b073f1638d0800000000000000
+      internalID: -2867069791498664285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_113
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 78
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050ece40bf39c3960800000000000000
+      internalID: 7583098578913779792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_114
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 70
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5cf8f21a74bc670800000000000000
+      internalID: 8560014274361017809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_115
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 90
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d782f0d5a0df04520800000000000000
+      internalID: 2684423598865590397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_116
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 78
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b34d2cfa47972c0800000000000000
+      internalID: -4433384059932755138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_117
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 81
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4002cc267e520fdf0800000000000000
+      internalID: -148577111978008572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_118
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9513d98ccf7116130800000000000000
+      internalID: 3558151555064344921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_119
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 62
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d6531052fb43350800000000000000
+      internalID: 5995627169591946550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_120
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 66
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af984d6686208090800000000000000
+      internalID: -8034379376428015711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_121
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 70
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89ed8d83d7c227f0800000000000000
+      internalID: -638728485706274422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_122
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 46
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cc71746d56d2250800000000000000
+      internalID: 5921501056052218891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_123
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 70
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0f727bfd126e890800000000000000
+      internalID: -7429213290566782742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_124
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 72
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb8c72e00f44db50800000000000000
+      internalID: 6617000617732508640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_125
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 66
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db07a66764129b30800000000000000
+      internalID: 4292515829173914584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_126
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 72
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb96486980f5778a0800000000000000
+      internalID: -6307468262619452993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_127
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 46
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0270f1d52054f0530800000000000000
+      internalID: 3823350485115406112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_128
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25207251252040150800000000000000
+      internalID: 5837793568544457298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_129
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 54
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70376ade0b9464ef0800000000000000
+      internalID: -124330915455929593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_130
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 59
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b0b97ab1442cab0800000000000000
+      internalID: -4989350551606326516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_131
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 33
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109c662ca91b07220800000000000000
+      internalID: 2481678672925739265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_132
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 62
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1750e14aa115d06b0800000000000000
+      internalID: -5328513609244998287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_133
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 52
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608f72f2732d799e0800000000000000
+      internalID: -1614590806932850682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_134
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 50
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70f986533bd88700800000000000000
+      internalID: 542924768639840380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_135
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 65
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d15fe4976e2b4f20800000000000000
+      internalID: 3407868565451133398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_136
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 62
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bec4c755e7f5bd0800000000000000
+      internalID: -2639251950993085664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_137
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 54
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54f113932de13540800000000000000
+      internalID: 4986026999522915422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_138
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 59
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d6a7e9a4f4328b0800000000000000
+      internalID: -5178207964640940800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_139
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 55
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba6d82b2235276a0800000000000000
+      internalID: -6453003907578893638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_140
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 62
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b57ac5cfd9383a0800000000000000
+      internalID: -6664309316366410972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_141
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c350b48f8462bfb90800000000000000
+      internalID: -7207124683831179972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_142
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 28
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f7b69970601c520800000000000000
+      internalID: 2720462279616986955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_143
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 39
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c417d4c92b439edb0800000000000000
+      internalID: -4762217189236444852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_144
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 35
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d44b2441c59cd6d0800000000000000
+      internalID: -2964329797411715887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_145
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ee73f1a82264d80800000000000000
+      internalID: -8266882089367376229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_146
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 42
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7aa7b925b65573c0800000000000000
+      internalID: -4362485327949485446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_147
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 37
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293b71fc8188ed960800000000000000
+      internalID: 7628684458947228562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_148
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 38
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e40f3d67131ef30800000000000000
+      internalID: 4603014680581000793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_149
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 48
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8f86c26977fdfa0800000000000000
+      internalID: -5773764710391809878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_150
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 37
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c909f3a7e9f610000800000000000000
+      internalID: 404201423212700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_151
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 15
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8eb447d4f429f980800000000000000
+      internalID: -8504725787310244212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_152
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 36
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470611c040f42ffa0800000000000000
+      internalID: -5768461293907255180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_153
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 46
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fa2fdcbc20ec230800000000000000
+      internalID: 3660866621455642514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_154
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 35
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bd595f47859ac30800000000000000
+      internalID: 4371122172699466511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_155
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 42
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e6ab1a169cc8250800000000000000
+      internalID: 5948350629011943035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_156
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 29
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f36826c09ef1a690800000000000000
+      internalID: -7592507599016664078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_157
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 46
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe636df4f8893f90800000000000000
+      internalID: -6973391962201952521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_158
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 42
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c611b740c623ce30800000000000000
+      internalID: 4522501058088474306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_159
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59139d568cb9efa50800000000000000
+      internalID: 6556849392502518165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_160
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 37
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57a7b193e6e5a700800000000000000
+      internalID: 551100394499450716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_161
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 37
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e7527fd243c04b0800000000000000
+      internalID: -5472942075137393102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_162
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 27
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab42ff179cfc2850800000000000000
+      internalID: 6353730900319161251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_163
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 22
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a002249648129a130800000000000000
+      internalID: 3578428231507910666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_164
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 3
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68960b65977282b0800000000000000
+      internalID: -5583769104356566934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_165
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 3
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052180f59fc85ab20800000000000000
+      internalID: 3145074917457269328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_166
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 22
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cbbdbe9f91f25f0800000000000000
+      internalID: -779375649317208962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_167
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d6835d444abcb80800000000000000
+      internalID: -8373418466623328951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_168
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f875b88c27c85d0800000000000000
+      internalID: -3058943841234612377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_169
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d288e82277c86b330800000000000000
+      internalID: 3726320185004427309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_170
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 18
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b52904de3dca07d0800000000000000
+      internalID: -2951320936058903120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_171
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 6
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bb21ac4126bb4b0800000000000000
+      internalID: -5423633484808537268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_172
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 27
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af8d58ba8cd8e230800000000000000
+      internalID: 3668424384850005925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_173
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185f85ee00b3feed0800000000000000
+      internalID: -2382620802670856831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_174
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79d1a5e36758acd0800000000000000
+      internalID: -2546689502712047235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_175
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 14
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105ba586535520400800000000000000
+      internalID: 288887013977535745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_176
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 12
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ead55e6c4aafb050800000000000000
+      internalID: 5818556488831326952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_177
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1533563f5783579f0800000000000000
+      internalID: -471408506744523951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_178
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e90e3b6c0a69d5f0800000000000000
+      internalID: -731436862899615260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_179
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fcc0fac92a1e2c0800000000000000
+      internalID: -4404060166756184253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_180
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 12
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18df9e0f977f89360800000000000000
+      internalID: 7176758109319855489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_181
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de62804c266f0fb0800000000000000
+      internalID: -4679409147567771948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_182
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34faab32f5c1d280800000000000000
+      internalID: -9020210934472575941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacestars_183
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 0
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b7489d873ea7220800000000000000
+      internalID: 2484548252633168704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spacestars_0: -3918966666562812452
+      spacestars_1: 5655710692158182295
+      spacestars_10: 8678507369546927283
+      spacestars_100: 2231543928993197520
+      spacestars_101: -6976573117054077912
+      spacestars_102: -878128370554908103
+      spacestars_103: 1931167330940521565
+      spacestars_104: 1776832140297942091
+      spacestars_105: 1376287942204510380
+      spacestars_106: 7642685133043849248
+      spacestars_107: 6263493520420912200
+      spacestars_108: 8717062351708871975
+      spacestars_109: 5929645534565713471
+      spacestars_11: -1753132728488136142
+      spacestars_110: 2201125672546575668
+      spacestars_111: 8643609523842578040
+      spacestars_112: -2867069791498664285
+      spacestars_113: 7583098578913779792
+      spacestars_114: 8560014274361017809
+      spacestars_115: 2684423598865590397
+      spacestars_116: -4433384059932755138
+      spacestars_117: -148577111978008572
+      spacestars_118: 3558151555064344921
+      spacestars_119: 5995627169591946550
+      spacestars_12: -6336364623053338586
+      spacestars_120: -8034379376428015711
+      spacestars_121: -638728485706274422
+      spacestars_122: 5921501056052218891
+      spacestars_123: -7429213290566782742
+      spacestars_124: 6617000617732508640
+      spacestars_125: 4292515829173914584
+      spacestars_126: -6307468262619452993
+      spacestars_127: 3823350485115406112
+      spacestars_128: 5837793568544457298
+      spacestars_129: -124330915455929593
+      spacestars_13: -5241661401033245748
+      spacestars_130: -4989350551606326516
+      spacestars_131: 2481678672925739265
+      spacestars_132: -5328513609244998287
+      spacestars_133: -1614590806932850682
+      spacestars_134: 542924768639840380
+      spacestars_135: 3407868565451133398
+      spacestars_136: -2639251950993085664
+      spacestars_137: 4986026999522915422
+      spacestars_138: -5178207964640940800
+      spacestars_139: -6453003907578893638
+      spacestars_14: 3312762215393848894
+      spacestars_140: -6664309316366410972
+      spacestars_141: -7207124683831179972
+      spacestars_142: 2720462279616986955
+      spacestars_143: -4762217189236444852
+      spacestars_144: -2964329797411715887
+      spacestars_145: -8266882089367376229
+      spacestars_146: -4362485327949485446
+      spacestars_147: 7628684458947228562
+      spacestars_148: 4603014680581000793
+      spacestars_149: -5773764710391809878
+      spacestars_15: -5829967950658687311
+      spacestars_150: 404201423212700
+      spacestars_151: -8504725787310244212
+      spacestars_152: -5768461293907255180
+      spacestars_153: 3660866621455642514
+      spacestars_154: 4371122172699466511
+      spacestars_155: 5948350629011943035
+      spacestars_156: -7592507599016664078
+      spacestars_157: -6973391962201952521
+      spacestars_158: 4522501058088474306
+      spacestars_159: 6556849392502518165
+      spacestars_16: 1359903427794785164
+      spacestars_160: 551100394499450716
+      spacestars_161: -5472942075137393102
+      spacestars_162: 6353730900319161251
+      spacestars_163: 3578428231507910666
+      spacestars_164: -5583769104356566934
+      spacestars_165: 3145074917457269328
+      spacestars_166: -779375649317208962
+      spacestars_167: -8373418466623328951
+      spacestars_168: -3058943841234612377
+      spacestars_169: 3726320185004427309
+      spacestars_17: -7600777154367745607
+      spacestars_170: -2951320936058903120
+      spacestars_171: -5423633484808537268
+      spacestars_172: 3668424384850005925
+      spacestars_173: -2382620802670856831
+      spacestars_174: -2546689502712047235
+      spacestars_175: 288887013977535745
+      spacestars_176: 5818556488831326952
+      spacestars_177: -471408506744523951
+      spacestars_178: -731436862899615260
+      spacestars_179: -4404060166756184253
+      spacestars_18: -1591929609693782068
+      spacestars_180: 7176758109319855489
+      spacestars_181: -4679409147567771948
+      spacestars_182: -9020210934472575941
+      spacestars_183: 2484548252633168704
+      spacestars_19: 474179345577671264
+      spacestars_2: 4860437759150713580
+      spacestars_20: -3896110280287681382
+      spacestars_21: -7974154330264163582
+      spacestars_22: 989258256478675032
+      spacestars_23: 2153330850525586937
+      spacestars_24: -3477070905356475936
+      spacestars_25: -721578512108383396
+      spacestars_26: -8459516689600915828
+      spacestars_27: 748739097948196817
+      spacestars_28: 7043239131281190755
+      spacestars_29: 5437948933919041689
+      spacestars_3: -4169277051324466550
+      spacestars_30: 8411106009951668201
+      spacestars_31: 718436345321283579
+      spacestars_32: -6579934217260757365
+      spacestars_33: -4321367460023628342
+      spacestars_34: 5950487658419967376
+      spacestars_35: 7735043139483574615
+      spacestars_36: -4243581628094380000
+      spacestars_37: -7599925519284103949
+      spacestars_38: 8891526261109133910
+      spacestars_39: 3032353933176086388
+      spacestars_4: -2613073261680075949
+      spacestars_40: -2993245682745656819
+      spacestars_41: 7100884421868156099
+      spacestars_42: -4909877572472360161
+      spacestars_43: -2991670635556147663
+      spacestars_44: 4631361050746918684
+      spacestars_45: 7317725013661844129
+      spacestars_46: -8633221166417241902
+      spacestars_47: 7571772859106072613
+      spacestars_48: -7741346051526634835
+      spacestars_49: -2936938181441321069
+      spacestars_5: 1488631380560971917
+      spacestars_50: 3185783421659643205
+      spacestars_51: -2642264591178907643
+      spacestars_52: 1973289887249504789
+      spacestars_53: -8958416407336924941
+      spacestars_54: 7484536273166330190
+      spacestars_55: 4424381515361821791
+      spacestars_56: -6762337592037752713
+      spacestars_57: -7366126801044923295
+      spacestars_58: 3845318322004963658
+      spacestars_59: 5576607966693282669
+      spacestars_6: 8560443583428504570
+      spacestars_60: 5087558874826204195
+      spacestars_61: 2051755024052067026
+      spacestars_62: -2828632356480972254
+      spacestars_63: 6725262999013665453
+      spacestars_64: -5969686634719297697
+      spacestars_65: -940000097085873627
+      spacestars_66: 2846592191827264083
+      spacestars_67: -7999246144779669444
+      spacestars_68: -8387165600363986553
+      spacestars_69: -1996330224516079529
+      spacestars_7: -8876999341037668795
+      spacestars_70: 4860055200534529951
+      spacestars_71: -8113610584364868878
+      spacestars_72: -1535395068903644381
+      spacestars_73: -387348158614035658
+      spacestars_74: -381516232115906969
+      spacestars_75: 2469915292438836194
+      spacestars_76: 1833906627601705420
+      spacestars_77: -2415687135032698510
+      spacestars_78: 3356818026272335356
+      spacestars_79: 2547157302285724813
+      spacestars_8: 240043790217184750
+      spacestars_80: 1809229537153904473
+      spacestars_81: 3814214362893686323
+      spacestars_82: -5377078612008859773
+      spacestars_83: -3560763299483599273
+      spacestars_84: 3434990128924659102
+      spacestars_85: 2177524935946820615
+      spacestars_86: 283476051270548851
+      spacestars_87: -3348955607952305301
+      spacestars_88: 2388939381725600892
+      spacestars_89: -9005311410701001187
+      spacestars_9: -5527113845674066458
+      spacestars_90: 4000356510242985195
+      spacestars_91: -447417168897352679
+      spacestars_92: 6279483176135745275
+      spacestars_93: 3032970337793983682
+      spacestars_94: 7296101096524833995
+      spacestars_95: 2921243547594059066
+      spacestars_96: -6868021957504218824
+      spacestars_97: 5292202837523515145
+      spacestars_98: 9213665775267871003
+      spacestars_99: -4368832088019314859
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
