@@ -328,10 +328,12 @@ MonoBehaviour:
       m_Action: Dash
       m_Flags: 8
     m_Flags: 0
+  buffertime: 0.1
   movementSpeed: 10
   jumpForce: 15
   maxClimbTime: 1.2
   wallClimbCooldown: 0.5
+  wallJumpForce: 1
   footPosition: {fileID: 860118315052634542}
   handPosition: {fileID: 4055028735300019681}
 --- !u!114 &1908657204451158438

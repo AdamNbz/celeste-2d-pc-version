@@ -16,7 +16,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] InputAction moveAction;
     [SerializeField] InputAction Jump;
     [SerializeField] InputAction Dash;
-
+    [SerializeField] float buffertime = 0.05f;
     [Header("Movement Settings")]
     [SerializeField] float movementSpeed = 10;
     [SerializeField] float jumpForce = 10;
@@ -24,7 +24,7 @@ public class PlayerController : MonoBehaviour
     [Header("Wall Climb Settings")]
     [SerializeField] float maxClimbTime = 1.2f;   // tClimb
     [SerializeField] float wallClimbCooldown = 0.5f; // t
-   
+    [SerializeField] float wallJumpForce = 2f;
     [Header("Foot and Hand Object")]
     [SerializeField] Transform footPosition;
     [SerializeField] Transform handPosition;
@@ -43,7 +43,10 @@ public class PlayerController : MonoBehaviour
     public PlayerState nextState;
     int _Direction = 1;
     float currentSpeed = 5;
-    
+    //buffer and coyote
+    float jumpbuffer = 0;
+    float coyotetime = 0;
+    float jumpcount = 0;
     public void SetPlayerData(PlayerData data)
     {
         this.data = data;
@@ -101,11 +104,49 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
-        if(state != null)
+        if (state != null)
         {
             state.Update();
         }
-        
+        // if anyone use this for better logic refactor all the jump to seperate between ground jump and air jump
+        if (jumpcount==0&&state.GetStateName()=="Fall"&&coyotetime<=0)
+        {
+            jumpcount = 1;
+        }
+
+        if (IsOnTheGround())
+        {
+            jumpcount = 0;
+            coyotetime = buffertime;
+        }
+        else if (IsTouchingWall())
+        {
+            jumpcount = 0;
+            coyotetime = buffertime;
+        }
+
+        if (coyotetime > 0)
+        {
+            coyotetime -= Time.deltaTime;
+        }
+        else if (coyotetime < 0)
+        {
+            coyotetime = 0;
+        }
+
+
+        if (Jump.WasPressedThisFrame())
+        {
+            jumpbuffer = buffertime;
+        }
+        if (jumpbuffer > 0)
+        {
+            jumpbuffer -= Time.deltaTime;
+        }
+        else if (jumpbuffer < 0)
+        {
+            jumpbuffer = 0;
+        }
     }
     private void FixedUpdate()
     {
@@ -170,15 +211,16 @@ public class PlayerController : MonoBehaviour
         }
         return false;
     }
-    
+
+    // if anyone use this for better logic refactor all the jump to seperate between ground jump and air jump
     public bool HandleJump()
-    {
-       
-        if (Jump.IsPressed()&& IsOnTheGround() && state.GetStateName() != "Jump")
+    {  
+        if (jumpbuffer>0&&jumpcount<2)
         {
-           
-            rb.linearVelocity += new Vector2(0, jumpForce);
+            jumpcount++;
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
             SetState(new Jump(this));
+            jumpbuffer = 0;
             return true;
         }
         return false;
@@ -231,6 +273,8 @@ public class PlayerController : MonoBehaviour
 
     public float MaxClimbTime { get => maxClimbTime;}
     public float WallClimbCooldown { get => wallClimbCooldown; }
+
+    public float WallJumpForce { get => wallJumpForce; }    
 
     public float GetMoveInputX()
     {
