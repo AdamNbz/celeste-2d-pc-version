@@ -116,10 +116,6 @@ public class GameManager : MonoBehaviour
         CheckPointsList.Clear();
         CheckPointsList= new List<CheckPoint>(FindObjectsByType<CheckPoint>(FindObjectsSortMode.None));
         CheckPointsList.Sort((a, b) => a.GetIndex().CompareTo(b.GetIndex()));
-        for (int i = 0; i < CheckPointsList.Count; i++)
-        {
-            Debug.Log("CheckPoint Found: " + CheckPointsList[i].gameObject.name);
-        }
     }
 
     public void SpawnPlayerAtCheckPoint()
@@ -134,7 +130,6 @@ public class GameManager : MonoBehaviour
         SceneManager.MoveGameObjectToScene(player.gameObject, SceneManager.GetActiveScene());
         if (player.GetPlayerData().GetCheckpoint() != "")
         {
-            Debug.Log("Spawn At CheckPoint: " + player.GetPlayerData().GetCheckpoint());
             CheckPoint cp = CheckPointsList.Find(c => c.gameObject.name == player.GetPlayerData().GetCheckpoint());
             if (cp != null)
             {
@@ -212,7 +207,6 @@ public class GameManager : MonoBehaviour
     {
         if (currentPlayingStatus==PlayingChapterStatus.ChapterEnding)
         {
-            Debug.Log("...");
         }
         if (reload.IsPressed())
         {

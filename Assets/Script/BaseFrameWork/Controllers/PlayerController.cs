@@ -82,7 +82,6 @@ public class PlayerController : MonoBehaviour
 
     private void Start()
     {
-        Debug.Log("PlayerController Start");
         animator = GetComponent<Animator>();
         if (animator == null)
         {

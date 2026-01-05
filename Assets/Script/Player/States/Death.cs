@@ -10,7 +10,6 @@ namespace Player_State
         }
         public override void Enter()
         { 
-            Debug.Log("Player has died.");
             //playerController.GetAnimator().Play("PlayerDeath");
             playerController.DisableInput();
         }
