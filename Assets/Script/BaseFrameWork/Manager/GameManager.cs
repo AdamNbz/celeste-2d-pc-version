@@ -60,7 +60,7 @@ public class GameManager : MonoBehaviour
         currentSaveSlot = new SaveSlot(1);
         currentSaveSlot.LoadFromSaveFile();
        
-        if (currentSaveSlot.PlayerData.GetStage() == "")
+        if (currentSaveSlot.PlayerData.GetStage() == ""|| currentSaveSlot.PlayerData.GetStage() == "MainMenu")
         {
             Debug.Log("MainMenu Dont Spawn Player");
             SceneManager.LoadScene("MainMenu");
@@ -165,11 +165,6 @@ public class GameManager : MonoBehaviour
         currentPlayingStatus = PlayingChapterStatus.Playing;
     }
 
-    public void GoToMenu()
-    {
-        SceneManager.LoadScene("MainMenu");
-        SaveSlot(currentSaveSlot.SlotID);
-    }
     public enum PlayingChapterStatus
     {
         ChapterEnding,
