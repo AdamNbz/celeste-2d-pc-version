@@ -51,15 +51,28 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
-        LoadSlot(1);
+        LoadSlot(4);
+        if(SaveSystem.getFileJson(4)=="")
+        {
+            currentSaveSlot.PlayerData.SetStage("Prologue");
+            ChangeScene("Prologue");
+            SaveSlot(5);
+        }
         reload.Enable();
     }
 
     public void LoadSlot(int slotID)
     {
-        currentSaveSlot = new SaveSlot(1);
+        if (SaveSystem.getFileJson(slotID) == "")
+        {
+            currentSaveSlot.PlayerData.SetStage("Prologue");
+            ChangeScene("Prologue");
+            SaveSlot(slotID);
+            return;
+        }
+        currentSaveSlot = new SaveSlot(slotID);
         currentSaveSlot.LoadFromSaveFile();
-       
+        
         if (currentSaveSlot.PlayerData.GetStage() == ""|| currentSaveSlot.PlayerData.GetStage() == "MainMenu")
         {
             Debug.Log("MainMenu Dont Spawn Player");

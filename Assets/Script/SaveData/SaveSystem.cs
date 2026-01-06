@@ -41,7 +41,7 @@ public static class SaveSystem
             Debug.Log("File not exists");
             try
             {
-                File.Create(filepath);
+                SaveToFile("", saveslot);
                 Debug.Log("Create new save file success");
             }
             catch
@@ -49,6 +49,6 @@ public static class SaveSystem
                 Debug.Log($"Failed to create file at {filepath}");
             }
         }
-        return File.ReadAllText(filepath);
+        return File.ReadAllText(filepath); 
     }
 }
