@@ -10,7 +10,6 @@ namespace Player_State
 
         public override void Enter()
         {
-            Debug.Log("Player is now Idle.");
             playerController.GetAnimator().Play("PlayerIdle");
         }
 

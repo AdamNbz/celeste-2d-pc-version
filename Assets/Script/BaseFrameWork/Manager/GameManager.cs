@@ -51,16 +51,29 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
-        LoadSlot(1);
+        LoadSlot(4);
+        if(SaveSystem.getFileJson(4)=="")
+        {
+            currentSaveSlot.PlayerData.SetStage("Prologue");
+            ChangeScene("Prologue");
+            SaveSlot(5);
+        }
         reload.Enable();
     }
 
     public void LoadSlot(int slotID)
     {
-        currentSaveSlot = new SaveSlot(1);
+        if (SaveSystem.getFileJson(slotID) == "")
+        {
+            currentSaveSlot.PlayerData.SetStage("Prologue");
+            ChangeScene("Prologue");
+            SaveSlot(slotID);
+            return;
+        }
+        currentSaveSlot = new SaveSlot(slotID);
         currentSaveSlot.LoadFromSaveFile();
-       
-        if (currentSaveSlot.PlayerData.GetStage() == "")
+        
+        if (currentSaveSlot.PlayerData.GetStage() == ""|| currentSaveSlot.PlayerData.GetStage() == "MainMenu")
         {
             Debug.Log("MainMenu Dont Spawn Player");
             SceneManager.LoadScene("MainMenu");
@@ -116,10 +129,6 @@ public class GameManager : MonoBehaviour
         CheckPointsList.Clear();
         CheckPointsList= new List<CheckPoint>(FindObjectsByType<CheckPoint>(FindObjectsSortMode.None));
         CheckPointsList.Sort((a, b) => a.GetIndex().CompareTo(b.GetIndex()));
-        for (int i = 0; i < CheckPointsList.Count; i++)
-        {
-            Debug.Log("CheckPoint Found: " + CheckPointsList[i].gameObject.name);
-        }
     }
 
     public void SpawnPlayerAtCheckPoint()
@@ -134,7 +143,6 @@ public class GameManager : MonoBehaviour
         SceneManager.MoveGameObjectToScene(player.gameObject, SceneManager.GetActiveScene());
         if (player.GetPlayerData().GetCheckpoint() != "")
         {
-            Debug.Log("Spawn At CheckPoint: " + player.GetPlayerData().GetCheckpoint());
             CheckPoint cp = CheckPointsList.Find(c => c.gameObject.name == player.GetPlayerData().GetCheckpoint());
             if (cp != null)
             {
@@ -170,11 +178,6 @@ public class GameManager : MonoBehaviour
         currentPlayingStatus = PlayingChapterStatus.Playing;
     }
 
-    public void GoToMenu()
-    {
-        SceneManager.LoadScene("MainMenu");
-        SaveSlot(currentSaveSlot.SlotID);
-    }
     public enum PlayingChapterStatus
     {
         ChapterEnding,
@@ -212,7 +215,6 @@ public class GameManager : MonoBehaviour
     {
         if (currentPlayingStatus==PlayingChapterStatus.ChapterEnding)
         {
-            Debug.Log("...");
         }
         if (reload.IsPressed())
         {

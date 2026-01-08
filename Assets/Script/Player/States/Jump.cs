@@ -20,7 +20,6 @@ namespace Player_State
         }
         public override void FixedUpdate()
         {
-            Debug.Log(prevState.GetStateName());
             if (prevState.GetStateName()!= "Climb")
             {
                 playerController.HandleMovement();
