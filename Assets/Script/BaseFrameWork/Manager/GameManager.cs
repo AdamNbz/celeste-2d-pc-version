@@ -49,28 +49,16 @@ public class GameManager : MonoBehaviour
         
     }
 
-    private void Start()
-    {
-        LoadSlot(4);
-        if(SaveSystem.getFileJson(4)=="")
-        {
-            currentSaveSlot.PlayerData.SetStage("Prologue");
-            ChangeScene("Prologue");
-            SaveSlot(5);
-        }
-        reload.Enable();
-    }
-
     public void LoadSlot(int slotID)
     {
+        currentSaveSlot = new SaveSlot(slotID);
         if (SaveSystem.getFileJson(slotID) == "")
         {
             currentSaveSlot.PlayerData.SetStage("Prologue");
             ChangeScene("Prologue");
             SaveSlot(slotID);
             return;
-        }
-        currentSaveSlot = new SaveSlot(slotID);
+        }   
         currentSaveSlot.LoadFromSaveFile();
         
         if (currentSaveSlot.PlayerData.GetStage() == ""|| currentSaveSlot.PlayerData.GetStage() == "MainMenu")
@@ -105,6 +93,10 @@ public class GameManager : MonoBehaviour
         if(SceneManager.GetActiveScene().buildIndex != StaticChaptersDataManager.Instance.GetStaticChaptersData(SceneName).BuiltIndex)
         SceneManager.LoadScene(StaticChaptersDataManager.Instance.GetStaticChaptersData(SceneName).BuiltIndex);
         yield return new WaitUntil(() => SceneManager.GetActiveScene().buildIndex == StaticChaptersDataManager.Instance.GetStaticChaptersData(SceneName).BuiltIndex);
+        if(SceneName=="MainMenu"||SceneName=="")
+        {
+            yield break;
+        }
         SpawnPlayerAtCheckPoint();
     }
 

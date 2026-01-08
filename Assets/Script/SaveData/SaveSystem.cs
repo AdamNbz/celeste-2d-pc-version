@@ -51,4 +51,12 @@ public static class SaveSystem
         }
         return File.ReadAllText(filepath); 
     }
+
+    public static bool IfSaveFileExist(int saveslot)
+    {
+        string baseSaveFile = GetBaseSaveFilePath();
+        string filename = "save" + "0" + saveslot.ToString()+".txt";
+        string filepath = Path.Combine(baseSaveFile, filename);
+        return File.Exists(filepath);
+    }
 }
