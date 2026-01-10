@@ -64,7 +64,7 @@ public class GameManager : MonoBehaviour
         if (currentSaveSlot.PlayerData.GetStage() == ""|| currentSaveSlot.PlayerData.GetStage() == "MainMenu")
         {
             Debug.Log("MainMenu Dont Spawn Player");
-            SceneManager.LoadScene("MainMenu");
+            SceneManager.LoadScene("ChapterSelector");
         }
         else
         {
