@@ -4,6 +4,7 @@ using UnityEngine.SceneManagement;
 using System.Collections.Generic;
 using UnityEngine.InputSystem;
 using Unity.VisualScripting;
+using JetBrains.Annotations;
 public class GameManager : MonoBehaviour
 {
     [Header("Game Manager Settings")]
@@ -69,18 +70,61 @@ public class GameManager : MonoBehaviour
         else
         {
             currentPlayingStatus = PlayingChapterStatus.Playing;
-            StartCoroutine(LoadPlayerAndCheckPointAfterLoadScene(currentSaveSlot.PlayerData.GetStage()));
+            StartCoroutine(LoadPlayerAndChapterDataLoadScene(currentSaveSlot.PlayerData.GetStage()));
         }
     }
 
-    IEnumerator<WaitUntil> LoadPlayerAndCheckPointAfterLoadScene(string SceneName)
+    IEnumerator<WaitUntil> LoadPlayerAndChapterDataLoadScene(string SceneName)
     {
-        if(SceneManager.GetActiveScene().buildIndex != StaticChaptersDataManager.Instance.GetStaticChaptersData(SceneName).BuiltIndex)
+        if (SceneManager.GetActiveScene().buildIndex != StaticChaptersDataManager.Instance.GetStaticChaptersData(SceneName).BuiltIndex)
             SceneManager.LoadScene(StaticChaptersDataManager.Instance.GetStaticChaptersData(SceneName).BuiltIndex);
-        yield return new WaitUntil(()=>SceneManager.GetActiveScene().buildIndex== StaticChaptersDataManager.Instance.GetStaticChaptersData(SceneName).BuiltIndex);
+        yield return new WaitUntil(() => SceneManager.GetActiveScene().buildIndex == StaticChaptersDataManager.Instance.GetStaticChaptersData(SceneName).BuiltIndex);
+        if (SceneName == "MainMenu" || SceneName == "")
+        {
+            yield break;
+        }
         GetCheckPoints();
+        //LoadStrawberryData(SceneName);
         SpawnPlayerAtCheckPoint();
     }
+
+    //private void LoadStrawberryData(string SceneName)
+    //{
+    //    List<Strawberies> allStrawberies = new List<Strawberies>(FindObjectsByType<Strawberies>(FindObjectsSortMode.None));
+    //    if (allStrawberies.Count > currentSaveSlot.GetChapterDataByName(SceneName).GetStrawberries().Count || allStrawberies.Count < currentSaveSlot.GetChapterDataByName(SceneName).GetStrawberries().Count)//quatity mismatch,reset data
+    //    {
+    //        currentSaveSlot.GetChapterDataByName(SceneName).SetStrawberries(new List<StrawberryData>());
+    //        List<StrawberryData> tempList = new List<StrawberryData>();
+    //        for (int i = 0; i < allStrawberies.Count; i++)
+    //        {
+    //            StrawberryData temp = new StrawberryData(allStrawberies[i].gameObject.name);
+    //            temp.SetCollect(false);
+    //            tempList.Add(temp);
+    //            allStrawberies[i].SetData(temp);
+    //        }
+    //        currentSaveSlot.GetChapterDataByName(SceneName).SetStrawberries(tempList);
+    //        SaveSlot(currentSaveSlot.SlotID);
+    //    }
+    //    else//load data
+    //    {
+    //        foreach (var strawberryData in currentSaveSlot.GetChapterDataByName(SceneName).GetStrawberries())
+    //        {
+    //            var strawberryObj = allStrawberies.Find(s => s.gameOjbect.name == strawberryData.GetStrawberryID());
+    //            if (strawberryObj != null)
+    //            {
+    //                strawberryObj.SetData(strawberryData);
+    //                if (strawberryData.IsCollected())
+    //                {
+    //                    strawberryObj.gameOjbect.SetActive(false);
+    //                }
+    //                else
+    //                {
+    //                    strawberryObj.gameOjbect.SetActive(true);
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
 
     IEnumerator<WaitForSeconds> SpawnPlayerAfterDelayCoroutine(float timeDelay)
     {
@@ -166,7 +210,7 @@ public class GameManager : MonoBehaviour
         currentSaveSlot.PlayerData.SetStage(newSceneName);
         currentSaveSlot.PlayerData.SetCheckpoint("");
         SaveSlot(currentSaveSlot.SlotID);
-        StartCoroutine(SpawnPlayerAfterLoadScene(currentSaveSlot.PlayerData.GetStage()));
+        StartCoroutine(LoadPlayerAndChapterDataLoadScene(currentSaveSlot.PlayerData.GetStage()));
         currentPlayingStatus = PlayingChapterStatus.Playing;
     }
 
