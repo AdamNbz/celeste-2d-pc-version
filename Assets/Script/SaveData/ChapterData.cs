@@ -1,8 +1,10 @@
+using NUnit.Framework;
 using System;
 using System.Collections;
 using Unity;
 using UnityEditor;
 using UnityEngine;
+using System.Collections.Generic;
 namespace Assets.Script.SaveData
 {
     //Runtime Data
@@ -11,9 +13,20 @@ namespace Assets.Script.SaveData
     {
         [SerializeField] string name;
         [SerializeField] float timetofinish = -1;
-        //Strawberry Go Here
+        [SerializeField] List<StrawberryData> strawberries = new List<StrawberryData>();
         [SerializeField] int Death=0;
         [SerializeField] int strawberryCollected = 0;
+
+        public void SetStrawberries(List<StrawberryData> data)
+        {
+            strawberries = data;
+        }
+
+        public List<StrawberryData> GetStrawberries()
+        {
+           return strawberries;
+        }
+
         public void IncreasePlayTime(float deltaTime)
         {
             if(timetofinish ==-1)
@@ -26,6 +39,10 @@ namespace Assets.Script.SaveData
             }
         }
 
+        public void SetPlayTime(float time)
+        {
+            timetofinish = time;
+        }
         public float GetPlayTime()
         {
             return timetofinish;
@@ -58,6 +75,7 @@ namespace Assets.Script.SaveData
             timetofinish = -1;
             strawberryCollected = 0;
             Death = 0;
+            strawberries.Clear();
         }
     }
 }
