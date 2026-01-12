@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 3098861235799064381}
   - component: {fileID: 7714735937234934917}
   m_Layer: 5
-  m_Name: GoToSaveChose
+  m_Name: StartButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -121,7 +121,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1988929467574316017}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 7714735937234934917}
+        m_TargetAssemblyTypeName: GoToSaveChose, Assembly-CSharp
+        m_MethodName: OnClick
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &7714735937234934917
 MonoBehaviour:
   m_ObjectHideFlags: 0
