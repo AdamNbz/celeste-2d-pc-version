@@ -337,6 +337,7 @@ MonoBehaviour:
   wallJumpForce: 1
   footPosition: {fileID: 860118315052634542}
   handPosition: {fileID: 4055028735300019681}
+  hairMovement: {fileID: 7255331080538021351}
 --- !u!114 &1908657204451158438
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -384,7 +385,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.044271946, y: -0.02584219}
+  m_Offset: {x: 0.025588036, y: 0.15165466}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -394,7 +395,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.7104044, y: 0.77841187}
+  m_Size: {x: 0.7477722, y: 1.1334057}
   m_EdgeRadius: 0
 --- !u!1 &4362088231954370060
 GameObject:
@@ -443,6 +444,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hair
       objectReference: {fileID: 0}
+    - target: {fileID: 7943182689372936390, guid: 34e224a8893cce640b42ea3b736dc4dd, type: 3}
+      propertyPath: m_TagString
+      value: Hair
+      objectReference: {fileID: 0}
     - target: {fileID: 8423050216634510438, guid: 34e224a8893cce640b42ea3b736dc4dd, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.01600027
@@ -483,6 +488,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8423050216634510438, guid: 34e224a8893cce640b42ea3b736dc4dd, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -493,3 +502,14 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8423050216634510438, guid: 34e224a8893cce640b42ea3b736dc4dd, type: 3}
   m_PrefabInstance: {fileID: 2569684481262184364}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &7255331080538021351 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5123204419854711371, guid: 34e224a8893cce640b42ea3b736dc4dd, type: 3}
+  m_PrefabInstance: {fileID: 2569684481262184364}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bc723bf43a34984aa5378163f79dc3f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

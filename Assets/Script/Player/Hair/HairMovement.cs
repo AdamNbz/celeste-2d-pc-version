@@ -100,21 +100,13 @@ public class HairMovement : MonoBehaviour {
     }
 
     void UpdateBlobPositions() {
-        // Lấy direction dựa vào scale của player
-        float directionX = 1f;
-        if (followPlayerScale && playerTransform != null) {
-            directionX = Mathf.Sign(playerTransform.localScale.x);
-        }
-        
         for (int i = 0; i < hairBlobs.Count; i++) {
             HairBlob hairBlob = hairBlobs[i];
-            Vector3 adjustedOffset = new Vector3(hairBlob.offset.x * directionX, hairBlob.offset.y, 0f);
-            
             if (i == 0) {
-                hairBlob.position = transform.position + adjustedOffset;
+                hairBlob.position = transform.position + (Vector3)hairBlob.offset;
             } else {
                 HairBlob prevHairBlob = hairBlobs[i-1];
-                hairBlob.position = Vector3.Lerp(hairBlob.position, prevHairBlob.position + adjustedOffset, Time.deltaTime*stiffness);
+                hairBlob.position = Vector3.Lerp(hairBlob.position, prevHairBlob.position + (Vector3)hairBlob.offset, Time.deltaTime*stiffness);
 
                 Vector3 difference = hairBlob.position - prevHairBlob.position;
                 float mag = difference.magnitude;
@@ -130,7 +122,23 @@ public class HairMovement : MonoBehaviour {
     }
 
     void UpdateFlipFromPlayerScale() {
-        // Không cần làm gì ở đây nữa vì offset đã được xử lý trong UpdateBlobPositions
+        if (!followPlayerScale || playerTransform == null) return;
+        
+        // Hair là child của player, nên khi player.localScale.x = -1, hair cũng bị flip theo
+        // Để giữ lossyScale.x của hair luôn dương, cần set localScale.x = sign của parent
+        // Ví dụ: player.scale.x = -1, hair.localScale.x = -1 => lossyScale.x = -1 * -1 = 1
+        float parentScaleSign = Mathf.Sign(playerTransform.localScale.x);
+        float currentScaleX = transform.localScale.x;
+        float newScaleX = Mathf.Abs(currentScaleX) * parentScaleSign;
+        
+        // Nếu scale.x thay đổi dấu, flip tất cả offset.x của hair blobs
+        if (Mathf.Sign(currentScaleX) != Mathf.Sign(newScaleX)) {
+            for (int i = 0; i < hairBlobs.Count; i++) {
+                hairBlobs[i].offset.x *= -1f;
+            }
+        }
+        
+        transform.localScale = new Vector3(newScaleX, transform.localScale.y, transform.localScale.z);
     }
 
     Vector4 GetBoundingBox() {
