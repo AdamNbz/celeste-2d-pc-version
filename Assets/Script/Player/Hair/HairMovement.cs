@@ -100,13 +100,21 @@ public class HairMovement : MonoBehaviour {
     }
 
     void UpdateBlobPositions() {
+        // Lấy direction dựa vào scale của player
+        float directionX = 1f;
+        if (followPlayerScale && playerTransform != null) {
+            directionX = Mathf.Sign(playerTransform.localScale.x);
+        }
+        
         for (int i = 0; i < hairBlobs.Count; i++) {
             HairBlob hairBlob = hairBlobs[i];
+            Vector3 adjustedOffset = new Vector3(hairBlob.offset.x * directionX, hairBlob.offset.y, 0f);
+            
             if (i == 0) {
-                hairBlob.position = transform.position + (Vector3)hairBlob.offset;
+                hairBlob.position = transform.position + adjustedOffset;
             } else {
                 HairBlob prevHairBlob = hairBlobs[i-1];
-                hairBlob.position = Vector3.Lerp(hairBlob.position, prevHairBlob.position + (Vector3)hairBlob.offset, Time.deltaTime*stiffness);
+                hairBlob.position = Vector3.Lerp(hairBlob.position, prevHairBlob.position + adjustedOffset, Time.deltaTime*stiffness);
 
                 Vector3 difference = hairBlob.position - prevHairBlob.position;
                 float mag = difference.magnitude;
@@ -122,14 +130,7 @@ public class HairMovement : MonoBehaviour {
     }
 
     void UpdateFlipFromPlayerScale() {
-        if (!followPlayerScale || playerTransform == null) return;
-        
-        // Flip khi scale.x = -1 (đi sang trái)
-        bool shouldFlip = playerTransform.localScale.x < 0f;
-        
-        if (FlipX != shouldFlip) {
-            FlipX = shouldFlip;
-        }
+        // Không cần làm gì ở đây nữa vì offset đã được xử lý trong UpdateBlobPositions
     }
 
     Vector4 GetBoundingBox() {

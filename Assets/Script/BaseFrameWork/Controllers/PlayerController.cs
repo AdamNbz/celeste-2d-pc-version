@@ -66,11 +66,6 @@ public class PlayerController : MonoBehaviour
         set {
             _Direction = value;
             transform.localScale = new Vector2(Direction * originalScale.x, originalScale.y);
-            
-            // Flip hair theo direction
-            if (hairMovement != null) {
-                hairMovement.FlipX = _Direction < 0;
-            }
         }
     }
     private void OnEnable()
