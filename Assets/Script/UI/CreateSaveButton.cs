@@ -2,15 +2,9 @@ using UnityEngine;
 
 public class CreateSaveButton : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public void OnClick()
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+        int saveSlotID = GetComponentInParent<SaveContainerScript>().GetSaveSlotID();
+        GameManager.GetInstance().CreateNewSaveSlot(saveSlotID);
+    }    
 }
