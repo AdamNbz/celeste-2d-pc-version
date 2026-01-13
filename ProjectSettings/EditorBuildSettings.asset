@@ -11,7 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Chapter 1.unity
     guid: a4b82178d066d4e4cb25d5a24e378507
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/obstacle.unity
     guid: 81a7dcf17f1c04b4d90d1bcedd57e6c8
   - enabled: 1

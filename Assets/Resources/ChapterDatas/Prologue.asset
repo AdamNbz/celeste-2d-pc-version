@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Prologue
   m_EditorClassIdentifier: Assembly-CSharp::StaticChaptersData
   name: Prologue
-  builtIndex: 3
+  builtIndex: 2
   maxStrawberry: 0
   defaultPlayerPos: {x: 2, y: 10}
