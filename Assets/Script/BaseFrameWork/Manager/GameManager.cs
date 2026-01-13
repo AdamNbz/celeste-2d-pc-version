@@ -45,6 +45,7 @@ public class GameManager : MonoBehaviour
         {
             __instance = this;
             DontDestroyOnLoad(this.gameObject);
+            reload.Enable();
         }
         else
         {
