@@ -11,6 +11,14 @@ public class GameManager : MonoBehaviour
     [SerializeField]private PlayerController playerPrefab;
     [SerializeField] InputAction reload;
     private static GameManager __instance;
+    
+    [Header("SaveSlot")]
+    SaveSlot currentSaveSlot;
+    [Header("Player Manager")]
+    PlayerController player;
+    [Header("CheckPoint")]
+    List<CheckPoint> CheckPointsList;
+
     public static GameManager GetInstance()
     {
         if (__instance == null)
@@ -30,12 +38,7 @@ public class GameManager : MonoBehaviour
         return __instance;
     }
 
-    [Header("SaveSlot")]
-    SaveSlot currentSaveSlot;
-    [Header("Player Manager")]
-    PlayerController player;
-    [Header("CheckPoint")]
-    List<CheckPoint> CheckPointsList;
+
     private void Awake()
     {
         if (__instance == null)
@@ -83,6 +86,7 @@ public class GameManager : MonoBehaviour
         {
             yield break;
         }
+
         GetCheckPoints();
         //LoadStrawberryData(SceneName);
         SpawnPlayerAtCheckPoint();
@@ -209,6 +213,8 @@ public class GameManager : MonoBehaviour
     {
         currentSaveSlot.PlayerData.SetStage(newSceneName);
         currentSaveSlot.PlayerData.SetCheckpoint("");
+        if(newSceneName != "MainMenu" && newSceneName != "")
+            currentSaveSlot.ChapterDatas.Find(chapter => chapter.Name == newSceneName)?.UnlockChapter();
         SaveSlot(currentSaveSlot.SlotID);
         StartCoroutine(LoadPlayerAndChapterDataLoadScene(currentSaveSlot.PlayerData.GetStage()));
         currentPlayingStatus = PlayingChapterStatus.Playing;
@@ -287,4 +293,13 @@ public class GameManager : MonoBehaviour
         GameManager.GetInstance().SpawnPlayerAfterADelay(2f);
         StartCoroutine(SpawnPlayerAfterDelayCoroutine(2f));
     }
+    public void CreateNewSaveSlot(int slotID)
+    {
+        SaveSlot newSaveSlot = new SaveSlot(slotID);
+        currentSaveSlot = newSaveSlot;
+        newSaveSlot.SaveToFile();
+        ChangeScene("Prologue");
+        Debug.Log("Created new save slot with ID: " + slotID);
+    }
+
 }

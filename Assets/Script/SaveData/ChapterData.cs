@@ -16,6 +16,17 @@ namespace Assets.Script.SaveData
         [SerializeField] List<StrawberryData> strawberries = new List<StrawberryData>();
         [SerializeField] int Death=0;
         [SerializeField] int strawberryCollected = 0;
+        [SerializeField] bool isUnlocked=false;
+
+        public void UnlockChapter()
+        {
+            isUnlocked = true;
+        }
+
+        public bool IsUnlocked()
+        {
+            return isUnlocked;
+        }
 
         public void SetStrawberries(List<StrawberryData> data)
         {
