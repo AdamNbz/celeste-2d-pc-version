@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 3
   tags:
   - Ground
+  - PlayerHandPosition
+  - PlayerFootPosition
+  - Hair
   layers:
   - Default
   - TransparentFX
@@ -13,7 +16,7 @@ TagManager:
   - Water
   - UI
   - Background
-  - 
+  - Player
   - 
   - 
   - 
@@ -50,6 +53,9 @@ TagManager:
     locked: 0
   - name: Ground
     uniqueID: 1008457281
+    locked: 0
+  - name: Player
+    uniqueID: 3155750285
     locked: 0
   m_RenderingLayers:
   - Default

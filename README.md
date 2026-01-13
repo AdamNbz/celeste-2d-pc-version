@@ -1,7 +1,7 @@
 
-# Celeste 2D (PC version)
+# Celeste 2D Lite
 
-PC version clone of Celeste 2D, a 2018 platform video game with its original game developed & published by indie studio Maddy Makes Games.
+PC version clone of Celeste 2D, a 2018 platform video game with its original game developed & published by indie studio **Maddy Makes Games**.
 
 
 
