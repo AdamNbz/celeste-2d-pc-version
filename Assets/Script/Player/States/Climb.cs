@@ -36,14 +36,14 @@ namespace Assets.Script.Player.States
         public override void FixedUpdate()
         {
             climbTimer -= Time.fixedDeltaTime;
-
             // HẾT THỜI GIAN BÁM
             if (climbTimer <= 0)
             {
                 playerController.SetState(new Fall(playerController));
                 return;
             }
-
+            playerController.GetComponent<Rigidbody2D>().linearVelocityY = 1 * playerController.GetMoveVector().y;
+            Debug.Log("Input : " + playerController.GetMoveVector());
             if (playerController.HandleJump())
             {
                 playerController.GetComponent<Rigidbody2D>().linearVelocityX += playerController.WallJumpForce * -playerController.Direction;
@@ -59,7 +59,8 @@ namespace Assets.Script.Player.States
             }
 
             // KHÓA rơi — cực kỳ quan trọng
-            playerController.SetObjectVelocity(0, 0);
+            if(playerController.GetObjectVelocity().y <= 0&&playerController.GetMoveVector().y<=0)
+                playerController.SetObjectVelocity(0, 0);
 
         }
 
