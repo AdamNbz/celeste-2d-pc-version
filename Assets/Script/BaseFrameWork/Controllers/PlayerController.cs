@@ -331,4 +331,9 @@ public class PlayerController : MonoBehaviour
         isDeathed = true;
         GameManager.GetInstance().OnPlayerDeath();
     }
+
+    public Vector2 GetMoveVector()
+    {
+        return moveAction.ReadValue<Vector2>(); 
+    }
 }
