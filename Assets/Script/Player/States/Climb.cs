@@ -42,8 +42,22 @@ namespace Assets.Script.Player.States
                 playerController.SetState(new Fall(playerController));
                 return;
             }
-            playerController.GetComponent<Rigidbody2D>().linearVelocityY = 1 * playerController.GetMoveVector().y;
-            Debug.Log("Input : " + playerController.GetMoveVector());
+
+            // Xử lý leo tường bằng phím Z
+            float climbDirection = 0f;
+            if (playerController.IsClimbKeyPressed())
+            {
+                // Giữ phím Z → leo lên
+                climbDirection = 1f;
+            }
+            else if (playerController.GetMoveVector().y < 0)
+            {
+                // Nhấn xuống → trượt xuống
+                climbDirection = playerController.GetMoveVector().y;
+            }
+            
+            playerController.GetComponent<Rigidbody2D>().linearVelocityY = playerController.WallClimbSpeed * climbDirection;
+            
             if (playerController.HandleJump())
             {
                 playerController.GetComponent<Rigidbody2D>().linearVelocityX += playerController.WallJumpForce * -playerController.Direction;
@@ -58,8 +72,8 @@ namespace Assets.Script.Player.States
                 return;
             }
 
-            // KHÓA rơi — cực kỳ quan trọng
-            if(playerController.GetObjectVelocity().y <= 0&&playerController.GetMoveVector().y<=0)
+            // KHÓA rơi — cực kỳ quan trọng (chỉ khi không leo)
+            if(playerController.GetObjectVelocity().y <= 0 && climbDirection <= 0)
                 playerController.SetObjectVelocity(0, 0);
 
         }

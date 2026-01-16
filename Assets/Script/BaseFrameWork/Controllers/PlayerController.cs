@@ -16,6 +16,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] InputAction moveAction;
     [SerializeField] InputAction Jump;
     [SerializeField] InputAction Dash;
+    [SerializeField] InputAction WallClimb;
     [SerializeField] float buffertime = 0.05f;
     [Header("Movement Settings")]
     [SerializeField] float movementSpeed = 10;
@@ -25,6 +26,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] float maxClimbTime = 1.2f;   // tClimb
     [SerializeField] float wallClimbCooldown = 0.5f; // t
     [SerializeField] float wallJumpForce = 2f;
+    [SerializeField] float wallClimbSpeed = 3f; // tốc độ leo tường khi giữ phím Z
     [Header("Foot and Hand Object")]
     [SerializeField] Transform footPosition;
     [SerializeField] Transform handPosition;
@@ -73,6 +75,7 @@ public class PlayerController : MonoBehaviour
         moveAction.Enable();
         Jump.Enable();
         Dash.Enable();
+        WallClimb.Enable();
     }
 
     private void OnDisable()
@@ -80,6 +83,7 @@ public class PlayerController : MonoBehaviour
         moveAction.Disable();
         Jump.Disable();
         Dash.Disable();
+        WallClimb.Disable();
     }
 
     private void Start()
@@ -275,7 +279,14 @@ public class PlayerController : MonoBehaviour
     public float MaxClimbTime { get => maxClimbTime;}
     public float WallClimbCooldown { get => wallClimbCooldown; }
 
-    public float WallJumpForce { get => wallJumpForce; }    
+    public float WallJumpForce { get => wallJumpForce; }
+    public float WallClimbSpeed { get => wallClimbSpeed; }
+
+    // Kiểm tra phím Z (leo tường) có đang được giữ không
+    public bool IsClimbKeyPressed()
+    {
+        return WallClimb.IsPressed();
+    }    
 
     public float GetMoveInputX()
     {
@@ -314,6 +325,7 @@ public class PlayerController : MonoBehaviour
         moveAction.Disable();
         Jump.Disable();
         Dash.Disable();
+        WallClimb.Disable();
     }
 
     public void EnableInput()
@@ -321,6 +333,7 @@ public class PlayerController : MonoBehaviour
         moveAction.Enable();
         Jump.Enable();
         Dash.Enable();
+        WallClimb.Enable();
     }
     public void Death()
     {
