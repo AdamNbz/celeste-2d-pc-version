@@ -56,16 +56,16 @@ MonoBehaviour:
   playerTransform: {fileID: 0}
   followPlayerScale: 1
   hairBlobs:
-  - position: {x: -6.804, y: 1.298, z: 13.538153}
+  - position: {x: -15.743138, y: 12.489486, z: 13.538153}
     offset: {x: 0, y: 0}
     radius: 0.9
-  - position: {x: -7.114, y: 0.82799995, z: 13.538153}
+  - position: {x: -16.053139, y: 12.019485, z: 13.538153}
     offset: {x: -0.31, y: -0.47}
     radius: 0.75
-  - position: {x: -7.2939997, y: 0.16799998, z: 13.538153}
+  - position: {x: -16.233139, y: 11.359486, z: 13.538153}
     offset: {x: -0.18, y: -0.66}
     radius: 0.6
-  - position: {x: -7.414, y: -0.352, z: 13.538153}
+  - position: {x: -16.353138, y: 10.839486, z: 13.538153}
     offset: {x: -0.12, y: -0.52}
     radius: 0.46
   spriteRenderer: {fileID: 4153695465021437337}

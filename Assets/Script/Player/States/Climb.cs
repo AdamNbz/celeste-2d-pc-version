@@ -14,7 +14,7 @@ namespace Assets.Script.Player.States
         float climbTimer;
         public Climb(PlayerController playerController) : base(playerController)
         {
-            originalGravityScale = playerController.GetComponent<Rigidbody2D>().gravityScale;
+           
         }
 
         public override void Enter()
@@ -26,8 +26,10 @@ namespace Assets.Script.Player.States
 
         public override void Exit()
         {
-            playerController.GetComponent<Rigidbody2D>().gravityScale = originalGravityScale;
-            if(climbTimer <= 0)
+            
+            playerController.GetComponent<Rigidbody2D>().gravityScale = playerController.GetBaseGravityScale();
+            
+            if (climbTimer <= 0)
             {
                 playerController.StartWallCooldown();
             }
@@ -36,7 +38,6 @@ namespace Assets.Script.Player.States
         public override void FixedUpdate()
         {
             climbTimer -= Time.fixedDeltaTime;
-
             // HẾT THỜI GIAN BÁM
             if (climbTimer <= 0)
             {
@@ -44,10 +45,24 @@ namespace Assets.Script.Player.States
                 return;
             }
 
+            // Xử lý leo tường bằng phím Z
+            float climbDirection = 0f;
+            if (playerController.IsClimbKeyPressed())
+            {
+                // Giữ phím Z → leo lên
+                climbDirection = 1f;
+            }
+            else if (playerController.GetMoveVector().y < 0)
+            {
+                // Nhấn xuống → trượt xuống
+                climbDirection = playerController.GetMoveVector().y;
+            }
+            
+            playerController.GetComponent<Rigidbody2D>().linearVelocityY = playerController.WallClimbSpeed * climbDirection;
+            
             if (playerController.HandleJump())
             {
                 playerController.GetComponent<Rigidbody2D>().linearVelocityX += playerController.WallJumpForce * -playerController.Direction;
-                playerController.Direction= -playerController.Direction;
                 playerController.SetState(new Jump(playerController));
                 return;
             }
@@ -58,8 +73,9 @@ namespace Assets.Script.Player.States
                 return;
             }
 
-            // KHÓA rơi — cực kỳ quan trọng
-            playerController.SetObjectVelocity(0, 0);
+            // KHÓA rơi — cực kỳ quan trọng (chỉ khi không leo)
+            if(playerController.GetObjectVelocity().y <= 0 && climbDirection <= 0)
+                playerController.SetObjectVelocity(0, 0);
 
         }
 
