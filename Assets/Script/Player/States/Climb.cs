@@ -63,7 +63,6 @@ namespace Assets.Script.Player.States
             if (playerController.HandleJump())
             {
                 playerController.GetComponent<Rigidbody2D>().linearVelocityX += playerController.WallJumpForce * -playerController.Direction;
-                playerController.Direction= -playerController.Direction;
                 playerController.SetState(new Jump(playerController));
                 return;
             }
