@@ -21,7 +21,7 @@ public class PlayerController : MonoBehaviour
     [Header("Movement Settings")]
     [SerializeField] float movementSpeed = 10;
     [SerializeField] float jumpForce = 10;
-
+    [SerializeField] float BaseGravityScale = 3;
     [Header("Wall Climb Settings")]
     [SerializeField] float maxClimbTime = 1.2f;   // tClimb
     [SerializeField] float wallClimbCooldown = 0.5f; // t
@@ -47,10 +47,12 @@ public class PlayerController : MonoBehaviour
     public PlayerState nextState;
     int _Direction = 1;
     float currentSpeed = 5;
+    bool DashAble = true;
     //buffer and coyote
     float jumpbuffer = 0;
     float coyotetime = 0;
     float jumpcount = 0;
+    
     public void SetPlayerData(PlayerData data)
     {
         this.data = data;
@@ -175,6 +177,11 @@ public class PlayerController : MonoBehaviour
             state.FixedUpdate();
         }
         
+        if(IsOnTheGround())
+        {
+           DashAble = true;
+        }
+
     }
 
     public void SetState(PlayerState newState)
@@ -258,7 +265,7 @@ public class PlayerController : MonoBehaviour
     
     public void HandleDash()
     {
-        if(Dash.IsPressed())
+        if(Dash.IsPressed()&&IsCanDash())
         {
             rb.linearVelocity = new Vector2(Direction * movementSpeed * 2, rb.linearVelocity.y);
             SetState(new Dash(this));
@@ -347,6 +354,21 @@ public class PlayerController : MonoBehaviour
 
     public Vector2 GetMoveVector()
     {
-        return moveAction.ReadValue<Vector2>(); 
+        return moveAction.ReadValue<Vector2>();
+    }
+
+    public bool IsCanDash()
+    {
+        return state.GetStateName() != "Dash"&&DashAble==true;
+    }
+
+    public void TurnOffDashAble()
+    {
+        DashAble = false;
+    }
+
+    public float GetBaseGravityScale()
+    {
+        return BaseGravityScale;
     }
 }

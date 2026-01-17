@@ -14,7 +14,7 @@ namespace Assets.Script.Player.States
         float climbTimer;
         public Climb(PlayerController playerController) : base(playerController)
         {
-            originalGravityScale = playerController.GetComponent<Rigidbody2D>().gravityScale;
+           
         }
 
         public override void Enter()
@@ -26,8 +26,10 @@ namespace Assets.Script.Player.States
 
         public override void Exit()
         {
-            playerController.GetComponent<Rigidbody2D>().gravityScale = originalGravityScale;
-            if(climbTimer <= 0)
+            
+            playerController.GetComponent<Rigidbody2D>().gravityScale = playerController.GetBaseGravityScale();
+            
+            if (climbTimer <= 0)
             {
                 playerController.StartWallCooldown();
             }

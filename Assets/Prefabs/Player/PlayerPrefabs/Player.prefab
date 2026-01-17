@@ -273,14 +273,30 @@ MonoBehaviour:
       m_Action: Dash
       m_Flags: 0
     m_Flags: 0
+  WallClimb:
+    m_Name: Wall Climb
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: 6be18eb3-d6f3-4d21-b12c-13dc11277e19
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings:
+    - m_Name: 
+      m_Id: ad5c6a39-22f6-43d9-8524-a9197ef5b12e
+      m_Path: <Keyboard>/z
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Wall Climb
+      m_Flags: 0
+    m_Flags: 0
   buffertime: 0.1
   movementSpeed: 10
   jumpForce: 15
-  dashSpeed: 20
-  maxDashCount: 1
   maxClimbTime: 1.2
   wallClimbCooldown: 0.5
   wallJumpForce: 1
+  wallClimbSpeed: 3
   footPosition: {fileID: 860118315052634542}
   handPosition: {fileID: 4055028735300019681}
   hairMovement: {fileID: 7255331080538021351}

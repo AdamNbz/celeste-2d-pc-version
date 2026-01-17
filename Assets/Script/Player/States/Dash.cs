@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Assets.Script.Player.States;
+using System;
 using UnityEngine;
 
 namespace Player_State
@@ -16,25 +17,31 @@ namespace Player_State
         {
             playerController.GetAnimator().Play("PlayerDash");
             dashTimer = dashDuration;
-            previousSpeed=playerController.GetObjectVelocity().x / playerController.Direction;
+            playerController.TurnOffDashAble();
+            previousSpeed =playerController.GetObjectVelocity().x / playerController.Direction;
             playerController.SetObjectVelocity(playerController.dashSpeed*playerController.Direction, 0);
+            playerController.GetComponent<Rigidbody2D>().gravityScale = 0f; 
         }
 
         public override void Exit()
         {
+            playerController.GetComponent<Rigidbody2D>().gravityScale = playerController.GetBaseGravityScale();
         }
 
         public override void FixedUpdate()
-        {
-            playerController.SetObjectVelocity(playerController.GetObjectVelocity().x, 0);
+        { 
             dashTimer -= Time.fixedDeltaTime;
-            // vẫn di chuyển trong dash nếu muốn
             if (dashTimer <= 0)
             {
-                playerController.SetState(prevState); // quay về state trước
+                playerController.SetState(prevState);
                 playerController.SetObjectVelocity(previousSpeed*playerController.Direction,0);
             }
-            
+
+            if(playerController.IsTouchingWall()&& !playerController.IsOnTheGround())
+            {
+                playerController.SetState(new Climb(playerController));
+            }
+
         }
 
         public override void Update()
