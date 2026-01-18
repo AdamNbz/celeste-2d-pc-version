@@ -15,4 +15,4 @@ MonoBehaviour:
   name: Chapter1
   builtIndex: 1
   maxStrawberry: 0
-  defaultPlayerPos: {x: -34.6629, y: -5.575562}
+  defaultPlayerPos: {x: -34.5, y: -4.5}

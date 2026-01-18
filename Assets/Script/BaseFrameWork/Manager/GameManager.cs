@@ -225,6 +225,7 @@ public class GameManager : MonoBehaviour
     {
         ChapterEnding,
         ChapterComplete,
+        SceneLoading,
         Playing
     }
     PlayingChapterStatus currentPlayingStatus;
@@ -261,16 +262,22 @@ public class GameManager : MonoBehaviour
         }
         if (reload.IsPressed())
         {
-            StartCoroutine(ReloadScene());
+            if (currentPlayingStatus != PlayingChapterStatus.SceneLoading)
+            {
+                StartCoroutine(ReloadScene());
+            }
+            
         }
     }
 
     IEnumerator<WaitForNextFrameUnit> ReloadScene()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        currentPlayingStatus = PlayingChapterStatus.SceneLoading;
         yield return new WaitForNextFrameUnit();
         SpawnPlayerAtCheckPoint();
         reload.Enable();
+        currentPlayingStatus = PlayingChapterStatus.Playing;
     }
 
     public void ChapterEnded()
