@@ -33,7 +33,6 @@ public class PlayerController : MonoBehaviour
     [Header("Hair")]
     [SerializeField] Sinx.HairMovement hairMovement;
 
-
     // private fields
     PlayerData data;
     bool isDeathed = false;
@@ -90,6 +89,8 @@ public class PlayerController : MonoBehaviour
 
     private void Start()
     {
+        AudioManager.Instance.PlayBGM("MainMenu");
+
         animator = GetComponent<Animator>();
         if (animator == null)
         {
