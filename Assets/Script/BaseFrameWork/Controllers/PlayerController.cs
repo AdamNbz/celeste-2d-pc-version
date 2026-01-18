@@ -16,15 +16,17 @@ public class PlayerController : MonoBehaviour
     [SerializeField] InputAction moveAction;
     [SerializeField] InputAction Jump;
     [SerializeField] InputAction Dash;
+    [SerializeField] InputAction WallClimb;
     [SerializeField] float buffertime = 0.05f;
     [Header("Movement Settings")]
     [SerializeField] float movementSpeed = 10;
     [SerializeField] float jumpForce = 10;
-
+    [SerializeField] float BaseGravityScale = 3;
     [Header("Wall Climb Settings")]
     [SerializeField] float maxClimbTime = 1.2f;   // tClimb
     [SerializeField] float wallClimbCooldown = 0.5f; // t
     [SerializeField] float wallJumpForce = 2f;
+    [SerializeField] float wallClimbSpeed = 3f; // tốc độ leo tường khi giữ phím Z
     [Header("Foot and Hand Object")]
     [SerializeField] Transform footPosition;
     [SerializeField] Transform handPosition;
@@ -45,10 +47,12 @@ public class PlayerController : MonoBehaviour
     public PlayerState nextState;
     int _Direction = 1;
     float currentSpeed = 5;
+    bool DashAble = true;
     //buffer and coyote
     float jumpbuffer = 0;
     float coyotetime = 0;
     float jumpcount = 0;
+    
     public void SetPlayerData(PlayerData data)
     {
         this.data = data;
@@ -73,6 +77,7 @@ public class PlayerController : MonoBehaviour
         moveAction.Enable();
         Jump.Enable();
         Dash.Enable();
+        WallClimb.Enable();
     }
 
     private void OnDisable()
@@ -80,6 +85,7 @@ public class PlayerController : MonoBehaviour
         moveAction.Disable();
         Jump.Disable();
         Dash.Disable();
+        WallClimb.Disable();
     }
 
     private void Start()
@@ -171,6 +177,11 @@ public class PlayerController : MonoBehaviour
             state.FixedUpdate();
         }
         
+        if(IsOnTheGround())
+        {
+           DashAble = true;
+        }
+
     }
 
     public void SetState(PlayerState newState)
@@ -254,7 +265,7 @@ public class PlayerController : MonoBehaviour
     
     public void HandleDash()
     {
-        if(Dash.IsPressed())
+        if(Dash.IsPressed()&&IsCanDash())
         {
             rb.linearVelocity = new Vector2(Direction * movementSpeed * 2, rb.linearVelocity.y);
             SetState(new Dash(this));
@@ -275,7 +286,14 @@ public class PlayerController : MonoBehaviour
     public float MaxClimbTime { get => maxClimbTime;}
     public float WallClimbCooldown { get => wallClimbCooldown; }
 
-    public float WallJumpForce { get => wallJumpForce; }    
+    public float WallJumpForce { get => wallJumpForce; }
+    public float WallClimbSpeed { get => wallClimbSpeed; }
+
+    // Kiểm tra phím Z (leo tường) có đang được giữ không
+    public bool IsClimbKeyPressed()
+    {
+        return WallClimb.IsPressed();
+    }    
 
     public float GetMoveInputX()
     {
@@ -314,6 +332,7 @@ public class PlayerController : MonoBehaviour
         moveAction.Disable();
         Jump.Disable();
         Dash.Disable();
+        WallClimb.Disable();
     }
 
     public void EnableInput()
@@ -321,6 +340,7 @@ public class PlayerController : MonoBehaviour
         moveAction.Enable();
         Jump.Enable();
         Dash.Enable();
+        WallClimb.Enable();
     }
     public void Death()
     {
@@ -330,5 +350,25 @@ public class PlayerController : MonoBehaviour
         }
         isDeathed = true;
         GameManager.GetInstance().OnPlayerDeath();
+    }
+
+    public Vector2 GetMoveVector()
+    {
+        return moveAction.ReadValue<Vector2>();
+    }
+
+    public bool IsCanDash()
+    {
+        return state.GetStateName() != "Dash"&&DashAble==true;
+    }
+
+    public void TurnOffDashAble()
+    {
+        DashAble = false;
+    }
+
+    public float GetBaseGravityScale()
+    {
+        return BaseGravityScale;
     }
 }
