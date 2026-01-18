@@ -629,7 +629,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dd8dd688691bb244485cbdb4b833c9ef, type: 3}
-<<<<<<< HEAD
 --- !u!213 &1336095812
 Sprite:
   m_ObjectHideFlags: 0
@@ -886,8 +885,6 @@ Texture2D:
     offset: 0
     size: 0
     path: 
-=======
->>>>>>> main
 --- !u!1 &1649693435
 GameObject:
   m_ObjectHideFlags: 0
