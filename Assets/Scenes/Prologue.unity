@@ -167,6 +167,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4817144903462675599, guid: ab0195701ad3af243b8a621ad59e4e89, type: 3}
+      propertyPath: m_Size.x
+      value: 77.14104
+      objectReference: {fileID: 0}
+    - target: {fileID: 4817144903462675599, guid: ab0195701ad3af243b8a621ad59e4e89, type: 3}
+      propertyPath: m_Offset.x
+      value: 13.682053
+      objectReference: {fileID: 0}
     - target: {fileID: 8662064609199164291, guid: ab0195701ad3af243b8a621ad59e4e89, type: 3}
       propertyPath: m_Name
       value: DeathZone (1)
@@ -18496,6 +18504,14 @@ PrefabInstance:
     - target: {fileID: 2010196577793364925, guid: ab0195701ad3af243b8a621ad59e4e89, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4817144903462675599, guid: ab0195701ad3af243b8a621ad59e4e89, type: 3}
+      propertyPath: m_Size.x
+      value: 73.51846
+      objectReference: {fileID: 0}
+    - target: {fileID: 4817144903462675599, guid: ab0195701ad3af243b8a621ad59e4e89, type: 3}
+      propertyPath: m_Offset.x
+      value: 12.214118
       objectReference: {fileID: 0}
     - target: {fileID: 8662064609199164291, guid: ab0195701ad3af243b8a621ad59e4e89, type: 3}
       propertyPath: m_Name
