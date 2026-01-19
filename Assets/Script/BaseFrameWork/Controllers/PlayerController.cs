@@ -89,8 +89,6 @@ public class PlayerController : MonoBehaviour
 
     private void Start()
     {
-        AudioManager.Instance.PlayBGM("MainMenu");
-
         animator = GetComponent<Animator>();
         if (animator == null)
         {

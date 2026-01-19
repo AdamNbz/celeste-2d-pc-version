@@ -210,5 +210,11 @@ public class AudioManager : MonoBehaviour
         sfxSource.mute = mute;
     }
 
+    public bool IsBGMPlaying()
+    {
+        return bgmSource.isPlaying;
+    }
+
+
     #endregion
 }
