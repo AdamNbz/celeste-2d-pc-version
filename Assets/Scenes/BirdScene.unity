@@ -396,95 +396,15 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2802083522957640745, guid: babedfbacb7cd364bb5490602b66fe6d, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5324175288863577524, guid: babedfbacb7cd364bb5490602b66fe6d, type: 3}
-      propertyPath: m_Name
-      value: FlyTrigger
-      objectReference: {fileID: 0}
     - target: {fileID: 6619452984590006347, guid: babedfbacb7cd364bb5490602b66fe6d, type: 3}
       propertyPath: m_Name
       value: TheBird
       objectReference: {fileID: 0}
-    - target: {fileID: 7215847098644299152, guid: babedfbacb7cd364bb5490602b66fe6d, type: 3}
-      propertyPath: m_Name
-      value: TutorialShowTrigger
-      objectReference: {fileID: 0}
-    - target: {fileID: 8072419025769118406, guid: babedfbacb7cd364bb5490602b66fe6d, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -3.11
-      objectReference: {fileID: 0}
-    - target: {fileID: 8333034391684692903, guid: babedfbacb7cd364bb5490602b66fe6d, type: 3}
-      propertyPath: m_Size.x
-      value: 1.125
-      objectReference: {fileID: 0}
-    - target: {fileID: 8333034391684692903, guid: babedfbacb7cd364bb5490602b66fe6d, type: 3}
-      propertyPath: m_Size.y
-      value: 0.875
-      objectReference: {fileID: 0}
-    - target: {fileID: 8613063396088943155, guid: babedfbacb7cd364bb5490602b66fe6d, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8613063396088943155, guid: babedfbacb7cd364bb5490602b66fe6d, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 2802083522957640745, guid: babedfbacb7cd364bb5490602b66fe6d, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 2060117185664426777, guid: babedfbacb7cd364bb5490602b66fe6d, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 638373827}
-    - targetCorrespondingSourceObject: {fileID: 2060117185664426777, guid: babedfbacb7cd364bb5490602b66fe6d, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 638373828}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: babedfbacb7cd364bb5490602b66fe6d, type: 3}
---- !u!1 &638373826 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2060117185664426777, guid: babedfbacb7cd364bb5490602b66fe6d, type: 3}
-  m_PrefabInstance: {fileID: 638373825}
-  m_PrefabAsset: {fileID: 0}
---- !u!95 &638373827
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 638373826}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: f8414b708126a384ab0df2d5cb6371c1, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
---- !u!114 &638373828
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 638373826}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9ab25116884677a43bc31568a7e89001, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Bird
 --- !u!1001 &729150952
 PrefabInstance:
   m_ObjectHideFlags: 0

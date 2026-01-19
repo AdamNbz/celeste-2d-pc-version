@@ -20,7 +20,11 @@ public class TutorTextTriggerBird : MonoBehaviour
             }
             SetUpTextMesh(textMesh);
             Bird bird = transform.parent.Find("Bird").GetComponent<Bird>();
-            bird.gameObject.SetActive(true);
+            if (bird != null)
+            {
+                Debug.Log("Activate Bird");
+                bird.gameObject.SetActive(true);
+            }
         }
     }
 

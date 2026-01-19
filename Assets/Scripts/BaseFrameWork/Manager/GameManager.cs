@@ -89,47 +89,47 @@ public class GameManager : MonoBehaviour
         }
 
         GetCheckPoints();
-        //LoadStrawberryData(SceneName);
+        LoadStrawberryData(SceneName);
         SpawnPlayerAtCheckPoint();
     }
 
-    //private void LoadStrawberryData(string SceneName)
-    //{
-    //    List<Strawberies> allStrawberies = new List<Strawberies>(FindObjectsByType<Strawberies>(FindObjectsSortMode.None));
-    //    if (allStrawberies.Count > currentSaveSlot.GetChapterDataByName(SceneName).GetStrawberries().Count || allStrawberies.Count < currentSaveSlot.GetChapterDataByName(SceneName).GetStrawberries().Count)//quatity mismatch,reset data
-    //    {
-    //        currentSaveSlot.GetChapterDataByName(SceneName).SetStrawberries(new List<StrawberryData>());
-    //        List<StrawberryData> tempList = new List<StrawberryData>();
-    //        for (int i = 0; i < allStrawberies.Count; i++)
-    //        {
-    //            StrawberryData temp = new StrawberryData(allStrawberies[i].gameObject.name);
-    //            temp.SetCollect(false);
-    //            tempList.Add(temp);
-    //            allStrawberies[i].SetData(temp);
-    //        }
-    //        currentSaveSlot.GetChapterDataByName(SceneName).SetStrawberries(tempList);
-    //        SaveSlot(currentSaveSlot.SlotID);
-    //    }
-    //    else//load data
-    //    {
-    //        foreach (var strawberryData in currentSaveSlot.GetChapterDataByName(SceneName).GetStrawberries())
-    //        {
-    //            var strawberryObj = allStrawberies.Find(s => s.gameOjbect.name == strawberryData.GetStrawberryID());
-    //            if (strawberryObj != null)
-    //            {
-    //                strawberryObj.SetData(strawberryData);
-    //                if (strawberryData.IsCollected())
-    //                {
-    //                    strawberryObj.gameOjbect.SetActive(false);
-    //                }
-    //                else
-    //                {
-    //                    strawberryObj.gameOjbect.SetActive(true);
-    //                }
-    //            }
-    //        }
-    //    }
-    //}
+    private void LoadStrawberryData(string SceneName)
+    {
+        List<BerryCollectable> allBerryCollectable = new List<BerryCollectable>(FindObjectsByType<BerryCollectable>(FindObjectsSortMode.None));
+        if (allBerryCollectable.Count > currentSaveSlot.GetChapterDataByName(SceneName).GetStrawberries().Count || allBerryCollectable.Count < currentSaveSlot.GetChapterDataByName(SceneName).GetStrawberries().Count)//quatity mismatch,reset data
+        {
+            currentSaveSlot.GetChapterDataByName(SceneName).SetStrawberries(new List<StrawberryData>());
+            List<StrawberryData> tempList = new List<StrawberryData>();
+            for (int i = 0; i < allBerryCollectable.Count; i++)
+            {
+                StrawberryData temp = new StrawberryData(allBerryCollectable[i].gameObject.name);
+                temp.SetCollect(false);
+                tempList.Add(temp);
+                allBerryCollectable[i].SetData(temp);
+            }
+            currentSaveSlot.GetChapterDataByName(SceneName).SetStrawberries(tempList);
+            SaveSlot(currentSaveSlot.SlotID);
+        }
+        else//load data
+        {
+            foreach (var strawberryData in currentSaveSlot.GetChapterDataByName(SceneName).GetStrawberries())
+            {
+                var strawberryObj = allBerryCollectable.Find(s => s.gameObject.name == strawberryData.GetStrawberryID());
+                if (strawberryObj != null)
+                {
+                    strawberryObj.SetData(strawberryData);
+                    if (strawberryData.IsCollected())
+                    {
+                        strawberryObj.gameObject.SetActive(false);
+                    }
+                    else
+                    {
+                        strawberryObj.gameObject.SetActive(true);
+                    }
+                }
+            }
+        }
+    }
 
     IEnumerator<WaitForSeconds> SpawnPlayerAfterDelayCoroutine(float timeDelay)
     {
