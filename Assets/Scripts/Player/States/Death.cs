@@ -10,7 +10,7 @@ namespace Player_State
         }
         public override void Enter()
         { 
-            //playerController.GetAnimator().Play("PlayerDeath");
+            playerController.GetAnimator().Play("PlayerDeath");
             playerController.DisableInput();
         }
         public override void Exit()

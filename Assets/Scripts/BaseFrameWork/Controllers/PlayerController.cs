@@ -349,6 +349,7 @@ public class PlayerController : MonoBehaviour
             return;
         }
         isDeathed = true;
+        SetState(new Death(this));
         GameManager.GetInstance().OnPlayerDeath();
     }
 
