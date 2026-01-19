@@ -55,7 +55,7 @@ namespace Assets.Script.Player.States
             else if (playerController.GetMoveVector().y < 0)
             {
                 // Nhấn xuống → trượt xuống
-                climbDirection = playerController.GetMoveVector().y;
+                climbDirection = -1f;
             }
             
             playerController.GetComponent<Rigidbody2D>().linearVelocityY = playerController.WallClimbSpeed * climbDirection;

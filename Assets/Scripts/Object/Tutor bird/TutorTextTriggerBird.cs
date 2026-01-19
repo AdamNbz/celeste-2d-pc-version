@@ -6,30 +6,68 @@ using UnityEngine.UI;
 public class TutorTextTriggerBird : MonoBehaviour
 {
     [SerializeField] string TutorialText;
-
+    bool isVanishing = false;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
         {
             TextMeshPro textMesh = transform.parent.Find("TutorialTextMesh").GetComponent<TextMeshPro>();
-            if (textMesh==null)
+            if (textMesh == null)
             {
                 Debug.Log("Text Mesh Not found");
                 return;
             }
-            textMesh.text = TutorialText;
-            textMesh.gameObject.SetActive(true);
-            textMesh.enableAutoSizing = true;
-            textMesh.fontSizeMin = 0;
-            textMesh.alignment = TextAlignmentOptions.Center;
-            StartCoroutine(TextVanish(3f));
+            SetUpTextMesh(textMesh);
         }
     }
 
-    private IEnumerator TextVanish(float delay)
+    private void SetUpTextMesh(TextMeshPro textMesh)
     {
-        yield return new WaitForSeconds(delay);
+        textMesh.text = TutorialText;
+        textMesh.gameObject.SetActive(true);
+        textMesh.enableAutoSizing = true;
+        textMesh.fontSizeMin = 0;
+        textMesh.alignment = TextAlignmentOptions.Center;
+        if (!isVanishing && textMesh.rectTransform.localScale.x < 1)
+            textMesh.rectTransform.localScale = Vector3.one;
+    }
+
+    private IEnumerator TextVanish()
+    {
+        TextMeshPro textMesh = transform.parent.Find("TutorialTextMesh").GetComponent<TextMeshPro>();
+
+        yield return new WaitUntil(() => textMesh.rectTransform.localScale.x <= 0);
+        isVanishing = false;
+        DeActiveBubble();
+    }
+
+    private void DeActiveBubble()
+    {
         transform.parent.Find("TutorialTextMesh").gameObject.SetActive(false);
+    }
+
+    private void FixedUpdate()
+    {
+        if (isVanishing)
+        {
+            TextMeshPro textMesh = transform.parent.Find("TutorialTextMesh").GetComponent<TextMeshPro>();
+            if (textMesh.gameObject.activeSelf)
+            {
+                textMesh.rectTransform.localScale -= new Vector3(3f, 0, 0) * Time.deltaTime;
+                if (textMesh.rectTransform.localScale.x < 0)
+                {
+                    textMesh.rectTransform.localScale = Vector3.zero;
+                }
+            }
+        }
+    }
+
+    public void RequestTextVanish()
+    {
+        if (isVanishing) return;
+        if(!transform.parent.Find("TutorialTextMesh").gameObject.activeSelf) return;
+        isVanishing = true;
+        StartCoroutine(TextVanish());
     }
 }
