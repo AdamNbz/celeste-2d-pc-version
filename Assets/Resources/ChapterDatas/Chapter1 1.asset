@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Chapter1 1
   m_EditorClassIdentifier: Assembly-CSharp::StaticChaptersData
   name: Chapter1
-  builtIndex: 1
+  builtIndex: 3
   maxStrawberry: 0
-  defaultPlayerPos: {x: -11.84, y: -5.6}
+  defaultPlayerPos: {x: -34.5, y: -4.5}
