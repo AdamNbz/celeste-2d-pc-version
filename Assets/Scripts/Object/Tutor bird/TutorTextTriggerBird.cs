@@ -19,6 +19,8 @@ public class TutorTextTriggerBird : MonoBehaviour
                 return;
             }
             SetUpTextMesh(textMesh);
+            Bird bird = transform.parent.Find("Bird").GetComponent<Bird>();
+            bird.gameObject.SetActive(true);
         }
     }
 
@@ -39,6 +41,8 @@ public class TutorTextTriggerBird : MonoBehaviour
 
         yield return new WaitUntil(() => textMesh.rectTransform.localScale.x <= 0);
         isVanishing = false;
+        Bird bird = transform.parent.Find("Bird").GetComponent<Bird>();
+        bird.OnTextVanishComplete();
         DeActiveBubble();
     }
 
@@ -54,7 +58,7 @@ public class TutorTextTriggerBird : MonoBehaviour
             TextMeshPro textMesh = transform.parent.Find("TutorialTextMesh").GetComponent<TextMeshPro>();
             if (textMesh.gameObject.activeSelf)
             {
-                textMesh.rectTransform.localScale -= new Vector3(3f, 0, 0) * Time.deltaTime;
+                textMesh.rectTransform.localScale -= new Vector3(1f, 0, 0) * Time.deltaTime;
                 if (textMesh.rectTransform.localScale.x < 0)
                 {
                     textMesh.rectTransform.localScale = Vector3.zero;

@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: 7cc6209baf97b4a4a98bfee7ccd15415
+guid: 6d1b607fafc445a479127666a3e68488
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7110255362218091870
-    second: PC _ Computer - Celeste - Non-Playable Characters - Bird_0
-  - first:
-      213: 1075483365907628110
-    second: PC _ Computer - Celeste - Non-Playable Characters - Bird_1
-  - first:
-      213: 2503366879287516641
-    second: PC _ Computer - Celeste - Non-Playable Characters - Bird_2
+      213: 4060421381513243407
+    second: PC _ Computer - Celeste - Non-Playable Characters - Bird3_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -106,67 +100,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PC _ Computer - Celeste - Non-Playable Characters - Bird_0
+      name: PC _ Computer - Celeste - Non-Playable Characters - Bird3_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1568
-        height: 224
+        width: 318
+        height: 23
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2aa9ca87b6c435d90800000000000000
-      internalID: -7110255362218091870
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PC _ Computer - Celeste - Non-Playable Characters - Bird_1
-      rect:
-        serializedVersion: 2
-        x: 1572
-        y: 204
-        width: 20
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e4004c25c62ecee00800000000000000
-      internalID: 1075483365907628110
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PC _ Computer - Celeste - Non-Playable Characters - Bird_2
-      rect:
-        serializedVersion: 2
-        x: 1593
-        y: 204
-        width: 16
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1ed196ec9eebdb220800000000000000
-      internalID: 2503366879287516641
+      spriteID: f0b6f73cbb3895830800000000000000
+      internalID: 4060421381513243407
       vertices: []
       indices: 
       edges: []
@@ -175,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 7c8d22c9078c65d4783c21c29e09cc36
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -183,13 +133,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      PC _ Computer - Celeste - Non-Playable Characters - Bird_0: -7110255362218091870
-      PC _ Computer - Celeste - Non-Playable Characters - Bird_1: 1075483365907628110
-      PC _ Computer - Celeste - Non-Playable Characters - Bird_2: 2503366879287516641
+      PC _ Computer - Celeste - Non-Playable Characters - Bird3_0: 4060421381513243407
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

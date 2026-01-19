@@ -1,16 +1,19 @@
 fileFormatVersion: 2
-guid: 7cc6209baf97b4a4a98bfee7ccd15415
+guid: 4eb718ceaa00c454eb011f711aa69aa5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7110255362218091870
-    second: PC _ Computer - Celeste - Non-Playable Characters - Bird_0
+      213: -4715168227990661221
+    second: PC___Computer_-_Celeste_-_Non-Playable_Characters_-_Bird1-removebg-preview_0
   - first:
-      213: 1075483365907628110
-    second: PC _ Computer - Celeste - Non-Playable Characters - Bird_1
+      213: 565225194786915833
+    second: PC___Computer_-_Celeste_-_Non-Playable_Characters_-_Bird1-removebg-preview_1
   - first:
-      213: 2503366879287516641
-    second: PC _ Computer - Celeste - Non-Playable Characters - Bird_2
+      213: -3497831365163315318
+    second: PC___Computer_-_Celeste_-_Non-Playable_Characters_-_Bird1-removebg-preview_2
+  - first:
+      213: 6967223848959631773
+    second: PC___Computer_-_Celeste_-_Non-Playable_Characters_-_Bird1-removebg-preview_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -57,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -106,13 +109,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PC _ Computer - Celeste - Non-Playable Characters - Bird_0
+      name: PC___Computer_-_Celeste_-_Non-Playable_Characters_-_Bird1-removebg-preview_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1568
-        height: 224
+        width: 32
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2aa9ca87b6c435d90800000000000000
-      internalID: -7110255362218091870
+      spriteID: b97986a8a7b509eb0800000000000000
+      internalID: -4715168227990661221
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC _ Computer - Celeste - Non-Playable Characters - Bird_1
+      name: PC___Computer_-_Celeste_-_Non-Playable_Characters_-_Bird1-removebg-preview_1
       rect:
         serializedVersion: 2
-        x: 1572
-        y: 204
-        width: 20
-        height: 16
+        x: 32
+        y: 0
+        width: 32
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,20 +146,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e4004c25c62ecee00800000000000000
-      internalID: 1075483365907628110
+      spriteID: 9f50069e15518d700800000000000000
+      internalID: 565225194786915833
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC _ Computer - Celeste - Non-Playable Characters - Bird_2
+      name: PC___Computer_-_Celeste_-_Non-Playable_Characters_-_Bird1-removebg-preview_2
       rect:
         serializedVersion: 2
-        x: 1593
-        y: 204
-        width: 16
-        height: 12
+        x: 64
+        y: 0
+        width: 32
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -165,8 +168,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1ed196ec9eebdb220800000000000000
-      internalID: 2503366879287516641
+      spriteID: a8f883bd7e4357fc0800000000000000
+      internalID: -3497831365163315318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC___Computer_-_Celeste_-_Non-Playable_Characters_-_Bird1-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d916edb3d2d80b060800000000000000
+      internalID: 6967223848959631773
       vertices: []
       indices: 
       edges: []
@@ -175,7 +200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 7c8d22c9078c65d4783c21c29e09cc36
+    spriteID: 058fa03b7bf9b174b903e6740a89ba0d
     internalID: 0
     vertices: []
     indices: 
@@ -185,11 +210,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":3.0,"y":-40.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      PC _ Computer - Celeste - Non-Playable Characters - Bird_0: -7110255362218091870
-      PC _ Computer - Celeste - Non-Playable Characters - Bird_1: 1075483365907628110
-      PC _ Computer - Celeste - Non-Playable Characters - Bird_2: 2503366879287516641
+      PC___Computer_-_Celeste_-_Non-Playable_Characters_-_Bird1-removebg-preview_0: -4715168227990661221
+      PC___Computer_-_Celeste_-_Non-Playable_Characters_-_Bird1-removebg-preview_1: 565225194786915833
+      PC___Computer_-_Celeste_-_Non-Playable_Characters_-_Bird1-removebg-preview_2: -3497831365163315318
+      PC___Computer_-_Celeste_-_Non-Playable_Characters_-_Bird1-removebg-preview_3: 6967223848959631773
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
