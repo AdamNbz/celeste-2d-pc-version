@@ -139,7 +139,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: -1139217011
   m_SortingLayer: 4
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -3075210347602833688, guid: 843552dc413f0b747a7c393ce0adfb76, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -293,6 +293,7 @@ MonoBehaviour:
   buffertime: 0.1
   movementSpeed: 10
   jumpForce: 15
+  BaseGravityScale: 3
   maxClimbTime: 1.2
   wallClimbCooldown: 0.5
   wallJumpForce: 1
@@ -398,6 +399,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1162538062755405102}
     m_Modifications:
+    - target: {fileID: 4153695465021437337, guid: 34e224a8893cce640b42ea3b736dc4dd, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5123204419854711371, guid: 34e224a8893cce640b42ea3b736dc4dd, type: 3}
       propertyPath: color.b
       value: 0
