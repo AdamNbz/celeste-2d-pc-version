@@ -2,7 +2,7 @@ using UnityEngine;
 
 public interface IModule
 {
-    public void InitModule();
+    public void AwakeModule();
 }
 
 public interface IConfigModule : IModule

@@ -63,7 +63,7 @@ public class GameManagerRefactor : MonoBehaviour
             return;
         }
         //All Module add in here
-        InitAllModule();
+        AwakeAllModule();
     }
 
     private bool IsValidModuleList()
@@ -97,7 +97,7 @@ public class GameManagerRefactor : MonoBehaviour
         return true;
     }
 
-    private void InitAllModule()
+    private void AwakeAllModule()
     {
         if (!IsValidModuleList())
         {
@@ -105,7 +105,7 @@ public class GameManagerRefactor : MonoBehaviour
         }
         foreach (var module in modules)
         {
-            module.InitModule();
+            module.AwakeModule();
         }
     }
 

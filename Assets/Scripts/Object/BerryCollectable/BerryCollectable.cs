@@ -6,7 +6,7 @@ using UnityEngine;
 
 public class BerryCollectable : MonoBehaviour
 {
-    [SerializeField] string berryId;
+    string berryId;
     Animator animator = null;
     BerryState state;
     BerryState nextState;

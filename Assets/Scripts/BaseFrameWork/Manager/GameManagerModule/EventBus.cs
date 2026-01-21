@@ -1,16 +1,19 @@
 using UnityEngine;
 using System.Collections.Generic;
 using System;
+
+//Anonymous Lambda Function is cannot be unsubscribed if use lamda, use a delegate to wrap it.
 public class EventBus : IModule
 {
     private Dictionary<Type, Action<Event>> eventTable = new Dictionary<Type, Action<Event>>();
-    void IModule.InitModule()
-    {
-        //initialization code here
-    }
 
     public void Subscribe<T>(Action<T> callback) where T : Event
     {
+        if (typeof(T)==typeof(Event))
+        {
+            Debug.LogError("Cannot subscribe to base Event type directly. Please use a derived event type.");
+            return;
+        }
         Type eventType = typeof(T);
         if (!eventTable.ContainsKey(eventType))
         {
@@ -21,6 +24,11 @@ public class EventBus : IModule
 
     public void Unsubscribe<T>(Action<T> callback) where T : Event
     {
+        if (typeof(T) == typeof(Event))
+        {
+            Debug.LogError("Cannot subscribe to base Event type directly. Please use a derived event type.");
+            return;
+        }
         Type eventType = typeof(T);
         if (eventTable.ContainsKey(eventType))
         {
@@ -39,5 +47,10 @@ public class EventBus : IModule
         {
             Debug.LogWarning($"No subscribers for event type {eventType}");
         }
+    }
+
+    void IModule.AwakeModule()
+    {
+       //module awake here  
     }
 }
