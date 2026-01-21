@@ -10,9 +10,23 @@ namespace Player_State
         }
         public override void Enter()
         { 
-            playerController.GetAnimator().Play("PlayerDeath");
             playerController.DisableInput();
+            playerController.StartCoroutine(PlayDeathAnimation());
         }
+        
+        private IEnumerator PlayDeathAnimation()
+        {
+            Animator animator = playerController.GetAnimator();
+            animator.Play("PlayerDeath");
+            
+            yield return null;
+            AnimatorStateInfo stateInfo = animator.GetCurrentAnimatorStateInfo(0);
+            yield return new WaitForSeconds(stateInfo.length);
+            
+            playerController.gameObject.SetActive(false);
+            GameManager.GetInstance().SpawnDeathEffect(playerController.transform.position);
+        }
+        
         public override void Exit()
         {
         }
@@ -22,7 +36,5 @@ namespace Player_State
         public override void Update()
         {
         }
-        
-        
     }
 }
