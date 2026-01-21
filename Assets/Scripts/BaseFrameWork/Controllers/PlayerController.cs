@@ -225,11 +225,15 @@ public class PlayerController : MonoBehaviour
 
     // if anyone use this for better logic refactor all the jump to seperate between ground jump and air jump
     public bool HandleJump()
-    {  
+    {
         if (jumpbuffer>0&&jumpcount<2)
         {
+
             jumpcount++;
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+
+            AudioManager.Instance.PlayPlayerSFX("baby_hop_05");
+
             SetState(new Jump(this));
             jumpbuffer = 0;
             return true;

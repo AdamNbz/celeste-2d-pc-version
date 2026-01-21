@@ -18489,6 +18489,7 @@ GameObject:
   - component: {fileID: 1611651955}
   - component: {fileID: 1611651954}
   - component: {fileID: 1611651953}
+  - component: {fileID: 1611651959}
   m_Layer: 0
   m_Name: CinemachineCamera
   m_TagString: MainCamera
@@ -18715,6 +18716,14 @@ MonoBehaviour:
       BarrelClipping: 0.25
       Anamorphism: 0
   BlendHint: 0
+--- !u!81 &1611651959
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1611651951}
+  m_Enabled: 1
 --- !u!1 &1830362381
 GameObject:
   m_ObjectHideFlags: 0
