@@ -14,7 +14,49 @@ PC version clone of Celeste 2D, a 2018 platform video game with its original gam
 
 ## Features
 
-- ...
+- **Platformer Mechanics**
+  - Smooth movement and jumping
+  - Dash ability (left/right directional)
+  - Wall climbing and wall jump
+  - Coyote time and jump buffering for responsive controls
+
+- **Save System**
+  - 3 save slots (save01.txt, save02.txt, save03.txt)
+  - Auto-save progress at checkpoints
+  - Persistent strawberry collection tracking per chapter
+
+- **Chapters & Progression**
+  - Multiple chapters (Prologue, Chapter 1, etc.)
+  - Checkpoint system for respawning
+  - Chapter unlock progression
+
+- **Collectibles**
+  - Strawberries/Berries scattered throughout levels
+  - Collection counter UI display
+  - Save-persistent collection status
+
+- **Visual Effects**
+  - Dynamic hair physics movement
+  - Death particle effects
+  - Landing effects
+  - Smooth animations (idle, walk, jump, dash, climb, death)
+
+- **Audio**
+  - Sound effects for movement (footsteps, jump, dash)
+  - Death and respawn sounds
+  - Berry pickup sounds
+  - Bird fly away sound
+  - Chapter complete music
+
+- **UI System**
+  - Main menu with save slot selection
+  - Pause menu (ESC to toggle)
+  - Level complete screen
+  - Berry count display
+
+- **Tutorial System**
+  - Tutorial bird with text bubbles
+  - Interactive triggers for learning game mechanics
 
 
 ## Demo
