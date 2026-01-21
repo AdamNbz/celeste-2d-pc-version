@@ -45,6 +45,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
   playerPrefab: {fileID: 7682306633247003697, guid: dd8dd688691bb244485cbdb4b833c9ef, type: 3}
+  deathEffectPrefab: {fileID: 8944366316737111280, guid: 06c4bf7252cf8b74a8ee5c16019cae6b, type: 3}
   reload:
     m_Name: Reload
     m_Type: 0

@@ -33,7 +33,6 @@ public class PlayerController : MonoBehaviour
     [Header("Hair")]
     [SerializeField] Sinx.HairMovement hairMovement;
 
-
     // private fields
     PlayerData data;
     bool isDeathed = false;

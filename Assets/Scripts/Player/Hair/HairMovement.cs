@@ -124,14 +124,10 @@ public class HairMovement : MonoBehaviour {
     void UpdateFlipFromPlayerScale() {
         if (!followPlayerScale || playerTransform == null) return;
         
-        // Hair là child của player, nên khi player.localScale.x = -1, hair cũng bị flip theo
-        // Để giữ lossyScale.x của hair luôn dương, cần set localScale.x = sign của parent
-        // Ví dụ: player.scale.x = -1, hair.localScale.x = -1 => lossyScale.x = -1 * -1 = 1
         float parentScaleSign = Mathf.Sign(playerTransform.localScale.x);
         float currentScaleX = transform.localScale.x;
         float newScaleX = Mathf.Abs(currentScaleX) * parentScaleSign;
         
-        // Nếu scale.x thay đổi dấu, flip tất cả offset.x của hair blobs
         if (Mathf.Sign(currentScaleX) != Mathf.Sign(newScaleX)) {
             for (int i = 0; i < hairBlobs.Count; i++) {
                 hairBlobs[i].offset.x *= -1f;
@@ -168,7 +164,6 @@ public class HairMovement : MonoBehaviour {
         spriteRenderer = GetComponent<SpriteRenderer>();
         InitializeBlobs();
         
-        // Tự động tìm player transform nếu chưa gán
         if (playerTransform == null) {
             playerTransform = transform.parent;
         }
@@ -186,7 +181,6 @@ public class HairMovement : MonoBehaviour {
         }
 
     }
-
 
     void OnDrawGizmos() {
         if (showGizmos) {

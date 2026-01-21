@@ -1,6 +1,7 @@
 using NUnit.Framework;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.InputSystem;
 using Unity.VisualScripting;
@@ -9,6 +10,7 @@ public class GameManager : MonoBehaviour
 {
     [Header("Game Manager Settings")]
     [SerializeField]private PlayerController playerPrefab;
+    [SerializeField] private ParticleSystem deathEffectPrefab;
     [SerializeField] InputAction reload;
     private static GameManager __instance;
     
@@ -298,8 +300,20 @@ public class GameManager : MonoBehaviour
             return;
         }
         player.SetState(new Player_State.Death(player));
-        GameManager.GetInstance().SpawnPlayerAfterADelay(2f);
+        
+        // Respawn player after delay (animation + effect time)
         StartCoroutine(SpawnPlayerAfterDelayCoroutine(2f));
+    }
+
+    public void SpawnDeathEffect(Vector3 position)
+    {
+        if(deathEffectPrefab != null)
+        {
+            ParticleSystem deathEffect = Instantiate(deathEffectPrefab, position, Quaternion.identity);
+            deathEffect.Play();
+            Destroy(deathEffect.gameObject, 2f);
+        }
+        StartCoroutine(SpawnPlayerAfterDelayCoroutine(1.5f));
     }
     public void CreateNewSaveSlot(int slotID)
     {

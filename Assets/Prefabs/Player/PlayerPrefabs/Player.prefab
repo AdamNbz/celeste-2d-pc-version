@@ -138,8 +138,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: -1139217011
-  m_SortingLayer: 4
-  m_SortingOrder: 1
+  m_SortingLayer: 5
+  m_SortingOrder: 0
   m_Sprite: {fileID: -3075210347602833688, guid: 843552dc413f0b747a7c393ce0adfb76, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -400,8 +400,16 @@ PrefabInstance:
     m_TransformParent: {fileID: 1162538062755405102}
     m_Modifications:
     - target: {fileID: 4153695465021437337, guid: 34e224a8893cce640b42ea3b736dc4dd, type: 3}
-      propertyPath: m_Sprite
-      value: 
+      propertyPath: m_SortingLayer
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4153695465021437337, guid: 34e224a8893cce640b42ea3b736dc4dd, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 1736494543
+      objectReference: {fileID: 0}
+    - target: {fileID: 4153695465021437337, guid: 34e224a8893cce640b42ea3b736dc4dd, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5123204419854711371, guid: 34e224a8893cce640b42ea3b736dc4dd, type: 3}
       propertyPath: color.b
@@ -421,35 +429,35 @@ PrefabInstance:
       objectReference: {fileID: 1162538062755405102}
     - target: {fileID: 5123204419854711371, guid: 34e224a8893cce640b42ea3b736dc4dd, type: 3}
       propertyPath: hairBlobs.Array.data[0].position.x
-      value: -6.742
+      value: -11.482
       objectReference: {fileID: 0}
     - target: {fileID: 5123204419854711371, guid: 34e224a8893cce640b42ea3b736dc4dd, type: 3}
       propertyPath: hairBlobs.Array.data[0].position.y
-      value: 1.251
+      value: -5.499
       objectReference: {fileID: 0}
     - target: {fileID: 5123204419854711371, guid: 34e224a8893cce640b42ea3b736dc4dd, type: 3}
       propertyPath: hairBlobs.Array.data[1].position.x
-      value: -7.052
+      value: -11.792001
       objectReference: {fileID: 0}
     - target: {fileID: 5123204419854711371, guid: 34e224a8893cce640b42ea3b736dc4dd, type: 3}
       propertyPath: hairBlobs.Array.data[1].position.y
-      value: 0.781
+      value: -5.969
       objectReference: {fileID: 0}
     - target: {fileID: 5123204419854711371, guid: 34e224a8893cce640b42ea3b736dc4dd, type: 3}
       propertyPath: hairBlobs.Array.data[2].position.x
-      value: -7.2320004
+      value: -11.972
       objectReference: {fileID: 0}
     - target: {fileID: 5123204419854711371, guid: 34e224a8893cce640b42ea3b736dc4dd, type: 3}
       propertyPath: hairBlobs.Array.data[2].position.y
-      value: 0.12100005
+      value: -6.629
       objectReference: {fileID: 0}
     - target: {fileID: 5123204419854711371, guid: 34e224a8893cce640b42ea3b736dc4dd, type: 3}
       propertyPath: hairBlobs.Array.data[3].position.x
-      value: -7.352
+      value: -12.092
       objectReference: {fileID: 0}
     - target: {fileID: 5123204419854711371, guid: 34e224a8893cce640b42ea3b736dc4dd, type: 3}
       propertyPath: hairBlobs.Array.data[3].position.y
-      value: -0.39899993
+      value: -7.149
       objectReference: {fileID: 0}
     - target: {fileID: 7943182689372936390, guid: 34e224a8893cce640b42ea3b736dc4dd, type: 3}
       propertyPath: m_Name
