@@ -10,13 +10,9 @@ public class FlyTrigger : MonoBehaviour
             {
                 TutorTextTriggerBird tutorTextTriggerBird = transform.parent.Find("TutorialShowTrigger").GetComponent<TutorTextTriggerBird>();
                 tutorTextTriggerBird.RequestTextVanish();
-                Fly();
+                Bird bird = transform.parent.Find("Bird").GetComponent<Bird>();
+                bird.Fly();
             }
         }
-    }
-
-    private void Fly()
-    {
-
     }
 }

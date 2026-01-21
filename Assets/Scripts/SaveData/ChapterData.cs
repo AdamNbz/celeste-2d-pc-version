@@ -15,7 +15,6 @@ namespace Assets.Script.SaveData
         [SerializeField] float timetofinish = -1;
         [SerializeField] List<StrawberryData> strawberries = new List<StrawberryData>();
         [SerializeField] int Death=0;
-        [SerializeField] int strawberryCollected = 0;
         [SerializeField] bool isUnlocked=false;
 
         public void UnlockChapter()
@@ -68,12 +67,6 @@ namespace Assets.Script.SaveData
         {
             Death++;
         }
-
-        public void CollectStrawberry()
-        {
-            strawberryCollected++;
-        }
-        public int StrawberryCollected => strawberryCollected;
         public int DeathCount => Death;
         public string Name => name;
         public void SetName(string name)
@@ -84,9 +77,19 @@ namespace Assets.Script.SaveData
         public void ReturnToDefault()
         {
             timetofinish = -1;
-            strawberryCollected = 0;
             Death = 0;
             strawberries.Clear();
+        }
+
+        public int GetNumberOfStrawberriesCollected()
+        {
+            int count = 0;
+            foreach(var strawberry in strawberries)
+            {
+                if (strawberry.IsCollected())
+                    count++;
+            }
+            return count;
         }
     }
 }

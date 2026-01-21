@@ -6,7 +6,6 @@ using UnityEngine;
 
 public class BerryCollectable : MonoBehaviour
 {
-    [SerializeField] string berryId;
     Animator animator = null;
     BerryState state;
     BerryState nextState;
@@ -20,10 +19,9 @@ public class BerryCollectable : MonoBehaviour
         animator = GetComponent<Animator>();
         if(animator == null)
         {
-            Debug.LogError("Berry's animator is null");
+            Debug.Log("Berry's animator is null");
         }
         SetState(new Idle(this));
-        data = new StrawberryData(berryId);
     }
 
     public void SetState(BerryState newState)
@@ -50,11 +48,17 @@ public class BerryCollectable : MonoBehaviour
         {
             HandleOnCollect();
             data.SetCollect(true);
+            gameObject.SetActive(false);
         }
     }
 
     private void HandleOnCollect()
     {
         SetState(new Collected(this));
+    }
+
+    public void SetData(StrawberryData data)
+    {
+        this.data = data;
     }
 }
