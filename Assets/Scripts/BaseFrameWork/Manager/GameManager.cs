@@ -11,8 +11,12 @@ public class GameManager : MonoBehaviour
     [Header("Game Manager Settings")]
     [SerializeField]private PlayerController playerPrefab;
     [SerializeField] private ParticleSystem deathEffectPrefab;
+    private GameObject levelCompleteCanvas;
+    private GameObject pauseMenuCanvas;
     [SerializeField] InputAction reload;
+    [SerializeField] InputAction pauseAction;
     private static GameManager __instance;
+    private bool isPaused = false;
     
     [Header("SaveSlot")]
     SaveSlot currentSaveSlot;
@@ -48,12 +52,60 @@ public class GameManager : MonoBehaviour
             __instance = this;
             DontDestroyOnLoad(this.gameObject);
             reload.Enable();
+            pauseAction.Enable();
+            pauseAction.performed += _ => TogglePauseMenu();
         }
         else
         {
             Destroy(this.gameObject);
         }
         
+    }
+
+    private void FindCanvasesByTag()
+    {
+        // FindObjectsByType with includeInactive to find inactive objects too
+        GameObject[] allObjects = Resources.FindObjectsOfTypeAll<GameObject>();
+        foreach (GameObject obj in allObjects)
+        {
+            if (obj.scene.isLoaded) // Only objects in loaded scenes
+            {
+                if (obj.CompareTag("Victory"))
+                {
+                    levelCompleteCanvas = obj;
+                }
+                else if (obj.CompareTag("Pause"))
+                {
+                    pauseMenuCanvas = obj;
+                }
+            }
+        }
+    }
+
+    private void OnEnable()
+    {
+        SceneManager.sceneLoaded += OnSceneLoaded;
+    }
+
+    private void OnDisable()
+    {
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+
+    private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        FindCanvasesByTag();
+    }
+
+    public void TogglePauseMenu()
+    {
+        if (pauseMenuCanvas == null) return;
+        
+        isPaused = !isPaused;
+        pauseMenuCanvas.SetActive(isPaused);
+        
+        // Freeze/unfreeze game
+        Time.timeScale = isPaused ? 0f : 1f;
     }
 
     public void LoadSlot(int slotID)
@@ -223,6 +275,31 @@ public class GameManager : MonoBehaviour
         currentPlayingStatus = PlayingChapterStatus.Playing;
     }
 
+    public void ReturnToMainMenu()
+    {
+        // Save current progress
+        SaveSlot(currentSaveSlot.SlotID);
+        
+        // Reset pause state if paused
+        if (isPaused)
+        {
+            isPaused = false;
+            Time.timeScale = 1f;
+            if (pauseMenuCanvas != null)
+                pauseMenuCanvas.SetActive(false);
+        }
+        
+        // Destroy current player
+        if (player != null)
+        {
+            Destroy(player.gameObject);
+            player = null;
+        }
+        
+        // Load main menu scene
+        SceneManager.LoadScene("MainMenu");
+    }
+
     public enum PlayingChapterStatus
     {
         ChapterEnding,
@@ -253,6 +330,16 @@ public class GameManager : MonoBehaviour
         {
             currentPlayingStatus = PlayingChapterStatus.ChapterEnding;
             player.DisableInput();
+            
+            // Play level complete audio
+            AudioManager.Instance.PlayPlayerSFX("altitudecount");
+            
+            // Activate level complete canvas
+            if (levelCompleteCanvas != null)
+            {
+                levelCompleteCanvas.SetActive(true);
+            }
+            
             Invoke("ChapterEnded", 1.5f);
             StartCoroutine(ChangeSceneAfterADelay(nextSceneName, 3f));
         }
@@ -301,6 +388,9 @@ public class GameManager : MonoBehaviour
         }
         player.SetState(new Player_State.Death(player));
         
+        // Play death sound effect
+        AudioManager.Instance.PlayPlayerSFX("death");
+        
         // Respawn player after delay (animation + effect time)
         StartCoroutine(SpawnPlayerAfterDelayCoroutine(2f));
     }
@@ -320,6 +410,10 @@ public class GameManager : MonoBehaviour
         SaveSlot newSaveSlot = new SaveSlot(slotID);
         currentSaveSlot = newSaveSlot;
         newSaveSlot.SaveToFile();
+        
+        // Play save file begin sound effect
+        AudioManager.Instance.PlayPlayerSFX("ui_main_savefile_begin");
+        
         ChangeScene("Prologue");
         Debug.Log("Created new save slot with ID: " + slotID);
     }

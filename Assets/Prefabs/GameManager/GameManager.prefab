@@ -46,6 +46,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
   playerPrefab: {fileID: 7682306633247003697, guid: dd8dd688691bb244485cbdb4b833c9ef, type: 3}
   deathEffectPrefab: {fileID: 8944366316737111280, guid: 06c4bf7252cf8b74a8ee5c16019cae6b, type: 3}
+  levelCompleteCanvas: {fileID: 0}
+  pauseMenuCanvas: {fileID: 0}
   reload:
     m_Name: Reload
     m_Type: 0
@@ -55,11 +57,28 @@ MonoBehaviour:
     m_Interactions: 
     m_SingletonActionBindings:
     - m_Name: 
-      m_Id: 03f40e18-cc98-4833-be5e-21595c1c1a3e
+      m_Id: 803c21c4-79fa-40d5-a0e6-06cbeafd2c45
       m_Path: <Keyboard>/r
       m_Interactions: 
       m_Processors: 
       m_Groups: 
       m_Action: Reload
+      m_Flags: 0
+    m_Flags: 0
+  pauseAction:
+    m_Name: Pause
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: 452c3436-9b10-45c7-9cf2-82b5061508bd
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings:
+    - m_Name: 
+      m_Id: 8645b6f1-4837-4113-ae63-81f47bf47e12
+      m_Path: <Keyboard>/escape
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Pause
       m_Flags: 0
     m_Flags: 0

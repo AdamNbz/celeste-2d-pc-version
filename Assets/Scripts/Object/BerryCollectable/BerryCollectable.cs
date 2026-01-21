@@ -48,6 +48,14 @@ public class BerryCollectable : MonoBehaviour
         {
             HandleOnCollect();
             data.SetCollect(true);
+            if (gameObject.activeInHierarchy) AudioManager.Instance.PlayPlayerSFX("PickUp");
+            
+            // Update berry count display
+            if (BerryCountDisplay.Instance != null)
+            {
+                BerryCountDisplay.Instance.UpdateBerryCount();
+            }
+            
             gameObject.SetActive(false);
         }
     }

@@ -8,6 +8,8 @@ TagManager:
   - PlayerHandPosition
   - PlayerFootPosition
   - Hair
+  - Pause
+  - Victory
   layers:
   - Default
   - TransparentFX

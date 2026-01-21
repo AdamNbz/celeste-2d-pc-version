@@ -20,7 +20,17 @@ namespace Player_State
             playerController.TurnOffDashAble();
             previousSpeed =playerController.GetObjectVelocity().x / playerController.Direction;
             playerController.SetObjectVelocity(playerController.dashSpeed*playerController.Direction, 0);
-            playerController.GetComponent<Rigidbody2D>().gravityScale = 0f; 
+            playerController.GetComponent<Rigidbody2D>().gravityScale = 0f;
+            
+            // Play dash audio based on direction
+            if (playerController.Direction > 0)
+            {
+                AudioManager.Instance.PlayPlayerSFX("dash_red_right");
+            }
+            else
+            {
+                AudioManager.Instance.PlayPlayerSFX("dash_red_left");
+            }
         }
 
         public override void Exit()

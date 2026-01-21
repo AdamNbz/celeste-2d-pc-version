@@ -85,6 +85,9 @@ public class Bird : MonoBehaviour
         FaceOriginalDirection();
         currentState = State.FlyingUp;
         isIdle = false;
+        
+        // Play fly away sound effect
+        if (gameObject.activeInHierarchy) AudioManager.Instance.PlayPlayerSFX("baby_flyaway_01");
     }
 
     public void ResetBird()
