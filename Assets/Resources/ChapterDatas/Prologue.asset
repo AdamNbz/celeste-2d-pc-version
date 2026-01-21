@@ -15,4 +15,4 @@ MonoBehaviour:
   name: Prologue
   builtIndex: 2
   maxStrawberry: 0
-  defaultPlayerPos: {x: 2, y: 10}
+  defaultPlayerPos: {x: 2, y: 5}

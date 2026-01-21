@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: MainMenu
   m_EditorClassIdentifier: Assembly-CSharp::StaticChaptersData
   name: MainMenu
-  builtIndex: 3
+  builtIndex: 0
   maxStrawberry: 0
   defaultPlayerPos: {x: 0, y: 0}
