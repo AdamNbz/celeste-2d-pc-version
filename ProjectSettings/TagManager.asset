@@ -63,5 +63,8 @@ TagManager:
   - name: FX
     uniqueID: 4259160787
     locked: 0
+  - name: Collectibles
+    uniqueID: 1877706801
+    locked: 0
   m_RenderingLayers:
   - Default

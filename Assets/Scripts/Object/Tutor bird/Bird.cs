@@ -19,6 +19,12 @@ public class Bird : MonoBehaviour
     private float flyUpSpeed = 2f;
     private float flySpeed = 5f;
     private float flyUpHeight = 3f;
+    private Vector3 originalScale;
+
+    private void Awake()
+    {
+        originalScale = transform.localScale;
+    }
 
     private void Update()
     {
@@ -27,7 +33,6 @@ public class Bird : MonoBehaviour
             case State.Idle:
                 if (!isIdle)
                 {
-                    // Idle behavior here
                     isIdle = true;
                 }
                 break;
@@ -49,8 +54,35 @@ public class Bird : MonoBehaviour
         }
     }
     
+    /// <summary>
+    /// Make the bird face towards a target position (flip horizontally)
+    /// </summary>
+    public void LookAtTarget(Vector3 targetPosition)
+    {
+        // If target is to the left of bird, flip to face left (negative scale)
+        // If target is to the right, face right (positive scale)
+        if (targetPosition.x < transform.position.x)
+        {
+            transform.localScale = new Vector3(-Mathf.Abs(originalScale.x), originalScale.y, originalScale.z);
+        }
+        else
+        {
+            transform.localScale = new Vector3(Mathf.Abs(originalScale.x), originalScale.y, originalScale.z);
+        }
+    }
+
+    /// <summary>
+    /// Reset bird to face original direction (right)
+    /// </summary>
+    public void FaceOriginalDirection()
+    {
+        transform.localScale = originalScale;
+    }
+    
     public void Fly()
     {
+        // Face original direction (right) before flying
+        FaceOriginalDirection();
         currentState = State.FlyingUp;
         isIdle = false;
     }
@@ -59,6 +91,7 @@ public class Bird : MonoBehaviour
     {
         currentState = State.Idle;
         isIdle = false;
+        transform.localScale = originalScale;
         transform.position = transform.parent.Find("FlyTrigger").position;
     }
 

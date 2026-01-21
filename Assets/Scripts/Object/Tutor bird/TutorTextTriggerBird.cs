@@ -24,6 +24,8 @@ public class TutorTextTriggerBird : MonoBehaviour
             {
                 Debug.Log("Activate Bird");
                 bird.gameObject.SetActive(true);
+                // Make bird face towards player
+                bird.LookAtTarget(collision.transform.position);
             }
         }
     }
