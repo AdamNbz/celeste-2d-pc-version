@@ -18,10 +18,10 @@ public class GameManagerRefactor : MonoBehaviour
     {
         get
         {
-            if(instance == null)
+            if (instance == null)
             {
                 instance = FindAnyObjectByType<GameManagerRefactor>();
-                if(instance == null)
+                if (instance == null)
                 {
                     GameObject singletonObject = new GameObject();
                     instance = singletonObject.AddComponent<GameManagerRefactor>();
@@ -52,7 +52,7 @@ public class GameManagerRefactor : MonoBehaviour
 
     private void Awake()
     {
-        if(instance == null)
+        if (instance == null)
         {
             instance = this;
             DontDestroyOnLoad(this.gameObject);
@@ -89,7 +89,7 @@ public class GameManagerRefactor : MonoBehaviour
                     count++;
                 }
             }
-            if (count!=1)
+            if (count != 1)
             {
                 return false;
             }
@@ -112,7 +112,7 @@ public class GameManagerRefactor : MonoBehaviour
     private void ReBuildModuleList()
     {
         modules.Clear();
-        foreach(var moduleType in moduleTypeList)
+        foreach (var moduleType in moduleTypeList)
         {
             if (!typeof(IModule).IsAssignableFrom(moduleType))
             {
@@ -126,6 +126,39 @@ public class GameManagerRefactor : MonoBehaviour
 
             IModule moduleInstance = (IModule)Activator.CreateInstance(moduleType);
             modules.Add(moduleInstance);
+        }
+    }
+
+    private void Update()
+    {
+        for (int i = 0; i < modules.Count; i++)
+        {
+            if (modules[i] is IUpdateModule updateModule)
+            {
+                updateModule.UpdateModule();
+            }
+        }
+    }
+
+    private void FixedUpdate()
+    {
+        for (int i = 0; i < modules.Count; i++)
+        {
+            if (modules[i] is IFixedUpdateModule fixedUpdateModule)
+            {
+                fixedUpdateModule.FixedUpdateModule();
+            }
+        }
+    }
+
+    private void LateUpdate()
+    {
+        for (int i = 0; i < modules.Count; i++)
+        {
+            if (modules[i] is ILateUpdateModule lateUpdateModule)
+            {
+                lateUpdateModule.LateUpdateModule();
+            }
         }
     }
 }
