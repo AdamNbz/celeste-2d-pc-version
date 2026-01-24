@@ -15,11 +15,24 @@ public class InputManager : IConfigModule,IFixedUpdateModule
     public void AwakeModule()
     {
         LoadModuleConfig();
+        ResetToDefault();
+        foreach(var mapping in actionlist)
+        {
+            mapping.inputAction.Enable();
+        }
         var eventBus = GameManagerRefactor.Instance.GetModule<EventBus>();
         eventBus.Subscribe<UnpauseGameEvent>(OnGameResume);
         eventBus.Subscribe<PauseGameEvent>(OnGamePaused);
     }
 
+    public void ClearActionBindings(string actionName)
+    {
+        var action = actionlist.Find(x => x.actionName == actionName)?.inputAction;
+        if (action != null)
+        {
+            action.RemoveAllBindingOverrides();
+        }
+    }
     public void StartListeningForKey(string actionName)
     {
         if (capturingKey) return;
@@ -40,6 +53,7 @@ public class InputManager : IConfigModule,IFixedUpdateModule
         )
         .CallOnce(control =>
         {
+            Debug.Log("Listening");
             if (control.path == "<Keyboard>/escape")
             {
                 capturingKey = false;
@@ -47,6 +61,7 @@ public class InputManager : IConfigModule,IFixedUpdateModule
             }
             AddKey(actionName, control);
             capturingKey = false;
+            GameManagerRefactor.Instance.GetModule<GameStateHolderModule>().ChangeStateRequest(new Playing());
         });
     }
 
@@ -83,12 +98,14 @@ public class InputManager : IConfigModule,IFixedUpdateModule
         
         if (action!=null)
         {
+            Debug.Log(input.name);
             foreach (var binding in action.bindings)
             {
                 if (binding.effectivePath == input.path)
                     return;
             }
             action.AddBinding(input.path);
+            Debug.Log(action);
         }
         else
         {
@@ -98,12 +115,12 @@ public class InputManager : IConfigModule,IFixedUpdateModule
 
     public void SaveModuleConfig()
     {
-        throw new System.NotImplementedException();
+        
     }
 
     public void LoadModuleConfig()
     {
-        throw new System.NotImplementedException();
+        
     }
 
     public void FixedUpdateModule()
@@ -112,7 +129,10 @@ public class InputManager : IConfigModule,IFixedUpdateModule
         {
             return;
         }
-        if (isInputEnable==false)
+        else
+        {
+        }
+        if (isInputEnable == false)
         {
             return;
         }

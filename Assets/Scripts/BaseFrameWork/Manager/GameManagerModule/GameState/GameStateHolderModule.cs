@@ -2,7 +2,7 @@ using UnityEngine;
 //this for unity timescale independent game control component
 using GameState;
 using GameStateEvent;
-public class GameStateHolderModule : IFixedUpdateModule
+public class GameStateHolderModule : IUpdateModule
 {
     GameState.GameState currentGameState =new Playing() ;
     GameState.GameState nextGameState = new Playing();
@@ -23,18 +23,18 @@ public class GameStateHolderModule : IFixedUpdateModule
     }
 
     void OnChangeStateConfirmed()
-    {
-        Debug.Log("Game State Changed to: " + nextGameState.GetStateName());
+    { 
         currentGameState.OnStateExit();
         nextGameState.OnStateEnter();
         currentGameState = nextGameState;
 
     }
 
-    void IFixedUpdateModule.FixedUpdateModule()
+    void IUpdateModule.UpdateModule()
     {
         if (currentGameState.GetStateName()!=nextGameState.GetStateName())
         {
+            Debug.Log("Game State Change Confirmed to: " + nextGameState.GetStateName());
             OnChangeStateConfirmed();
         }
     }

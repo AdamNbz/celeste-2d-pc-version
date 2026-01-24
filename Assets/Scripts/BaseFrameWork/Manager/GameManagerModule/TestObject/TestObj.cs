@@ -9,12 +9,17 @@ public class TestObj : MonoBehaviour
     {
         GameManagerRefactor.Instance.GetModule<EventBus>().Subscribe<PauseGameEvent>(OnPause);
         GameManagerRefactor.Instance.GetModule<GameStateHolderModule>()?.ChangeStateRequest(new Paused());
+        GameManagerRefactor.Instance.GetModule<InputManager>().StartListeningForKey("Up");
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        if (GameManagerRefactor.Instance.GetModule<InputManager>().GetGamePlayAction("Up")!=null)
+        {
+            if (GameManagerRefactor.Instance.GetModule<InputManager>().GetGamePlayAction("Up").WasPressedThisFrame())
+                Debug.Log("Pressed");
+        }
     }
 
     void OnPause(PauseGameEvent e)

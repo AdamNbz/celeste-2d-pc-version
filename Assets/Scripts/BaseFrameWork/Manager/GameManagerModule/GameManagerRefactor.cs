@@ -14,6 +14,7 @@ public class GameManagerRefactor : MonoBehaviour
     {
         typeof(EventBus),
         typeof(GameStateHolderModule),
+        typeof(InputManager)
         // Add other module types here
     };
 
