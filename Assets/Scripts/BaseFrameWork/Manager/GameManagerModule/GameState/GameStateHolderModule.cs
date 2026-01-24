@@ -17,6 +17,11 @@ public class GameStateHolderModule : IFixedUpdateModule
         nextGameState = gameState;
     }
 
+    public GameState.GameState GetGameState()
+    {
+        return currentGameState;
+    }
+
     void OnChangeStateConfirmed()
     {
         Debug.Log("Game State Changed to: " + nextGameState.GetStateName());

@@ -7,13 +7,21 @@ public class GameManagerRefactor : MonoBehaviour
 {
     private List<IModule> modules = new List<IModule>();
     private static GameManagerRefactor instance;
+    [SerializeField] InputManagerDefaultSetting inputDefaultSetting;
     private GameManagerRefactor() { }
 
     private List<Type> moduleTypeList = new List<Type>()
     {
         typeof(EventBus),
+        typeof(GameStateHolderModule),
         // Add other module types here
     };
+
+    public InputManagerDefaultSetting GetInputDefault()
+    {
+        return inputDefaultSetting;
+    }
+
     public static GameManagerRefactor Instance
     {
         get

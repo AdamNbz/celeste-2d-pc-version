@@ -208,7 +208,7 @@ MonoBehaviour:
       m_Flags: 4
     - m_Name: up
       m_Id: 8bb78573-74d2-4167-831f-911c42dfa5a8
-      m_Path: <Keyboard>/upArrow
+      m_Path: <Keyboard>/w
       m_Interactions: 
       m_Processors: 
       m_Groups: 
